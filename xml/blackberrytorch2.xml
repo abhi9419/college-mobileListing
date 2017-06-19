@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>blackberrytorch2</short_name>
+          <mobile_name>Blackberry Torch 2</mobile_name>
+          <price> Rs 26000</price>
+          <os>Blackberry OS 7.0</os>
+          <upgradable>----</upgradable>
+          <cpu>1.2 GHz processor</cpu>
+          <chipset>----</chipset>
+          <gpu>----</gpu>
+          <radio>No</radio>
+          <jack>Present</jack>
+          <pcamera>Yes,5MP with auto-focus and LED flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>4 GB</imemory>
+          <ram>768 MB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 850 / 900 / 1900 / 2100</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>111mm x 61.9mm x 14.5mm</dimension>
+          <weight>161 g</weight>
+          <screen_type>TFT Capacitive touch screen</screen_type>
+          <resolution>480 x 640</resolution>
+          <battery>1300 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes,v2.1</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 b/g/n</wifi>
+          <gps>Yes</gps>
+          <other>Digital Compass,Voice Memo/Dial,Document Editor</other>
+          <wbuy>Pick 7.5/10</wbuy>
+          <video>DMXnukLNQno</video>  
+          
+    
+        <image>
+          <a>blackberrytorch2.png</a>
+        </image>
+        <image>
+          <a>blackberrytorch21.png</a>
+        </image>
+        <image>
+          <a>blackberrytorch22.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

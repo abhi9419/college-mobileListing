@@ -1,0 +1,49 @@
+<mobiles>
+        <mobile>
+          <short_name>samsunggalaxypopcdma</short_name>
+          <mobile_name>Samsung Galaxy Pop CDMA</mobile_name>
+          <price> Rs 8000</price>
+          <os>Andriod Os, v2.2(Froyo)</os>
+          <upgradable>----</upgradable>
+          <cpu>800 MHz processor</cpu>
+          <chipset>----</chipset>
+          <gpu>----</gpu>
+          <radio>Present</radio>
+          <jack>Yes</jack>
+          <pcamera>Yes,3.15MP </pcamera>
+          <scamera>No</scamera>
+          <imemory>384 MB</imemory>
+          <ram>----</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>CDMA 800</twog>
+          <threeg>CDMA2000 1xEV-DO</threeg>
+          <fourg>----</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,CDMA only</ssim>
+          <dimension>110.4m x 60.6mm x 12.1mm</dimension>
+          <weight>105g</weight>
+          <screen_type>TFT Capacitive Touchscreen</screen_type>
+          <resolution>240X320 pixels</resolution>
+          <battery>1200 mAh</battery>
+          <flash>No</flash>
+          <nfc>No</nfc>
+          <bluetooth>Yes,v2.1</bluetooth>
+          <wifi>No</wifi>
+          <gps>Yes</gps>
+          <other>Facebook,Twitter,Picasa integration,Google Talk</other>
+          <wbuy>Drop 5/10</wbuy>
+          <video>8PWfAtNLR0c</video>  
+          
+    
+        <image>
+          <a>samsunggalaxypopcdma.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxypopcdma1.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxypopcdma2.png</a>
+        </image>
+        
+        </mobile>
+</mobiles>

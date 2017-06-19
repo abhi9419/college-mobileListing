@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<mobiles>
+        <mobile>
+          <short_name>samsunggalaxys4</short_name>
+          <mobile_name>Samsung Galaxy S4</mobile_name>
+          <price>36500</price>
+          <os>Android 4.2.2 Jelly Bean</os>
+          <upgradable>-----</upgradable>
+          <cpu>1.6 Quad core And 1.2 Quad Core Processor</cpu>
+          <chipset>Exynos 5 Octa </chipset>
+          <gpu>Power VR SGX 544 MP3</gpu>
+          <radio>Present</radio>
+          <jack>Present</jack>
+          <pcamera>Yes,13MP with auto-focus and LED Flash</pcamera>
+          <scamera>Yes,2MP</scamera>
+          <imemory>16 GB/32 GB/64 GB</imemory>
+          <ram>2 GB</ram>
+          <mcard>Expandable upto 64 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 850 / 900 / 1900 / 2100</threeg>
+          <fourg>Available</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM micro only.</ssim>
+          <dimension>136.6mm x 69.8mm x 7.9mm</dimension>
+          <weight>130 g</weight>
+          <screen_type>Super Amoled screen with Gorilla Glass 3 and TouchWIZ UI</screen_type>
+          <resolution>1080 x 1920</resolution>
+          <battery>2600mAh</battery>
+          <flash>LED Flash</flash>
+          <nfc>Yes</nfc>
+          <bluetooth>Yes,v4.0</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct, Wi-Fi hotspot</wifi>
+          <gps>Yes, with aGPS</gps>
+          <other>Wireless Charging,Accelerometer,proximity sensors,Integrated Document editor,On the go USB,Floating Touch,</other>
+          <wbuy>Pick 9.5/10</wbuy>
+          <video>2LHv1FPd1Ec</video>  
+          
+    
+        <image>
+          <a>samsunggalaxys4.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxys41.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxys42.png</a>
+        </image>        
+        </mobile>
+</mobiles>

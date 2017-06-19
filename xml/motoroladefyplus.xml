@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>motoroladefyplus</short_name>
+<mobile_name>Motorola DEFY Plus</mobile_name>
+<price>13000
+</price>
+<os>Android OS v2.3
+</os>
+<upgradable>---
+</upgradable>
+<cpu>1 GHz TI OMAP 3620 Processor
+</cpu>
+<chipset>TI OMAP 3620
+</chipset>
+<gpu>PowerVR SGX530
+</gpu>
+<radio>stereo FM with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,5MP with auto-focus,LED flash</pcamera>
+<scamera>----
+</scamera>
+<imemory>2GB Storage
+</imemory>
+<ram>512 MB RAM
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 900/2100
+</threeg>
+<fourg>---
+</fourg>
+<dsim>---
+</dsim>
+<ssim>----</ssim>
+<dimension>107 x 59 x 13.4 mm
+</dimension>
+<weight>118 g
+</weight>
+<screen_type>3.7 inches,TFT Capacitive touchscreen,16M colors
+</screen_type>
+<resolution>480 x 854 pixels
+</resolution>
+<battery>Standard Battery Li-Po 1700 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Live Widget,Accelerometer sensor,Voice command,Flash Lite v.3.
+</other>
+<wbuy>Drop 6/10;
+</wbuy>
+<video>may-imtwv_U
+</video>
+<image>
+<a>motoroladefyplus.png</a></image><image>
+<a>motoroladefyplus1.png</a></image><image>
+<a>motoroladefyplus2.png</a></image></mobile>
+</mobiles>

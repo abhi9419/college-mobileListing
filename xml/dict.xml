@@ -1,0 +1,109 @@
+<letters>
+        <letter>
+           <name>AMOLED</name>
+             <video>aQkLMG3SBQ4</video>
+             <content>Amoled is a display technology which is used in modern mobile phones and other portable display devices.
+AMOLED stands for Active-Matrix Organic Light Emitting diode. AMOLED displays consume very less power than the other display technologies which makes they well suited for portable devices such as mobile phones where battery life is limited. Also AMOLED has contrast ratios higher than that of an LCD.
+</content>
+		</letter>
+		<letter>
+         <name>APN</name>
+             <video></video>
+             <content>APN commonly known as Access Point Name is a gateway between a GPRS mobile network and computer network.&lt;br&gt;
+In order to connect ot internet the device must be configured with an APN.
+The carrier examines the APN to determine what type of network to be created.
+</content>
+		 </letter>
+	 <letter>
+         <name>A-GPS</name>
+             <video>QYT9-qP_-pk</video>
+             <content>A-GPS is also known as the Assisted GPS(Global Positioning System).It is used to improve the performance of the GPS device by reducing its startup time.
+&lt;br&gt;
+GPS uses radio signals from the satellite's for their operation but the A-GPS adds power to it by using the network resources in the poor conditions.
+ &lt;br&gt;&lt;br&gt;
+Let us take a example to explain this more clearly : &lt;br&gt;
+&lt;br&gt;
+Suppose you are in city where the signals gets bounced by the building in the surrounding's which inturn results that the GPS will be not able to work untill
+a clear signal is available .The GPS tries to fix this and the time may take upto 12 minutes.So, if you are using a device with only GPS support may tell your exact position after couple of minutes while on other hand A device working with A-GPS with the same situation will be able to process faster because it uses data availabe from the network that you are using which is used for billing purposes.
+&lt;br&gt;&lt;br&gt;
+So, its better to have a A-GPS device rather than standalone GPS 
+</content>
+		 </letter>
+		 		 <letter>
+         <name>BIT</name>
+             <video></video>
+             <content>A Bit is the basic unit in the digital communication.A bit has only 2 values.The most common used is 0 and 1.&lt;br&gt;
+The two state can be logically treated as (true or false) or (yes or no) or (+/-) or (on/off) or (high/low) anyterm can be used as per requirement.
+
+</content>
+		      	 </letter>
+				 <letter>
+		     <name>CAPACITIVE TOUCH</name>
+             <video>5fOI-EQCOOQ</video>
+             <content>Capacitance is the charge storing capacity of a body.
+Capacitive touch technology is based on capacitance coupling. Two conducting metals separated by a nonconductor forms a capacitor. The non conducting medium between the two conducting surfaces can be air,paper,plastic,,etc. 
+The capacitance of the capacitor changes when the dielectric medium between the metals changes or the distance between the plates changes. In mobile devices the human body is take as capacitance input. When we touch the screen the capacitance change is detected by the sensors and takes the input.
+Capacitive touch is far more better than resistive touch. It has a better response time than  resistive touch.
+ If you are looking for good touch response from your phone go for capacitive touch rather than resistive touch.
+</content>
+
+        </letter> 
+            <letter>
+         <name>GORILLA GLASS</name>
+             <video>wT8xI4PEU8c</video>
+             <content>As the name suggests it is a having immense strength than a normal sheet of glass. 
+The sheet of glass is very thin and light but still damage and scratch resistance. It is specifically engineered to have these properties. These glasses are not damaged or scratched) by finger nails, keys or any pointed objects one may encounter in normal circumstances. These are therefore best material for cover glass of mobile phones.
+In 2012 Corning announced Gorilla glass 2,a glass 20% thinner than the first version but having the same strength and scratch resistance along with a better touch sensitivity.
+</content>
+		 </letter>
+		  <letter>
+         <name>HOT SWAP</name>
+             <video></video>
+             <content>
+Hot Swap is used to describe the function of the removing system components without shutting down the system.&lt;br&gt;&lt;br&gt;
+
+Basically, in mobiles it is reffered for the memory card slot.If the memory card can be removed without switching off the device then it is Hot Swappable.
+</content>
+		 </letter>
+		         <letter>
+		           <name>NFC</name>
+             <video>aAX8LY5Wh4U</video>
+             <content>NFC stands for Near Field Communication. It is a standard for smartphones to establish communication with each other by tapping together and bringing the two devices in
+ close proximity . NFC offers low speed data connection and can be used to establish more capable wireless connections such as Bluetooth and Wi-Fi.
+</content>
+
+        </letter>
+          <letter>
+		<name>PPI</name>
+             <video>pzGsUp3yM8w</video>
+             <content>The term PPI stands for Pixels per Inch (also referred as Pixel density) . 
+A pixel is a small dot on your screen. It can take any of the values of the three primary colours (RED ,GREEN,BLUE). Many such small dots (pixels) combine to form any image or display on your mobile screen.  Essentially everything is formed by combining these dots on the screen.
+The more such pixels your device supports the better the display quality of your device.
+The term itself serves as the definition. The number of pixels(or dots) per inch on your screen.
+Formula to calculate the number of pixels:
+&lt;br&gt;  &lt;font color="blue"&gt;      1.Diagonal resolution:&lt;&#47;font&gt;
+&lt;br&gt;D&lt;sub&gt;p&lt;&#47;sub&gt;=(w&lt;sup&gt;2&lt;&#47;sup&gt;&lt;sub&gt;p&lt;&#47;sub&gt; + h&lt;sup&gt;2&lt;&#47;sup&gt;&lt;sub&gt;p&lt;&#47;sub&gt;)&lt;sup&gt;1&#47;2&lt;&#47;sup&gt;
+&lt;br&gt;  &lt;font color="blue"&gt;     2. PPI:&lt;&#47;font&gt;&lt;br&gt;
+    PPI =d&lt;sub&gt;p&lt;&#47;sub&gt;&#47;d&lt;sub&gt;i&lt;&#47;sub&gt;
+d&lt;sub&gt;i&lt;&#47;sub&gt;  : diagonal resolution in piexls
+w&lt;sub&gt;p&lt;&#47;sub&gt;: width resolution in pixels
+h&lt;sub&gt;p&lt;&#47;sub&gt; : height resolution in pixels
+d&lt;sub&gt;i&lt;&#47;sub&gt; : diagonal size in inches of your device
+</content>
+</letter>
+        <letter>
+         <name>RESISTIVE TOUCH</name>
+             <video>2X30LkAtHjg</video>
+             <content>Resistive touch screen is a touch sensitive display composed of two flexible sheets separated by an air gap(mostly).When a user touches the screen contact is made between the two surfaces(they’re pressed together) and input is taken from the screen.
+As it works on contact between the two surfaces any kind of material used to press the screen (like pencil, stylus, wearing gloves, cloth, etc) will work on these devices.  For the same reason very light touch might not work on these displays and a user may have to press the screen a little harder if the screen it not very responsive .
+</content>
+		 </letter>
+		 
+
+	
+
+       
+		 
+	
+
+</letters>

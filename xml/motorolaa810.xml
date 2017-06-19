@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>motorolaa810</short_name>
+<mobile_name>Motorola A810</mobile_name>
+<price>4100
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>2 MP</pcamera>
+<scamera>----
+</scamera>
+<imemory>Yes
+</imemory>
+<ram>---- 
+</ram>
+<mcard>Expandable upto 2GB
+</mcard>
+<twog>GSM 900/1800/1900  
+</twog>
+<threeg>----
+</threeg>
+<fourg>---
+</fourg>
+<dsim>Yes GSM + GSM
+</dsim>
+<ssim>----</ssim>
+<dimension>105 x 51 x 14 mm
+</dimension>
+<weight>100 g
+</weight>
+<screen_type>2.2 Inches
+</screen_type>
+<resolution>240 x 320
+</resolution>
+<battery>Standard Battery Li-Po 910 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>----
+</wifi>
+<gps>class 10
+</gps>
+<other>SNS Intergration,Predictive text input
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>motorolaa810.png</a></image><image>
+<a>motorolaa8101.png</a></image><image>
+<a>motorolaa8102.png</a></image></mobile>
+</mobiles>

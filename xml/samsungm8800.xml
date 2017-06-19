@@ -1,0 +1,49 @@
+<mobiles>
+        <mobile>
+          <short_name>samsungm8800</short_name>
+          <mobile_name>Samsung M8800</mobile_name>
+          <price> Rs 20000</price>
+          <os>Java</os>
+          <upgradable>----</upgradable>
+          <cpu>Qualcomm 500MHz Processor</cpu>
+          <chipset>----</chipset>
+          <gpu>----</gpu>
+          <radio>Present</radio>
+          <jack>Present</jack>
+          <pcamera>Yes,8MP with auto-focus and LED Flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>200 MB</imemory>
+          <ram>----</ram>
+          <mcard>Expandable upto 16 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 2100</threeg>
+          <fourg>----</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM(Micro Sim) only.</ssim>
+          <dimension>107.9mm x 54.6mm x 13.8mm</dimension>
+          <weight>121 g</weight>
+          <screen_type>Touchscreen</screen_type>
+          <resolution>240 x 400</resolution>
+          <battery>1000mAh</battery>
+          <flash>Yes LED</flash>
+          <nfc>No</nfc>
+          <bluetooth>Yes,v2.0</bluetooth>
+          <wifi>No</wifi>
+          <gps>Yes</gps>
+          <other>Alarm,Calender,Camera Phone</other>
+          <wbuy>Drop 2/10</wbuy>
+          <video>mHrlY2TR4Co</video>  
+          
+    
+        <image>
+          <a>samsungm8800.png</a>
+        </image>
+        <image>
+          <a>samsungm88001.png</a>
+        </image>
+        <image>
+          <a>samsungm88002.png</a>
+        </image>
+        
+        </mobile>
+</mobiles>

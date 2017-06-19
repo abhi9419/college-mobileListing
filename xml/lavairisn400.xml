@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>lavairisn400</short_name>
+<mobile_name>Lava IRIS N400</mobile_name>
+<price>6400
+</price>
+<os>Android OS v4.0.1
+</os>
+<upgradable>----
+</upgradable>
+<cpu>1 GHz processor
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>5 MP with Flash,Night Vision</pcamera>
+<scamera>0.3 MP
+</scamera>
+<imemory>127 MB Storage
+</imemory>
+<ram>512 MB 
+</ram>
+<mcard>Expandable upto 32 GB
+</mcard>
+<twog>GSM 900/1800 sim 1 & sim 2 
+</twog>
+<threeg>UMTS 2100
+</threeg>
+<fourg>---
+</fourg>
+<dsim>Yes,GSM and GSM
+</dsim>
+<ssim>----</ssim>
+<dimension>63 x 125 x 10.2 mm
+</dimension>
+<weight>----
+</weight>
+<screen_type>4 Inches
+</screen_type>
+<resolution>800 x 400 
+</resolution>
+<battery>Standard Battery Li-Po 1500 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>802.11 b/g/n
+</wifi>
+<gps>Yes
+</gps>
+<other>SNS Intergration,Predictive text input
+</other>
+<wbuy>Pick 7/10;
+</wbuy>
+<video>
+</video>
+<image>
+<a>lavairisn400.png</a></image><image>
+<a>lavairisn4001.png</a></image><image>
+<a>lavairisn4002.png</a></image></mobile>
+</mobiles>

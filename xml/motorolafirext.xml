@@ -1,0 +1,68 @@
+<mobiles>
+<mobile>
+<short_name>motorolafirext</short_name>
+<mobile_name>Motorola Fire XT</mobile_name>
+<price>8900
+</price>
+<os>Android OS v2.3
+</os>
+<upgradable>----
+</upgradable>
+<cpu>800 MHz Processor
+</cpu>
+<chipset>Qualcomm MSM7227T-1
+</chipset>
+<gpu>Andreno 200
+</gpu>
+<radio>FM with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>5 MP,Auto-Focus,LED Flash</pcamera>
+<scamera>VGA
+</scamera>
+<imemory>----
+</imemory>
+<ram>512 MB
+</ram>
+<mcard>extendable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg> HSDPA 900/2100 
+</threeg>
+<fourg>---
+</fourg>
+<dsim>----
+</dsim>
+<ssim>----</ssim>
+<dimension>114 x 62 x 11.95 mm
+</dimension>
+<weight>114 g
+</weight>
+<screen_type>3.5 Inches HVGA Capacitive Touchscreen,256K Colors
+</screen_type>
+<resolution>320 x 480
+</resolution>
+<battery>Standard Battery Li-Po 1540 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Social Networking integration,To-do List,Voice recorder</other>
+<wbuy>Drop 5/10;
+</wbuy>
+<video>
+</video>
+<image>
+<a>motorolafirext.png</a></image><image>
+<a>motorolafirext1.png</a></image><image>
+<a>motorolafirext2.png</a></image></mobile>
+</mobiles>

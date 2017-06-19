@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>karbonnkc750
+</short_name>
+<mobile_name>Karbonn Kc 750
+</mobile_name>
+<price>Rs 5000
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>----
+</gpu>
+<radio>Yes
+</radio>
+<jack>----
+</jack>
+<pcamera>Yes,3MP
+</pcamera>
+<scamera>----
+</scamera>
+<imemory>25 MB
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 4GB
+</mcard>
+<twog>GSM 900/1800
+</twog>
+<threeg>No
+</threeg>
+<fourg>No
+</fourg>
+<dsim>Yes,GSM and CDMA
+</dsim>
+<ssim>No</ssim>
+<dimension>113 x 51 x 14.5mm
+</dimension>
+<weight>----
+</weight>
+<screen_type>2.4 inches,QVGA 262k colors
+</screen_type>
+<resolution>240 x 320
+</resolution>
+<battery>Li-Ion Battery,1050 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>No
+</wifi>
+<gps>No
+</gps>
+<other>Health management,Currency converter,To Do List
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>karbonnkc750.png</a></image><image>
+<a>karbonnkc7501.png</a></image><image>
+<a>karbonnkc7502.png</a></image></mobile>
+</mobiles>

@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>karbonnk25i
+</short_name>
+<mobile_name>Karbonn K25i
+</mobile_name>
+<price>Rs 3700
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>----
+</gpu>
+<radio>Yes
+</radio>
+<jack>----
+</jack>
+<pcamera>Yes,2MP
+</pcamera>
+<scamera>No
+</scamera>
+<imemory>78 MB
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 8GB
+</mcard>
+<twog>GSM 900/1800
+</twog>
+<threeg>No
+</threeg>
+<fourg>No
+</fourg>
+<dsim>Yes,GSM and GSM
+</dsim>
+<ssim>No</ssim>
+<dimension>113 x 60 x 13.5mm
+</dimension>
+<weight>80g
+</weight>
+<screen_type>2.4 inches,TFT QVGA 262k colors
+</screen_type>
+<resolution>240 x 320
+</resolution>
+<battery>Standard Li-Ion 1450 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes
+</wifi>
+<gps>No
+</gps>
+<other>Social Networking Services,Health management,Voice recorder
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>karbonnk25i.png</a></image><image>
+<a>karbonnk25i1.png</a></image><image>
+<a>karbonnk25i2.png</a></image></mobile>
+</mobiles>

@@ -1,0 +1,49 @@
+<mobiles>
+        <mobile>
+          <short_name>samsunggalaxys3mini</short_name>
+          <mobile_name>Samsung Galaxy S3 Mini</mobile_name>
+          <price> Rs 23000</price>
+          <os>Android 4.1</os>
+          <upgradable>----</upgradable>
+          <cpu>1.4 Ghz Dual Core processor</cpu>
+          <chipset>----</chipset>
+          <gpu>----</gpu>
+          <radio>Present</radio>
+          <jack>Present</jack>
+          <pcamera>Yes,5MP with auto-focus,LED Flash</pcamera>
+          <scamera>Yes,VGA</scamera>
+          <imemory>16 GB</imemory>
+          <ram>1 GB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 850 / 900 / 1900 / 2100</threeg>
+          <fourg>----</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>121.6mm x 63mm x 9.9mm</dimension>
+          <weight>111.5 g</weight>
+          <screen_type>Super Amoled screen</screen_type>
+          <resolution>480 x 800</resolution>
+          <battery>1500mAh</battery>
+          <flash>LED Flash</flash>
+          <nfc>Yes</nfc>
+          <bluetooth>Yes,v4.0</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct, Wi-Fi hotspot</wifi>
+          <gps>Yes, with aGPS</gps>
+          <other>Accelerometer,proximity sensors,SNS Integration,Active Noise Cancellation</other>
+          <wbuy>Pick 7.5/10</wbuy>
+          <video>zSLvAHGKAkg</video>  
+          
+    
+        <image>
+          <a>samsunggalaxys3mini.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxys3mini1.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxys3mini2.png</a>
+        </image>
+        
+        </mobile>
+</mobiles>

@@ -1,0 +1,68 @@
+<mobiles>
+<mobile>
+<short_name>nokia500</short_name>
+<mobile_name>Nokia 500</mobile_name>
+<price>8900
+</price>
+<os>Symbian Anna OS
+</os>
+<upgradable>Upgradable to Symbian Belle OS
+</upgradable>
+<cpu>1 GHz Processor
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM
+</radio>
+<jack>Present
+</jack>
+<pcamera>5 MP,Auto-Focus</pcamera>
+<scamera>----
+</scamera>
+<imemory>2 GB
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg> HSDPA 850/900/1700/1900/2100 
+</threeg>
+<fourg>---
+</fourg>
+<dsim>----
+</dsim>
+<ssim>----</ssim>
+<dimension>111.3 x 53.8 x 14.1 mm
+</dimension>
+<weight>93 g
+</weight>
+<screen_type>3.2 Inches,TFT Capacitive touchscreen,16M Color
+</screen_type>
+<resolution>360 x 640
+</resolution>
+<battery>Standard Battery Li-Po 1110 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>SNS Integration,Document viewer,Voice-Memo,Active Noise cancellation</other>
+<wbuy>Drop 5/10;
+</wbuy>
+<video>-YJdCO-F9Bc
+</video>
+<image>
+<a>nokia500.png</a></image><image>
+<a>nokia5001.png</a></image><image>
+<a>nokia5002.png</a></image></mobile>
+</mobiles>

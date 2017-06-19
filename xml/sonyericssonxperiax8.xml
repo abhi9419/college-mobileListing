@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>sonyericssonxperiax8</short_name>
+          <mobile_name>Sony Ericsson Xperia X8</mobile_name>
+          <price> Rs 8000</price>
+          <os>Android OS,v1.6</os>
+          <upgradable>Upgradable to v2.1</upgradable>
+          <cpu>600 MHz ARM 11 processor</cpu>
+          <chipset>Qualcomm MSM7227</chipset>
+          <gpu>Adreno 200</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>3.15 MP</pcamera>
+          <scamera>No</scamera>
+          <imemory>128 MB</imemory>
+          <ram>168 MB</ram>
+          <mcard>Expandable upto 16 GB</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 900/2100</threeg>
+          <fourg>No</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>99mm x 54mm x 15mm</dimension>
+          <weight>104 g</weight>
+          <screen_type>3 inches,TFT capacitive touchscreen</screen_type>
+          <resolution>320 x 480</resolution>
+          <battery>1200 mAh</battery>
+          <flash>No</flash>
+          <nfc>-------</nfc>
+          <bluetooth>Yes,v2.1</bluetooth>
+          <wifi>Wi-Fi 802.11 b/g</wifi>
+          <gps>Yes</gps>
+          <other>Google Search,Maps,Gmail,YouTube, Google Talk,Facebook app</other>
+          <wbuy>Pick 6.5/10</wbuy>
+          <video>-q2QR_S3YK8</video>  
+          
+    
+        <image>
+          <a>sonyericssonxperiax8.png</a>
+        </image>
+        <image>
+          <a>sonyericssonxperiax81.png</a>
+        </image>
+        <image>
+          <a>sonyericssonxperiax82.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

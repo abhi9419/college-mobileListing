@@ -1,0 +1,76 @@
+<mobiles>
+<mobile>
+<short_name>nokialumia800
+</short_name>
+<mobile_name>Nokia Lumia 800
+</mobile_name>
+<price>Rs 21000
+</price>
+<os>Windows 7.5
+</os>
+<upgradable>---
+</upgradable>
+<cpu>1.4 Ghz Scorpion processor
+</cpu>
+<chipset>Snapdragon
+</chipset>
+<gpu>Adreno 205
+</gpu>
+<radio>Present
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,8MP with auto focus Carl Zeiss Optics
+</pcamera>
+<scamera>No
+</scamera>
+<imemory>16 GB
+</imemory>
+<ram>512 MB 
+</ram>
+<mcard>Not Available
+</mcard>
+<twog>GSM 850 / 900 / 1900 / 1800
+</twog>
+<threeg>HSPDA 850 / 900 / 1900 / 2100
+</threeg>
+<fourg>No
+</fourg>
+<dsim>No
+</dsim>
+<ssim>Yes,GSM Only
+</ssim>
+<dimension>116.5mm x 61.2 x 12.1mm
+</dimension>
+<weight>142 g
+</weight>
+<screen_type>Curved 3.7 AMOLED ClearBlack glass
+</screen_type>
+<resolution>480 x 800
+</resolution>
+<battery>1450 mAh.TalkTime 13h(2G) 9.5h(3G)
+</battery>
+<flash>Dual LED Flash
+</flash>
+<nfc>--
+</nfc>
+<bluetooth>Yes,v2.1
+</bluetooth>
+<wifi>Yes
+</wifi>
+<gps>Yes,with A-GPS
+</gps>
+<other>Accelerometer,XBox live Hub,Integrated hands free speaker
+</other>
+<wbuy>Pick &#10025;&#10025;&#10025;
+</wbuy>
+<video>QvnDunLJSPE
+</video>
+<image>
+<a>nokialumia800
+.png</a></image><image>
+<a>nokialumia800
+1.png</a></image><image>
+<a>nokialumia800
+2.png</a></image></mobile>
+</mobiles>

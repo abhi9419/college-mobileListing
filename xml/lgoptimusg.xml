@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>lgoptimusg
+</short_name>
+<mobile_name>LG Optimus G
+</mobile_name>
+<price>Rs 30000
+</price>
+<os>Android v4.1(Jelly Bean)
+</os>
+<upgradable>-----
+</upgradable>
+<cpu>Quad-core 1.5GHz Snapdragon S4 Processor
+</cpu>
+<chipset>Qualcomm MDM9615
+</chipset>
+<gpu>Adreno 320
+</gpu>
+<radio>Yes
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,13MP with Autofocus and LED flash
+</pcamera>
+<scamera>Yes, 1.3MP Camera
+</scamera>
+<imemory>32GB
+</imemory>
+<ram>2 GB
+</ram>
+<mcard>Expandable upto 32GB.
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 900/2100
+</threeg>
+<fourg>LTE
+</fourg>
+<dsim>No
+</dsim>
+<ssim>Yes</ssim>
+<dimension>131.9mm x 68.9mm x 8.5mm
+</dimension>
+<weight>145g
+</weight>
+<screen_type>4.7 inches True HD-IPS + LCD Capacitive touch
+</screen_type>
+<resolution>1280 x 768
+</resolution>
+<battery>Standard Battery Li-Po 2100mAh
+</battery>
+<flash>Yes
+</flash>
+<nfc>Yes
+</nfc>
+<bluetooth>Yes,v4.0
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n,Wi-Fi Direct,DLNA,Wi-Fi hotspot
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Anti-Theft Mobile Tracker,Social networking integration,HDMI port,Digital compass,YouTube
+</other>
+<wbuy>Pick 9/10;
+</wbuy>
+<video>FO0oSqwKgD8
+</video>
+<image>
+<a>lgoptimusg.png</a></image><image>
+<a>lgoptimusg1.png</a></image><image>
+<a>lgoptimusg2.png</a></image></mobile>
+</mobiles>

@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>lgnexus4</short_name>
+<mobile_name>LG Nexus 4</mobile_name>
+<price>27000
+</price>
+<os>Android OS v4.1.2
+</os>
+<upgradable>----
+</upgradable>
+<cpu>Quad-core processor
+</cpu>
+<chipset>Snapdragon S4
+</chipset>
+<gpu>Andreno 305
+</gpu>
+<radio>Stereo FM with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>8MP</pcamera>
+<scamera>1.3 MP
+</scamera>
+<imemory>8/16 GB Storage
+</imemory>
+<ram>1 GB RAM
+</ram>
+<mcard>----
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg> HSDPA 900/2100 
+</threeg>
+<fourg>---
+</fourg>
+<dsim>----
+</dsim>
+<ssim>----</ssim>
+<dimension>133.9 x 68.7 x 9.1 mm
+</dimension>
+<weight>139 g
+</weight>
+<screen_type>4.7 inches LCD Capacitive Touchscreen
+</screen_type>
+<resolution>1280 x 768 pixels
+</resolution>
+<battery>Standard Battery Li-Po 2100 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Gravity Sensor,Light sensor,Adobe Flash 10.2,Flash Lite v.3.
+</other>
+<wbuy>Drop 6/10;
+</wbuy>
+<video>
+</video>
+<image>
+<a>lgnexus4.png</a></image><image>
+<a>lgnexus41.png</a></image><image>
+<a>lgnexus42.png</a></image></mobile>
+</mobiles>

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<mobiles>
+        <mobile>
+          <short_name>blackberrybold9000</short_name>
+          <mobile_name>Blackberry Bold 9000</mobile_name>
+          <price>6200</price>
+          <os>Blackberry OS</os>
+          <upgradable>----</upgradable>
+          <cpu>624 MHz processor</cpu>
+          <chipset>----</chipset>
+          <gpu>----</gpu>
+          <radio>No</radio>
+          <jack>Yes</jack>
+          <pcamera>Yes,2MP LED flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>1 GB</imemory>
+          <ram>128 MB</ram>
+          <mcard>Expandable upto 8 GB</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 850/1900/2100</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>114mm x 66mm x 14mm</dimension>
+          <weight>133 g</weight>
+          <screen_type>65k colors, 2.6 inches</screen_type>
+          <resolution>480 x 320</resolution>
+          <battery>1500 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes,v2.0</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 a/b/g</wifi>
+          <gps>Yes</gps>
+          <other>Currency Converter,DataViz doocument viewer</other>
+          <wbuy>Pick 7/10</wbuy>
+          <video>y4HuNSbTon0</video>  
+          
+    
+        <image>
+          <a>blackberrybold9000.png</a>
+        </image>
+        <image>
+          <a>blackberrybold90001.png</a>
+        </image>
+        <image>
+          <a>blackberrybold90002.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

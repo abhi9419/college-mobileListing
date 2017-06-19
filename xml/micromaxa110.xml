@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>micromaxa110</short_name>
+<mobile_name>Micromax A110</mobile_name>
+<price>10000
+</price>
+<os>Android OS v4.0
+</os>
+<upgradable>---
+</upgradable>
+<cpu>1 GHz Dual-Core Processor
+</cpu>
+<chipset>----
+</chipset>
+<gpu>----
+</gpu>
+<radio>Stereo FM with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>Rear 8MP Camera with night Mode, 4X Zoom</pcamera>
+<scamera> VGA
+</scamera>
+<imemory>----
+</imemory>
+<ram>512 MB RAM
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg> HSDPA 900/2100 
+</threeg>
+<fourg>---
+</fourg>
+<dsim>yes, GSM and GSM
+</dsim>
+<ssim>----</ssim>
+<dimension>142.2 x 72.6 x 11.9 mm
+</dimension>
+<weight>168 g
+</weight>
+<screen_type>5 inches
+</screen_type>
+<resolution>480 x 854
+</resolution>
+<battery>Standard Battery Li-Po 2000 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Organizer,Document Viewer,Adobe Flash 10.2,Flash Lite v.3.
+</other>
+<wbuy>Pick 7/10;
+</wbuy>
+<video>
+</video>
+<image>
+<a>micromaxa110.png</a></image><image>
+<a>micromaxa1101.png</a></image><image>
+<a>micromaxa1102.png</a></image></mobile>
+</mobiles>

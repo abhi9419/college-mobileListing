@@ -1,0 +1,49 @@
+<mobiles>
+        <mobile>
+          <short_name>samsunggalaxysuit</short_name>
+          <mobile_name>Samsung Galaxy Suit</mobile_name>
+          <price> Rs 9300</price>
+          <os>Andriod Os, v2.2(Froyo)</os>
+          <upgradable>----</upgradable>
+          <cpu>600 MHz processor</cpu>
+          <chipset>----</chipset>
+          <gpu>----</gpu>
+          <radio>Present</radio>
+          <jack>Yes</jack>
+          <pcamera>Yes,5MP with auto focus</pcamera>
+          <scamera>No</scamera>
+          <imemory>160 MB</imemory>
+          <ram>----</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 900 / 2100</threeg>
+          <fourg>----</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>110.2mm x 61.2mm x 12.6mm</dimension>
+          <weight>108g</weight>
+          <screen_type>TFT Capacitive Touchscreen</screen_type>
+          <resolution>320X480 pixels</resolution>
+          <battery>1350mAh</battery>
+          <flash>No</flash>
+          <nfc>No</nfc>
+          <bluetooth>Yes,v3.0</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 b/g</wifi>
+          <gps>Yes</gps>
+          <other>Social Networking Integration,You tube,Predictive text input</other>
+          <wbuy>Drop 5/10</wbuy>
+          <video>kIdR0Z2lKBU</video>  
+          
+    
+        <image>
+          <a>samsunggalaxysuit.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxysuit1.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxysuit2.png</a>
+        </image>
+        
+        </mobile>
+</mobiles>

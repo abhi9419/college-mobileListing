@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>sonyxperiat
+</short_name>
+<mobile_name>Sony Xperia T
+</mobile_name>
+<price>Rs 23000
+</price>
+<os>Android OS v4.0.4(ICS)
+</os>
+<upgradable>-----
+</upgradable>
+<cpu>1.5 GHz Dual-Core Krait Processor
+</cpu>
+<chipset>Qualcomm MSM8260A Snapdragon
+</chipset>
+<gpu>Adreno 225
+</gpu>
+<radio>Yes
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,13MP with autofocus and LED flash
+</pcamera>
+<scamera>Yes,1.3MP
+</scamera>
+<imemory>16 GB
+</imemory>
+<ram>1 GB
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 850/900/1900/2100
+</threeg>
+<fourg>--------
+</fourg>
+<dsim>No
+</dsim>
+<ssim>Yes</ssim>
+<dimension>129.4mm x 67.3mm x 9.4mm
+</dimension>
+<weight>139gms
+</weight>
+<screen_type>4.55 inches,TFT Capacitive touchscreen
+</screen_type>
+<resolution>720 x 1280
+</resolution>
+<battery>Non-removable Li-Ion 1850 mAh
+</battery>
+<flash>Yes
+</flash>
+<nfc>Yes
+</nfc>
+<bluetooth>Yes,v3.0
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n,dual-band,Wi-Fi hotspot,DLNA
+</wifi>
+<gps>Yes,with A-GPS support
+</gps>
+<other>SNS integration,TV-out,Active noise calcellationwith dedicated mic,Document viewer
+</other>
+<wbuy>Pick 7.5/10;
+</wbuy>
+<video>EJErcswfto0
+</video>
+<image>
+<a>sonyxperiat.png</a></image><image>
+<a>sonyxperiat1.png</a></image><image>
+<a>sonyxperiat2.png</a></image></mobile>
+</mobiles>

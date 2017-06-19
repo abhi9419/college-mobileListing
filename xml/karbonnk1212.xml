@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>karbonnk1212
+</short_name>
+<mobile_name>Karbonn K1212
+</mobile_name>
+<price>Rs 3900
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>----
+</gpu>
+<radio>Yes
+</radio>
+<jack>Yes
+</jack>
+<pcamera>Yes,3MP
+</pcamera>
+<scamera>No
+</scamera>
+<imemory>24 MB
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 8GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>No
+</threeg>
+<fourg>No
+</fourg>
+<dsim>Yes,GSM and GSM
+</dsim>
+<ssim>No</ssim>
+<dimension>110 x 56.5 x 12mm
+</dimension>
+<weight>110g
+</weight>
+<screen_type>3.2 inches,WQVGA 262k colors
+</screen_type>
+<resolution>400 x 240
+</resolution>
+<battery>Standard Li-Ion 1000 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes,v2.0
+</bluetooth>
+<wifi>----
+</wifi>
+<gps>No
+</gps>
+<other>Organizer,Voice memo
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>karbonnk1212.png</a></image><image>
+<a>karbonnk12121.png</a></image><image>
+<a>karbonnk12122.png</a></image></mobile>
+</mobiles>

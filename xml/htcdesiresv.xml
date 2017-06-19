@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>htcdesiresv</short_name>
+          <mobile_name>HTC Desire SV</mobile_name>
+          <price> Rs 20000</price>
+          <os>Android OS,v4.0.4(ICS)</os>
+          <upgradable>------</upgradable>
+          <cpu>Dual-core 1 GHz processor</cpu>
+          <chipset>-------</chipset>
+          <gpu>--------</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>8 MP,with autofocus and LED flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>4 GB</imemory>
+          <ram>768 MB</ram>
+          <mcard>expandable upto 32 GB</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 900/2100</threeg>
+          <fourg>----------</fourg>
+          <dsim>Yes</dsim>
+          <ssim>No</ssim>
+          <dimension>129.7mm x 67.9mm x 10.7mm</dimension>
+          <weight>131 g</weight>
+          <screen_type>4.3 inches,S-LCD2 capacitive touchscreen</screen_type>
+          <resolution>480 x 800</resolution>
+          <battery>1620 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes,v4.0</bluetooth>
+          <wifi>Wi-Fi 802.11 b/g/n,Wi-Fi hotspot</wifi>
+          <gps>Yes</gps>
+          <other>SNS integration,Gmail,Google Talk,Maps</other>
+          <wbuy>Pick 6.5/10</wbuy>
+          <video>ENUNH2llbQ4</video>  
+          
+    
+        <image>
+          <a>htcdesiresv.png</a>
+        </image>
+        <image>
+          <a>htcdesiresv1.png</a>
+        </image>
+        <image>
+          <a>htcdesiresv2.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

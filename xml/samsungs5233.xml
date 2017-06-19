@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>samsungs5233
+</short_name>
+<mobile_name>Samsung S5233 
+</mobile_name>
+<price>Rs 5500 
+</price>
+<os>Java MIDP 2.0
+</os>
+<upgradable>----
+</upgradable>
+<cpu>---
+</cpu>
+<chipset>----
+</chipset>
+<gpu>---
+</gpu>
+<radio>Stereo FM With RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,3.15 MP with Smile Detection
+</pcamera>
+<scamera>----
+</scamera>
+<imemory>84 MB 
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 16GB.
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>----
+</threeg>
+<fourg>---
+</fourg>
+<dsim>----
+</dsim>
+<ssim>----</ssim>
+<dimension>106 x 53.4 x 11.9 mm
+</dimension>
+<weight>95 g
+</weight>
+<screen_type>3 inches,TFT Resistive Touchscreen
+</screen_type>
+<resolution>240 x 400 
+</resolution>
+<battery>Standard Battery Li-Po 1000 MAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>----
+</wifi>
+<gps>----
+</gps>
+<other>Organizer,Document Viewer,Voice Memo
+</other>
+<wbuy>Pick 7.5/10;
+</wbuy>
+<video>N1SA_-qtpfc
+</video>
+<image>
+<a>samsungs5233.png</a></image><image>
+<a>samsungs52331.png</a></image><image>
+<a>samsungs52332.png</a></image></mobile>
+</mobiles>

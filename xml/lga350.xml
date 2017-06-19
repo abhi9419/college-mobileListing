@@ -1,0 +1,70 @@
+<mobiles>
+<mobile>
+<short_name>lga350</short_name>
+<mobile_name>LG A350 </mobile_name>
+<price>3700
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>1.3 MP, 1280 x 1024</pcamera>
+<scamera>----
+</scamera>
+<imemory>59 MB
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 1800/1900/850/900 - SIM 1 and SIM 2
+</twog>
+<threeg>UMTS 900/2100 - SIM 1 and SIM 2
+</threeg>
+<fourg>---
+</fourg>
+<dsim>Yes,GSM and GSM
+</dsim>
+<ssim>----</ssim>
+<dimension>115 x 52 x 12.85 mm
+</dimension>
+<weight>92 mm
+</weight>
+<screen_type>2.2 Inches,TFT Display Screen,262K Colors
+</screen_type>
+<resolution>176 x 220
+</resolution>
+<battery>Standard Battery Li-Po 950 mAh 
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>802.11 b/g/n
+</wifi>
+<gps>----
+</gps>
+<other>SNS Widgets,Mobile Tracker,Facebook,NDTV Active,You-Tube,Converter
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>lga350.png</a></image><image>
+<a>lga3501.png</a></image><image>
+<a>lga3502.png</a></image></mobile>
+
+</mobiles>

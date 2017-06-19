@@ -1,0 +1,70 @@
+<mobiles>
+<mobile>
+<short_name>lgkp220</short_name>
+<mobile_name>LG Kp220</mobile_name>
+<price>4000
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>1.3 MP (1280 x 1024) </pcamera>
+<scamera>----
+</scamera>
+<imemory>60 MB
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 8GB
+</mcard>
+<twog>GSM 900/1800/1900 MHz
+</twog>
+<threeg>----
+</threeg>
+<fourg>---
+</fourg>
+<dsim>----
+</dsim>
+<ssim>Yes</ssim>
+<dimension>103 x 46 x 12 mm
+</dimension>
+<weight>72 g
+</weight>
+<screen_type>1.7 Inches
+</screen_type>
+<resolution>120 x 160
+</resolution>
+<battery>Standard Battery Li-Po 750 mAh 
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>----
+</wifi>
+<gps>----
+</gps>
+<other>Predictive Text Input,Converter,Flight Mode,Voice Memo
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>lgkp220.png</a></image><image>
+<a>lgkp2201.png</a></image><image>
+<a>lgkp2202.png</a></image></mobile>
+
+</mobiles>

@@ -1,0 +1,49 @@
+<mobiles>
+        <mobile>
+          <short_name>samsungomniaw</short_name>
+          <mobile_name>Samsung Omnia W</mobile_name>
+          <price> Rs 15200</price>
+          <os>Windows 7.7 Mango</os>
+          <upgradable>----</upgradable>
+          <cpu>1.4 Ghz Processor</cpu>
+          <chipset>Snapdragon</chipset>
+          <gpu>Adreno 205</gpu>
+          <radio>Present</radio>
+          <jack>Present</jack>
+          <pcamera>Yes,5MP with auto-focus and LED Flash</pcamera>
+          <scamera>Yes,VGA Camera</scamera>
+          <imemory>8 GB</imemory>
+          <ram>512 MB</ram>
+          <mcard>----</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 900 / 2100</threeg>
+          <fourg>----</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>115.6mm x 58.8mm x 10.9mm</dimension>
+          <weight>115 g</weight>
+          <screen_type>Super AMOLED Capacitive Touchscreen</screen_type>
+          <resolution>480 x 800</resolution>
+          <battery>1500mAh</battery>
+          <flash>Yes</flash>
+          <nfc>No</nfc>
+          <bluetooth>Yes,v2.1</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 /b/g/n</wifi>
+          <gps>Yes,with aGPS</gps>
+          <other>Digital Compass,Document editor,Google Talk</other>
+          <wbuy>Drop 6/10</wbuy>
+          <video>DRvHCgLbyMs</video>  
+          
+    
+        <image>
+          <a>samsungomniaw.png</a>
+        </image>
+        <image>
+          <a>samsungomniaw1.png</a>
+        </image>
+        <image>
+          <a>samsungomniaw2.png</a>
+        </image>
+        
+        </mobile>
+</mobiles>

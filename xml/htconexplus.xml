@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>htconexplus</short_name>
+          <mobile_name>HTC One X Plus</mobile_name>
+          <price> Rs 39000</price>
+          <os>Android OS v4.1(Jelly Bean)</os>
+          <upgradable>----</upgradable>
+          <cpu>Quad-core 1.7 GHz Processor</cpu>
+          <chipset>NVIDIA Tegra 3 AP37</chipset>
+          <gpu>ULP GeForce</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>Yes,8MP LED flash</pcamera>
+          <scamera>1.6 MP</scamera>
+          <imemory>32/64 GB</imemory>
+          <ram>1 GB</ram>
+          <mcard>No</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 850/1900/2100</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>134.4 x 69.9 x 8.9mm</dimension>
+          <weight>135 g</weight>
+          <screen_type>16M colors, 4.7 inches</screen_type>
+          <resolution>1280 x 768 pixels</resolution>
+          <battery>2100 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>Yes</nfc>
+          <bluetooth>Yes,v4.0 with A2DP</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 a/b/g/n</wifi>
+          <gps>Yes</gps>
+          <other>Active noise cancellation with dedicated mic, TV-out(via MHL a/v link), SNS integration, Dropbox, Document viewer</other>
+          <wbuy>Pick 8/10</wbuy>
+          <video>ZOOVCnAcRiQ</video>  
+          
+    
+        <image>
+          <a>htconexplus.png</a>
+        </image>
+        <image>
+          <a>htconexplus1.png</a>
+        </image>
+        <image>
+          <a>htconexplus2.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

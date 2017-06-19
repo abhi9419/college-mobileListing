@@ -1,0 +1,100 @@
+<mobiles>
+
+        <mobile>
+
+          <short_name>sonyericssonxperianeo</short_name>
+
+          <mobile_name>Sony Ericsson Xperia Neo</mobile_name>
+
+          <price> Rs 19000</price>
+
+          <os>Android OS v2.3(Gingerbread)</os>
+
+          <upgradable>----</upgradable>
+
+          <cpu>1 GHz Snapdragon Processor</cpu>
+
+          <chipset>Qualcomm MSM8255 Snapdragon</chipset>
+
+          <gpu>Adreno 205</gpu>
+
+          <radio>Yes</radio>
+
+          <jack>Yes</jack>
+
+          <pcamera>8 MP,with autofocus and LED flash</pcamera>
+
+          <scamera>Yes</scamera>
+
+          <imemory>320 MB</imemory>
+
+          <ram>----</ram>
+
+          <mcard>Expandable upto 32GB</mcard>
+
+          <twog>GSM 850/900/1800/1900</twog>
+
+          <threeg>HSDPA 850/1900/2100</threeg>
+
+          <fourg>No</fourg>
+
+          <dsim>No</dsim>
+
+          <ssim>Yes</ssim>
+
+          <dimension>116mm x 57mm x 13mm</dimension>
+
+          <weight>126 g</weight>
+
+          <screen_type>3.7 inches,LED-backlit LCD, capacitive touchscreen</screen_type>
+
+          <resolution>480 x 854</resolution>
+
+          <battery>1500 mAh</battery>
+
+          <flash>Yes</flash>
+
+          <nfc>-------</nfc>
+
+          <bluetooth>Yes,v2.1</bluetooth>
+
+          <wifi>Wi-Fi 802.11 b/g/n</wifi>
+
+          <gps>Yes</gps>
+
+          <other>SNS integration,HDMI port,voice memo/dail/commands</other>
+
+          <wbuy>Pick 7/10</wbuy>
+
+          <video>tqPq8ixI87Y</video>  
+
+          
+
+    
+
+        <image>
+
+          <a>sonyericssonxperianeo.png</a>
+
+        </image>
+
+        <image>
+
+          <a>sonyericssonxperianeo1.png</a>
+
+        </image>
+
+        <image>
+
+          <a>sonyericssonxperianeo2.png</a>
+
+        </image>
+
+       
+
+        
+
+        </mobile>
+
+</mobiles>
+

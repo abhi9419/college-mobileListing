@@ -1,0 +1,67 @@
+<mobiles>
+<mobile>
+<short_name>lgoptimushub</short_name>
+<mobile_name>LG Optimus Hub </mobile_name>
+<price>8500
+</price>
+<os>Android OS v2.3
+</os>
+<upgradable>----</upgradable>
+<cpu>800 MHz ARM v6 Processor
+</cpu>
+<chipset>Qualcomm MSM7227T
+</chipset>
+<gpu>Adreno 200</gpu>
+<radio>Stereo FM 
+</radio>
+<jack>Present
+</jack>
+<pcamera>5 MP Camera,Auto-Focus and Geo-tagging</pcamera>
+<scamera>----
+</scamera>
+<imemory>150 MB Storage
+</imemory>
+<ram>512 MB 
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg> HSDPA 900/2100 
+</threeg>
+<fourg>---
+</fourg>
+<dsim>----
+</dsim>
+<ssim>----</ssim>
+<dimension>113.4 x 60.8 x 11.9 mm
+</dimension>
+<weight>123 g
+</weight>
+<screen_type>3.5 Inches,TFT Capacitive Touchscreen
+</screen_type>
+<resolution>320 x 480
+</resolution>
+<battery>Standard Battery Li-Po 1500 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Navigation,Polaris viewer,Digital-Compass,You-Tube
+</other>
+<wbuy>Pick 7/10
+</wbuy>
+<video>
+</video>
+<image>
+<a>lgoptimushub.png</a></image><image>
+<a>lgoptimushub1.png</a></image><image>
+<a>lgoptimushub2.png</a></image></mobile>
+</mobiles>

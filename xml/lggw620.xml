@@ -1,0 +1,68 @@
+<mobiles>
+<mobile>
+<short_name>lggw620</short_name>
+<mobile_name>LG Gw620 </mobile_name>
+<price>15000
+</price>
+<os>Android OS v1.5
+</os>
+<upgradable>Upgradable to v2.2
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>----</gpu>
+<radio>Stereo FM
+</radio>
+<jack>Present
+</jack>
+<pcamera>5MP Camera,Auto-Focus,LED Flash</pcamera>
+<scamera>----
+</scamera>
+<imemory>150 MB
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg> HSDPA 900/2100 
+</threeg>
+<fourg>---
+</fourg>
+<dsim>----
+</dsim>
+<ssim>----</ssim>
+<dimension>109 x 54.5 x 15.9 mm 
+</dimension>
+<weight>139 g
+</weight>
+<screen_type>3.0 Inches
+</screen_type>
+<resolution>320 x 480 
+</resolution>
+<battery>Standard Battery Li-Po 1500 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Document viewer,Organiser
+</other>
+<wbuy>Drop 5/10;
+</wbuy>
+<video>
+</video>
+<image>
+<a>lggw620.png</a></image><image>
+<a>lggw6201.png</a></image><image>
+<a>lggw6202.png</a></image></mobile>
+</mobiles>

@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>blackberrycurve8300</short_name>
+          <mobile_name>Blackberry Curve 8300</mobile_name>
+          <price> Rs 8200</price>
+          <os>Blackberry OS</os>
+          <upgradable>----</upgradable>
+          <cpu>32-bit Intel XScale PXA272 312 processor</cpu>
+          <chipset>----</chipset>
+          <gpu>----</gpu>
+          <radio>No</radio>
+          <jack>Yes</jack>
+          <pcamera>Yes,2MP with LED flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>64 MB</imemory>
+          <ram>----</ram>
+          <mcard>Expandable upto 4 GB</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>----------</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>107mm x 60mm x 15.5mm</dimension>
+          <weight>111 g</weight>
+          <screen_type>2.5 inches</screen_type>
+          <resolution>320 x 240</resolution>
+          <battery>1100 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes,v2.0</bluetooth>
+          <wifi>----</wifi>
+          <gps>No</gps>
+          <other>Reminders,Currency converters</other>
+          <wbuy>Drop 4/10</wbuy>
+          <video>_Naw433pRcY</video>  
+          
+    
+        <image>
+          <a>blackberrycurve8300.png</a>
+        </image>
+        <image>
+          <a>blackberrycurve83001.png</a>
+        </image>
+        <image>
+          <a>blackberrycurve83002.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

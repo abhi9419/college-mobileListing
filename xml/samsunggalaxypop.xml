@@ -1,0 +1,49 @@
+<mobiles>
+        <mobile>
+          <short_name>samsunggalaxypop</short_name>
+          <mobile_name>Samsung Galaxy Pop</mobile_name>
+          <price> Rs 7800</price>
+          <os>Android OS,v2.2(Froyo)</os>
+          <upgradable>----</upgradable>
+          <cpu>600 MHz processor</cpu>
+          <chipset>Qualcomm MSM7227</chipset>
+          <gpu>Adreno 200</gpu>
+          <radio>Present</radio>
+          <jack>Yes</jack>
+          <pcamera>Yes,3MP </pcamera>
+          <scamera>No</scamera>
+          <imemory>160 MB</imemory>
+          <ram>----</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 900 / 2100</threeg>
+          <fourg>----</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>110.4m x 60.6mm x 12.1mm</dimension>
+          <weight>106.6g</weight>
+          <screen_type>TFT capacitive Touchscreen</screen_type>
+          <resolution>240X320 pixels</resolution>
+          <battery>1200 mAh</battery>
+          <flash>No</flash>
+          <nfc>No</nfc>
+          <bluetooth>Yes,v2.1</bluetooth>
+          <wifi>Yes,802.11 b/g/n</wifi>
+          <gps>Yes</gps>
+          <other>Social Networking,Gmail,Maps,Picasa Integration</other>
+          <wbuy>Drop 6/10</wbuy>
+          <video>8PWfAtNLR0c</video>  
+          
+    
+        <image>
+          <a>samsunggalaxypop.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxypop1.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxypop2.png</a>
+        </image>
+        
+        </mobile>
+</mobiles>

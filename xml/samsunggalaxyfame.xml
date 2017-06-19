@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>samsunggalaxyfame
+</short_name>
+<mobile_name>Samsung Galaxy Fame
+</mobile_name>
+<price>Rs 10000
+</price>
+<os>Android v4.1(Jelly Bean)
+</os>
+<upgradable>------
+</upgradable>
+<cpu>1 GHz processor
+</cpu>
+<chipset>------
+</chipset>
+<gpu>------
+</gpu>
+<radio>Yes
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,5MP
+</pcamera>
+<scamera>Yes,VGA Camera
+</scamera>
+<imemory>4 GB
+</imemory>
+<ram>512 MB
+</ram>
+<mcard>Expandable upto 64GB.
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 900/2100
+</threeg>
+<fourg>-------
+</fourg>
+<dsim>No
+</dsim>
+<ssim>Yes</ssim>
+<dimension>113.2mm x 61.6mm x 11.6mm
+</dimension>
+<weight>120.6g
+</weight>
+<screen_type>3.5 inches,TFT Capacitive touchscreen
+</screen_type>
+<resolution>320 x 480
+</resolution>
+<battery>Li-Ion 1300mAh
+</battery>
+<flash>No
+</flash>
+<nfc>Yes
+</nfc>
+<bluetooth>Yes,v3.0
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n,Wi-Fi hotspot
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>document viewer,Google Search,Maps,Gmail,YouTube,Picasa
+</other>
+<wbuy>Pick 8/10;
+</wbuy>
+<video>XAt3BOsgbj8
+</video>
+<image>
+<a>samsunggalaxyfame.png</a></image><image>
+<a>samsunggalaxyfame1.png</a></image><image>
+<a>samsunggalaxyfame2.png</a></image></mobile>
+</mobiles>

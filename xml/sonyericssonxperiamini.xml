@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>sonyericssonxperiamini</short_name>
+          <mobile_name>Sony Ericsson Xperia Mini</mobile_name>
+          <price> Rs 10000</price>
+          <os>Android OS v2.3(Gingerbread)</os>
+          <upgradable>----</upgradable>
+          <cpu>1 GHz Scorpion Processor</cpu>
+          <chipset>Qualcomm MSM8255 Snapdragon</chipset>
+          <gpu>Adreno 205</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>5 MP,with autofocus and LED flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>320 MB</imemory>
+          <ram>512 MB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 900/2100</threeg>
+          <fourg>No</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>88mm x 52mm x 16mm</dimension>
+          <weight>99 g</weight>
+          <screen_type>3 inches,LED-backlit LCD,capacitive touchscreen</screen_type>
+          <resolution>320 x 480</resolution>
+          <battery>1200 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>-------</nfc>
+          <bluetooth>Yes,v2.1</bluetooth>
+          <wifi>Wi-Fi 802.11 b/g/n,Wi-Fi Hotspot</wifi>
+          <gps>Yes</gps>
+          <other>Document reader,Google Search,Maps,Gmail,YouTube</other>
+          <wbuy>Pick 7/10</wbuy>
+          <video>tM4NiWitX7U</video>  
+          
+    
+        <image>
+          <a>sonyericssonxperiamini.png</a>
+        </image>
+        <image>
+          <a>sonyericssonxperiamini1.png</a>
+        </image>
+        <image>
+          <a>sonyericssonxperiamini2.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

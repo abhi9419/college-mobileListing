@@ -1,0 +1,49 @@
+<mobiles>
+        <mobile>
+          <short_name>samsunggalaxy5</short_name>
+          <mobile_name>Samsung Galaxy 5</mobile_name>
+          <price> Rs 7700</price>
+          <os>Android OS,v2.1</os>
+          <upgradable>----</upgradable>
+          <cpu>600 MHz processor</cpu>
+          <chipset>----</chipset>
+          <gpu>----</gpu>
+          <radio>Present</radio>
+          <jack>Yes</jack>
+          <pcamera>Yes,2MP </pcamera>
+          <scamera>No</scamera>
+          <imemory>170 MB</imemory>
+          <ram>----</ram>
+          <mcard>Expandable upto 16 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 900 / 2100</threeg>
+          <fourg>----</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>108m x 56mm x 12.3mm</dimension>
+          <weight>102g</weight>
+          <screen_type>TFT Capacitive Touchscreen</screen_type>
+          <resolution>240X320 pixels</resolution>
+          <battery>1200 mAh</battery>
+          <flash>No</flash>
+          <nfc>No</nfc>
+          <bluetooth>Yes,v2.1</bluetooth>
+          <wifi>Yes,802.11 b/g</wifi>
+          <gps>Yes</gps>
+          <other>Google Search,Voice memo,Document viewer</other>
+          <wbuy>Drop 5/10</wbuy>
+          <video>wqOoRPKvcdE</video>  
+          
+    
+        <image>
+          <a>samsunggalaxy5.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxy51.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxy52.png</a>
+        </image>
+        
+        </mobile>
+</mobiles>

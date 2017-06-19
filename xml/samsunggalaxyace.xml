@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<mobiles>
+        <mobile>
+          <short_name>samsunggalaxyace</short_name>
+          <mobile_name>Samsung Galaxy Ace</mobile_name>
+          <price>9000</price>
+          <os>Android OS v2.3</os>
+          <upgradable>----</upgradable>
+          <cpu>800 MHz ARM Processor</cpu>
+          <chipset>Qualcomm MSM7227</chipset>
+          <gpu>Adreno 200</gpu>
+          <radio>Present</radio>
+          <jack>Present</jack>
+          <pcamera>Yes,5MP with auto-focus and LED Flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>158 MB</imemory>
+          <ram>278 MB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 900 / 2100</threeg>
+          <fourg>----</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>112.4mm x 59.9mm x 11.5mm</dimension>
+          <weight>113 g</weight>
+          <screen_type>TFT Capacitive Touchscreen</screen_type>
+          <resolution>320X480 pixels</resolution>
+          <battery>1350mAh</battery>
+          <flash>Yes</flash>
+          <nfc>No</nfc>
+          <bluetooth>Yes,v2.1</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 a/b/g/n,Wi-Fi Direct and Hotspot</wifi>
+          <gps>Yes,with aGPS</gps>
+          <other>Picasa Integration,Image/video editor,maps,Google Talk</other>
+          <wbuy>Drop 6/10</wbuy>
+          <video>UR1v-mBQc44</video>  
+          
+    
+        <image>
+          <a>samsunggalaxyace.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxyace1.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxyace2.png</a>
+        </image>
+        
+        </mobile>
+</mobiles>

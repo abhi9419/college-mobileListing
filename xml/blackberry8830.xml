@@ -1,0 +1,51 @@
+
+<mobiles>
+        <mobile>
+          <short_name>blackberry8830</short_name>
+          <mobile_name>Blackberry 8830</mobile_name>
+          <price> Rs 3500</price>
+          <os>Blackberry OS</os>
+          <upgradable>----</upgradable>
+          <cpu>Qualcomm MSM6550 processor</cpu>
+          <chipset>----</chipset>
+          <gpu>----</gpu>
+          <radio>No</radio>
+          <jack>Yes</jack>
+          <pcamera>No</pcamera>
+          <scamera>No</scamera>
+          <imemory>64 MB</imemory>
+          <ram>16 MB</ram>
+          <mcard>Yes</mcard>
+          <twog>GSM 900/1800/CDMA2000</twog>
+          <threeg>---------</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>114mm x 66mm x 14mm</dimension>
+          <weight>132 g</weight>
+          <screen_type>2.5 inches,TFT,65K colors</screen_type>
+          <resolution>320 x 240</resolution>
+          <battery>1400 mAh</battery>
+          <flash>No</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes,v2.0</bluetooth>
+          <wifi>----</wifi>
+          <gps>Yes</gps>
+          <other>Blackberry maps,Document viewer</other>
+          <wbuy>Drop 5/10</wbuy>
+          <video>YrX5yiuCu_s</video>  
+          
+    
+        <image>
+          <a>blackberry8830.png</a>
+        </image>
+        <image>
+          <a>blackberry88301.png</a>
+        </image>
+        <image>
+          <a>blackberry88302.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

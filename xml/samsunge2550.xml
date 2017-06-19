@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>samsunge2550</short_name>
+<mobile_name>Samsung E2550</mobile_name>
+<price>3200
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>-----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>FM Radio,FM Recording
+</radio>
+<jack>Present
+</jack>
+<pcamera>1.3 MP</pcamera>
+<scamera>----
+</scamera>
+<imemory>13 MB Storage
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 8GB
+</mcard>
+<twog>GSM 900/1800 
+</twog>
+<threeg>----
+</threeg>
+<fourg>---
+</fourg>
+<dsim>----
+</dsim>
+<ssim>----</ssim>
+<dimension>98.5 x 48.5 x 14.3 mm
+</dimension>
+<weight>87.7 g
+</weight>
+<screen_type>2 Inches,TFT Touchscreen,256k Colors
+</screen_type>
+<resolution>128 x 160
+</resolution>
+<battery>Standard Battery Li-Po 800 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>----
+</wifi>
+<gps>----
+</gps>
+<other>Calulator,MP3 Player
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>samsunge2550.png</a></image><image>
+<a>samsunge25501.png</a></image><image>
+<a>samsunge25502.png</a></image></mobile>
+</mobiles>

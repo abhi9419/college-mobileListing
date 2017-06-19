@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>xolox1000
+</short_name>
+<mobile_name>Xolo X1000
+</mobile_name>
+<price>Rs 17200
+</price>
+<os>Android OS v4.0.4(ICS)
+</os>
+<upgradable>------
+</upgradable>
+<cpu>2 GHz Intel Atom with Hyper Threading
+</cpu>
+<chipset>Intel Atom Processor Z2480
+</chipset>
+<gpu>PowerVR SGX540
+</gpu>
+<radio>Yes
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,8MP with LED flash
+</pcamera>
+<scamera>Yes,1.3MP Camera
+</scamera>
+<imemory>8 GB
+</imemory>
+<ram>1 GB
+</ram>
+<mcard>Expandable upto 32GB.
+</mcard>
+<twog>GSM 900/1800
+</twog>
+<threeg>UMTS 2100
+</threeg>
+<fourg>No
+</fourg>
+<dsim>No
+</dsim>
+<ssim>Yes</ssim>
+<dimension>133.9mm x 67.6mm x 9.1mm
+</dimension>
+<weight>140gms
+</weight>
+<screen_type>4.7 inches,Sharp TFT transmissive LCD
+</screen_type>
+<resolution>720 x1280
+</resolution>
+<battery>1900mAh
+</battery>
+<flash>Yes
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes,v2.1
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n,Wi-Fi hotspot
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Accelerometer,Gyroscope,Magnetometer,Ambient light sensor,Proximity sensor,Google search,Google play
+</other>
+<wbuy>Pick 7.5/10;
+</wbuy>
+<video>
+</video>
+<image>
+<a>xolox1000.png</a></image><image>
+<a>xolox10001.png</a></image><image>
+<a>xolox10002.png</a></image></mobile>
+</mobiles>

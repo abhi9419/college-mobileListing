@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>karbonnk30
+</short_name>
+<mobile_name>Karbonn K30
+</mobile_name>
+<price>Rs 3750
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>----
+</gpu>
+<radio>Yes
+</radio>
+<jack>----
+</jack>
+<pcamera>Yes,0.3MP
+</pcamera>
+<scamera>No
+</scamera>
+<imemory>81 MB
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 8GB
+</mcard>
+<twog>GSM 900/1800
+</twog>
+<threeg>No
+</threeg>
+<fourg>No
+</fourg>
+<dsim>Yes,GSM and GSM
+</dsim>
+<ssim>No</ssim>
+<dimension>110 x 60 x 13mm
+</dimension>
+<weight>85g
+</weight>
+<screen_type>2.4 inches,QVGA 262k colors
+</screen_type>
+<resolution>320 x 240
+</resolution>
+<battery>Standard Li-Ion 1000 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>----
+</wifi>
+<gps>No
+</gps>
+<other>Organizer,Calendar
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>karbonnk30.png</a></image><image>
+<a>karbonnk301.png</a></image><image>
+<a>karbonnk302.png</a></image></mobile>
+</mobiles>

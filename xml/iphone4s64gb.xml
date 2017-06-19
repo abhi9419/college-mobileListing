@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<mobiles>
+<mobile>
+<short_name>iphone4s64gb
+</short_name>
+<mobile_name>iPHONE 4S 64GB
+</mobile_name>
+<price>43000</price>
+<os>iOS 5
+</os>
+<upgradable>--
+</upgradable>
+<cpu>1 GHz Dual-Core Cortex-A9 Processor
+</cpu>
+<chipset>Apple A5
+</chipset>
+<gpu>---
+</gpu>
+<radio>No
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,8MP with auto focus,LED Flash
+</pcamera>
+<scamera>Yes,VGA Camera.
+</scamera>
+<imemory>64GB
+</imemory>
+<ram>1 GB
+</ram>
+<mcard>No memory card
+</mcard>
+<twog>GSM 850 / 900 / 1900 / 1800
+</twog>
+<threeg>HSDPA 850 / 900 /1900 /2100
+</threeg>
+<fourg>No
+</fourg>
+<dsim>No
+</dsim>
+<ssim>Yes,CDMA
+</ssim>
+<dimension>115.2mm x 58.6mm x 9.3mm
+</dimension>
+<weight>137g
+</weight>
+<screen_type>TFT screen with LED Backlit
+</screen_type>
+<resolution>640 x 960
+</resolution>
+<battery>1420mAh
+</battery>
+<flash>LED flash
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes,v2.1
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,with A-GPS
+</gps>
+<other>Digital Compass,Google Maps,TV-Out,Organizer.
+</other>
+<wbuy>Pick 8/10</wbuy>
+<video>3tUScNg9yZ4
+</video>
+<image>
+<a>iphone4s64gb.png</a></image><image>
+<a>iphone4s64gb1.png</a></image><image>
+<a>iphone4s64gb2.png</a></image></mobile>
+</mobiles>

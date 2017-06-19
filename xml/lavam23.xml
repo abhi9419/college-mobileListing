@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>lavam23</short_name>
+<mobile_name>Lava M23</mobile_name>
+<price>3000
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>1.3 MP </pcamera>
+<scamera>----
+</scamera>
+<imemory>----
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 8 GB
+</mcard>
+<twog>GSM 900/1800 MHz - SIM 1 & SIM 2 
+</twog>
+<threeg>----
+</threeg>
+<fourg>---
+</fourg>
+<dsim>Yes,GSM and GSM
+</dsim>
+<ssim>----</ssim>
+<dimension>----
+</dimension>
+<weight>----
+</weight>
+<screen_type>2.4 Inches TFT,65k colors
+</screen_type>
+<resolution>176 x 220
+</resolution>
+<battery>Standard Battery Li-Po 850 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>----
+</wifi>
+<gps>----
+</gps>
+<other>Torch,Mobile Tracker,SNS Intergration,Predictive text input
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>lavam23.png</a></image><image>
+<a>lavam231.png</a></image><image>
+<a>lavam232.png</a></image></mobile>
+</mobiles>

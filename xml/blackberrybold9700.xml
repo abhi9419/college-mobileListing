@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>blackberrybold9700</short_name>
+          <mobile_name>Blackberry Bold 9700</mobile_name>
+          <price> Rs 22000</price>
+          <os>Blackberry OS 5.0</os>
+          <upgradable>----</upgradable>
+          <cpu>624 MHz processor</cpu>
+          <chipset>----</chipset>
+          <gpu>----</gpu>
+          <radio>No</radio>
+          <jack>Yes</jack>
+          <pcamera>Yes,3.15MP with auto-focus and LED flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>256 MB</imemory>
+          <ram>256 MB</ram>
+          <mcard>Expandable upto 16 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 850 / 900 / 1900 / 2100</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>110mm x 60mm x 11.4mm</dimension>
+          <weight>107 g</weight>
+          <screen_type>TFT Capacitive touch screen</screen_type>
+          <resolution>480 x 360</resolution>
+          <battery>1500 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes,v2.1</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 b/g</wifi>
+          <gps>Yes</gps>
+          <other>Document Editor,Voice momo/dial,Blackberry Maps</other>
+          <wbuy>Drop 4/10</wbuy>
+          <video>rlR5UQuDVqg</video>  
+          
+    
+        <image>
+          <a>blackberrybold9700.png</a>
+        </image>
+        <image>
+          <a>blackberrybold97001.png</a>
+        </image>
+        <image>
+          <a>blackberrybold97002.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

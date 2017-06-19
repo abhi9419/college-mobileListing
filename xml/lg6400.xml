@@ -1,0 +1,70 @@
+<mobiles>
+<mobile>
+<short_name>lg6400</short_name>
+<mobile_name>LG 6400 </mobile_name>
+<price>3100
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>1.3 MP, 1280 x 960</pcamera>
+<scamera>----
+</scamera>
+<imemory>15 MB
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 4GB
+</mcard>
+<twog>CDMA Digital(DCN)/1x
+</twog>
+<threeg>----
+</threeg>
+<fourg>---
+</fourg>
+<dsim>----
+</dsim>
+<ssim>----</ssim>
+<dimension>109 x 47 x 13.7 mm
+</dimension>
+<weight>----
+</weight>
+<screen_type>5.08 cms,TFT,265K Colors
+</screen_type>
+<resolution>176 x 220
+</resolution>
+<battery>Standard Battery Li-Po 950 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>No
+</wifi>
+<gps>----
+</gps>
+<other>Mobile Tracker,PC Sync
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>lg6400.png</a></image><image>
+<a>lg64001.png</a></image><image>
+<a>lg64002.png</a></image></mobile>
+
+</mobiles>

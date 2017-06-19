@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>samsungwavey
+</short_name>
+<mobile_name>Samsung Wave Y
+</mobile_name>
+<price>Rs 6200 
+</price>
+<os>Bada OS v2.0
+</os>
+<upgradable>----
+</upgradable>
+<cpu>832 MHz
+</cpu>
+<chipset>----
+</chipset>
+<gpu>---
+</gpu>
+<radio>Stereo FM With RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,2 MP with Geo-Tagging(1600 x 1200)
+</pcamera>
+<scamera>----
+</scamera>
+<imemory>150 MB
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 32GB.
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 900/2100
+</threeg>
+<fourg>---
+</fourg>
+<dsim>----
+</dsim>
+<ssim>----</ssim>
+<dimension>110 x 58.2 x 12.3 mm
+</dimension>
+<weight>102.4 g
+</weight>
+<screen_type>3.2 inches,TFT Capacitive Ttouchscreen
+</screen_type>
+<resolution>320 x 480
+</resolution>
+<battery>Standard Battery Li-Po 1200 MAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>----
+</wifi>
+<gps>Yes
+</gps>
+<other>Organizer,Samsung ChatON,Image Editor,Document Viewer,Voice Memo
+</other>
+<wbuy>Drop 6/10;
+</wbuy>
+<video>
+</video>
+<image>
+<a>samsungwavey.png</a></image><image>
+<a>samsungwavey1.png</a></image><image>
+<a>samsungwavey2.png</a></image></mobile>
+</mobiles>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<mobiles>
+        <mobile>
+          <short_name>samsunggalaxynexus</short_name>
+          <mobile_name>Samsung Galaxy Nexus</mobile_name>
+          <price>25000</price>
+          <os>Android 4.1</os>
+          <upgradable>----</upgradable>
+          <cpu>1.2 Ghz Dual Core processor</cpu>
+          <chipset>OMAP 4460</chipset>
+          <gpu>PowerVR SGX540</gpu>
+          <radio>Present</radio>
+          <jack>Present</jack>
+          <pcamera>Yes,5MP with auto-focus,LED Flash</pcamera>
+          <scamera>Yes,1.3MP</scamera>
+          <imemory>16 GB/32 GB</imemory>
+          <ram>1 GB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 850 / 900 / 1900 / 2100</threeg>
+          <fourg>----</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>135.5mm x 67.9mm x 8.9mm</dimension>
+          <weight>135 g</weight>
+          <screen_type>Super Amoled screen with Oleophobic Screen</screen_type>
+          <resolution>720 x 1280</resolution>
+          <battery>1750mAh</battery>
+          <flash>LED Flash</flash>
+          <nfc>Yes</nfc>
+          <bluetooth>Yes,v3.0</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct, Wi-Fi hotspot</wifi>
+          <gps>Yes, with aGPS</gps>
+          <other>Accelerometer,proximity sensors,Integrated Document editor</other>
+          <wbuy>Drop 6/10</wbuy>
+          <video>Gf7h4aBWMD0</video>  
+          
+    
+        <image>
+          <a>samsunggalaxynexus.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxynexus1.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxynexus2.png</a>
+        </image>
+        
+        </mobile>
+</mobiles>

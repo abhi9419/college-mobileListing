@@ -1,0 +1,68 @@
+<mobiles>
+<mobile>
+<short_name>lgoptimus3dmax</short_name>
+<mobile_name>LG Optimus 3D MAX </mobile_name>
+<price>22000
+</price>
+<os>Android OS v2.3
+</os>
+<upgradable>upgradable to 4.0
+</upgradable>
+<cpu>Dual-core 1.2 GHz Cortex-A9 processor
+</cpu>
+<chipset>TI OMAP 4430
+</chipset>
+<gpu>PowerVR SGX540</gpu>
+<radio>----
+</radio>
+<jack>Present
+</jack>
+<pcamera>Dual 5MP Camera auto-focus,LED Flash</pcamera>
+<scamera>Yes
+</scamera>
+<imemory>8 GB Storage
+</imemory>
+<ram>1GB
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg> HSDPA 900/1900/2100 
+</threeg>
+<fourg>---
+</fourg>
+<dsim>----
+</dsim>
+<ssim>----</ssim>
+<dimension>126.8 x 67.4 x 9.6 mm
+</dimension>
+<weight>148 g
+</weight>
+<screen_type>4.3 inches 3D LCD Capacitive Touchscreen
+</screen_type>
+<resolution>480 x 800 
+</resolution>
+<battery>Standard Battery Li-Po 1520 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Gravity Sensor,SNS integration,HD Converter,Anti-theft Mobile Traker
+</other>
+<wbuy>Pick 6.5/10;
+</wbuy>
+<video>9OnA2IXNuRU
+</video>
+<image>
+<a>lgoptimus3dmax.png</a></image><image>
+<a>lgoptimus3dmax1.png</a></image><image>
+<a>lgoptimus3dmax2.png</a></image></mobile>
+</mobiles>

@@ -1,0 +1,49 @@
+<mobiles>
+        <mobile>
+          <short_name>samsunggalaxyfit</short_name>
+          <mobile_name>Samsung Galaxy Fit</mobile_name>
+          <price> Rs 9500</price>
+          <os>Andriod Os, v2.2(Froyo)</os>
+          <upgradable>----</upgradable>
+          <cpu>600 MHz processor</cpu>
+          <chipset>----</chipset>
+          <gpu>----</gpu>
+          <radio>Present</radio>
+          <jack>Yes</jack>
+          <pcamera>Yes,5MP auto focus with LED Flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>160 MB</imemory>
+          <ram>----</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 900 / 2100</threeg>
+          <fourg>----</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>110.2mm x 61.2mm x 12.6mm</dimension>
+          <weight>108.2 g</weight>
+          <screen_type>TFT Capacitive Touchscreen</screen_type>
+          <resolution>240X320 pixels</resolution>
+          <battery>1350mAh</battery>
+          <flash>Yes</flash>
+          <nfc>No</nfc>
+          <bluetooth>Yes,v2.1</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 a/b/g/n</wifi>
+          <gps>Yes</gps>
+          <other>Digital compass,PC Sync Application,Picasa integration</other>
+          <wbuy>Pick 6/10</wbuy>
+          <video>kIdR0Z2lKBU</video>  
+          
+    
+        <image>
+          <a>samsunggalaxyfit.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxyfit1.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxyfit2.png</a>
+        </image>
+        
+        </mobile>
+</mobiles>

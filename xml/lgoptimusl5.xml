@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>lgoptimusl5</short_name>
+<mobile_name>LG Optimus l5</mobile_name>
+<price>11500
+</price>
+<os>Android OS v4.0
+</os>
+<upgradable>----
+</upgradable>
+<cpu>800 MHz Processor
+</cpu>
+<chipset>Qualcomm MSM7227A Snapdragon
+</chipset>
+<gpu>Adreno 200
+</gpu>
+<radio>Stereo FM with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>5MP Camera with Auto-Focus,LED Flash</pcamera>
+<scamera>----
+</scamera>
+<imemory>4 GB
+</imemory>
+<ram>512 MB
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 900/2100 
+</threeg>
+<fourg>---
+</fourg>
+<dsim>----
+</dsim>
+<ssim>----</ssim>
+<dimension>118.3 x 66.5 x 9.5 mm
+</dimension>
+<weight>125 g
+</weight>
+<screen_type>4 Inches,Capacitive Touchscreen,16M Colors
+</screen_type>
+<resolution>320 x 480
+</resolution>
+<battery>Standard Battery Li-Po 1500 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Gravity Sensor,SNS integration,Document Viewer,Google Search,Maps
+</other>
+<wbuy>Drop 6/10;
+</wbuy>
+<video>BCkH9jzY2E8
+</video>
+<image>
+<a>lgoptimusl5.png</a></image><image>
+<a>lgoptimusl51.png</a></image><image>
+<a>lgoptimusl52.png</a></image></mobile>
+</mobiles>

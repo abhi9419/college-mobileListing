@@ -1,0 +1,48 @@
+<mobiles>
+<mobile>
+<short_name>nokialumia920</short_name>
+<mobile_name>Nokia Lumia 920</mobile_name>
+<price>Rs 36000</price>
+<os>Windows 8</os>
+<upgradable>---</upgradable>
+<cpu>1.5 Ghz Dual Core</cpu>
+<chipset>Snapdragon</chipset>
+<gpu>Adreno 225</gpu>
+<radio>Present</radio>
+<jack>Present</jack>
+<pcamera>Yes,8MP with auto focus and Carl Zeiss Optics</pcamera>
+<scamera>Yes,1.3 MP</scamera>
+<imemory>32 GB</imemory>
+<ram>1 GB</ram>
+<mcard>Not Available</mcard>
+<twog>GSM 850 / 900 / 1900 / 1800</twog>
+<threeg>HSPDA 850 / 900 / 1900 / 2100</threeg>
+<fourg>LTE</fourg>
+<dsim>No</dsim>
+<ssim>Yes,GSM Micro Sim  Only</ssim>
+<dimension>130.3mm x 70.8 x 10.7mm</dimension>
+<weight>185 g</weight>
+<screen_type>Amoled Capacitive Touch Screen</screen_type>
+<resolution>1280 x 720</resolution>
+<battery>2000 mAh.TalkTime 18h(2G) 9.5h(3G)</battery>
+<flash>Dual LED Flash</flash>
+<nfc>Yes</nfc>
+<bluetooth>Yes,v3.1</bluetooth>
+<wifi>Yes,Wi-fi hotspot.</wifi>
+<gps>Yes,with A-GPS and GLONASS</gps>
+<other>
+Accelerometer,XBox live Hub,Wireless Charging.
+</other>
+<wbuy>Pick 8.5/10</wbuy>
+<video>8Q8tlSDpVDI</video>
+<image>
+<a>nokialumia920 .png</a>
+</image>
+<image>
+<a>nokialumia921.png</a>
+</image>
+<image>
+<a>nokialumia9202.png</a>
+</image>
+</mobile>
+</mobiles>

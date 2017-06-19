@@ -1,0 +1,70 @@
+<mobiles>
+<mobile>
+<short_name>lgx330</short_name>
+<mobile_name>LG X330</mobile_name>
+<price>3900
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>1.3 MP (1280 x 1024) </pcamera>
+<scamera>----
+</scamera>
+<imemory>80 MB
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 8GB
+</mcard>
+<twog>GSM 900/1800 - SIM 1 and SIM 2
+</twog>
+<threeg>----
+</threeg>
+<fourg>---
+</fourg>
+<dsim>Yes, GSM and GSM
+</dsim>
+<ssim>----</ssim>
+<dimension>109 x 61 x 13.8 mm
+</dimension>
+<weight>77.5 g
+</weight>
+<screen_type>5.8 Inches,TFT 65K Colors
+</screen_type>
+<resolution>320 x 240 
+</resolution>
+<battery>Standard Battery Li-Po 950 mAh 
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>----
+</wifi>
+<gps>----
+</gps>
+<other>Facebook,Twitter,Mobile Tracker,RockeTalk
+</other>
+<wbuy>
+</wbuy>
+<video>
+</video>
+<image>
+<a>lgx330.png</a></image><image>
+<a>lgx3301.png</a></image><image>
+<a>lgx3302.png</a></image></mobile>
+
+</mobiles>

@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>sonyxperiamiro
+</short_name>
+<mobile_name>Sony Xperia Miro
+</mobile_name>
+<price>Rs 12000
+</price>
+<os>Android OS v4.0(ICS)
+</os>
+<upgradable>------
+</upgradable>
+<cpu>800 MHz Cortex-A5
+</cpu>
+<chipset>Qualcomm MSM7227A 
+</chipset>
+<gpu>Adreno 200
+</gpu>
+<radio>Yes
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,5MP with autofocus and LED flash
+</pcamera>
+<scamera>Yes,VGA
+</scamera>
+<imemory>4 GB
+</imemory>
+<ram>512 MB
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 900/2100
+</threeg>
+<fourg>------
+</fourg>
+<dsim>No
+</dsim>
+<ssim>Yes</ssim>
+<dimension>113mm x 59.4mm x 9.9mm
+</dimension>
+<weight>110gms
+</weight>
+<screen_type>3.5 inches,TFT Capacitive touchscreen
+</screen_type>
+<resolution>320 x 480
+</resolution>
+<battery>Li-Ion 1500 mAh
+</battery>
+<flash>Yes
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes,v2.1
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n,Wi-Fi hotspot
+</wifi>
+<gps>Yes,with A-GPS support
+</gps>
+<other>SNS integration,Google Search,Maps,Gmail,Document viewer
+</other>
+<wbuy>Pick 7/10;
+</wbuy>
+<video>XQZ8sS-_KvE
+</video>
+<image>
+<a>sonyxperiamiro.png</a></image><image>
+<a>sonyxperiamiro1.png</a></image><image>
+<a>sonyxperiamiro2.png</a></image></mobile>
+</mobiles>

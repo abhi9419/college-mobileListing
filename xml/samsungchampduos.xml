@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>samsungchampduos</short_name>
+<mobile_name>Samsung Champ Duos</mobile_name>
+<price>4000
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>-----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>FM Radio,FM Recording
+</radio>
+<jack>Present
+</jack>
+<pcamera>1.3 MP</pcamera>
+<scamera>----
+</scamera>
+<imemory>50 MB Storage
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 16GB
+</mcard>
+<twog>GSM 900/1800/1900
+</twog>
+<threeg>----
+</threeg>
+<fourg>---
+</fourg>
+<dsim>Yes
+</dsim>
+<ssim>----</ssim>
+<dimension>99.9 x 54.9 x 13 mm
+</dimension>
+<weight>88 g
+</weight>
+<screen_type>2.6 Inches,TFT Resistive Touchscreen,256k Colors
+</screen_type>
+<resolution>240 x 320
+</resolution>
+<battery>Standard Battery Li-Po 1000 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>----
+</wifi>
+<gps>----
+</gps>
+<other>SNS Integrator,Predictive text input,MP3 Player
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>samsungchampduos.png</a></image><image>
+<a>samsungchampduos1.png</a></image><image>
+<a>samsungchampduos2.png</a></image></mobile>
+</mobiles>

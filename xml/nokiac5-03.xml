@@ -1,0 +1,68 @@
+<mobiles>
+<mobile>
+<short_name>nokiac5-03</short_name>
+<mobile_name>Nokia C5-03</mobile_name>
+<price>8000
+</price>
+<os>Symbian OS v9.4,S60
+</os>
+<upgradable>----
+</upgradable>
+<cpu>ARM 11 600 MHz Processor
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM 
+</radio>
+<jack>Present
+</jack>
+<pcamera>5 MP</pcamera>
+<scamera>----
+</scamera>
+<imemory>40 MB
+</imemory>
+<ram>128 MB
+</ram>
+<mcard>extendable upto 16GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg> HSDPA 900/1900/2100 
+</threeg>
+<fourg>---
+</fourg>
+<dsim>----
+</dsim>
+<ssim>----</ssim>
+<dimension>105.8 x 51 x 13.8 mm
+</dimension>
+<weight>93 g
+</weight>
+<screen_type>3.2 Inches,TFT resistive Touchscreen,16M Colors
+</screen_type>
+<resolution>360 x 640
+</resolution>
+<battery>Standard Battery Li-Po 1000 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Photo editor,TV-Out,Virtual Qwerty</other>
+<wbuy>Drop 5/10;
+</wbuy>
+<video>
+</video>
+<image>
+<a>nokiac5-03.png</a></image><image>
+<a>nokiac5-031.png</a></image><image>
+<a>nokiac5-032.png</a></image></mobile>
+</mobiles>

@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>lavaa10</short_name>
+<mobile_name>Lava A10</mobile_name>
+<price>3000
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>3.2 MP with flash</pcamera>
+<scamera>----
+</scamera>
+<imemory>58 MB
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 16GB
+</mcard>
+<twog>GSM 900/1800 MHz SIM 1 & SIM 2 
+</twog>
+<threeg>----
+</threeg>
+<fourg>---
+</fourg>
+<dsim>Yes,GSM and GSM
+</dsim>
+<ssim>----</ssim>
+<dimension>----
+</dimension>
+<weight>----
+</weight>
+<screen_type>3.0 Inches TFT Touchsreen,262k colors
+</screen_type>
+<resolution>240 x 320 
+</resolution>
+<battery>Standard Battery Li-Po 1400 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>----
+</wifi>
+<gps>----
+</gps>
+<other>Facebook,Torch,Mobile Tracker,SNS Intergration,Predictive text input
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>lavaa10.png</a></image><image>
+<a>lavaa101.png</a></image><image>
+<a>lavaa102.png</a></image></mobile>
+</mobiles>

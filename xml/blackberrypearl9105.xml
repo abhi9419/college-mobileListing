@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<mobiles>
+        <mobile>
+          <short_name>blackberrypearl9105</short_name>
+          <mobile_name>Blackberry Pearl 9105</mobile_name>
+          <price>11500</price>
+          <os>Blackberry OS 5.0</os>
+          <upgradable>Yes</upgradable>
+          <cpu>624 MHz processor</cpu>
+          <chipset>----</chipset>
+          <gpu>----</gpu>
+          <radio>No</radio>
+          <jack>Yes</jack>
+          <pcamera>Yes,3.15MP with auto-focus,and LED flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>256 MB</imemory>
+          <ram>----</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 850 / 900 / 1900 / 2100</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>108mm x 50mm x 13.3mm</dimension>
+          <weight>93.6 g</weight>
+          <screen_type>TFT Display,with touch sensitive trackpad</screen_type>
+          <resolution>360 x 400</resolution>
+          <battery>1150 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes,v2.1</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 b/g/n</wifi>
+          <gps>Yes</gps>
+          <other>Document Editor,Voice momo/dial,Blackberry Maps</other>
+          <wbuy>Drop 6/10</wbuy>
+          <video>iyX0fo9O3B8</video>  
+          
+    
+        <image>
+          <a>blackberrypearl9105.png</a>
+        </image>
+        <image>
+          <a>blackberrypearl91051.png</a>
+        </image>
+        <image>
+          <a>blackberrypearl91052.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

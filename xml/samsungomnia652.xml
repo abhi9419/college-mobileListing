@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>samsungomnia652</short_name>
+<mobile_name>Samsung Omnia 652</mobile_name>
+<price>6000
+</price>
+<os>Windows Mobile 6.5
+</os>
+<upgradable>----
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>2 MP</pcamera>
+<scamera>Yes
+</scamera>
+<imemory>220 MB
+</imemory>
+<ram>---- 
+</ram>
+<mcard>Expandable upto 16GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 2100 MHz
+</threeg>
+<fourg>---
+</fourg>
+<dsim>----
+</dsim>
+<ssim>----</ssim>
+<dimension>116.5 x 61.8 x 11.5 mm
+</dimension>
+<weight>101 g
+</weight>
+<screen_type>2.4 Inches,TFT,65k color 
+</screen_type>
+<resolution>240 x 320
+</resolution>
+<battery>Standard Battery Li-Po 1500 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>802.11 b/g/n
+</wifi>
+<gps>Yes
+</gps>
+<other>SNS Intergration,Predictive text input
+</other>
+<wbuy>Pick 7/10;
+</wbuy>
+<video>
+</video>
+<image>
+<a>samsungomnia652.png</a></image><image>
+<a>samsungomnia6521.png</a></image><image>
+<a>samsungomnia6522.png</a></image></mobile>
+</mobiles>

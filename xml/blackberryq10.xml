@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>blackberryq10
+</short_name>
+<mobile_name>BlackBerry Q10
+</mobile_name>
+<price>Rs 45000
+</price>
+<os>BlackBerry 10 OS
+</os>
+<upgradable>-----
+</upgradable>
+<cpu>1.5 GHz Dual Core Cortex-A9 Processor
+</cpu>
+<chipset>TI OMAP 4470
+</chipset>
+<gpu>PowerVR SGX544
+</gpu>
+<radio>Yes
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,8MP Autofocus with LED flash
+</pcamera>
+<scamera>Yes,2MP Camera
+</scamera>
+<imemory>16 GB
+</imemory>
+<ram>2 GB
+</ram>
+<mcard>Expandable upto 64GB.
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 850/900/2100
+</threeg>
+<fourg>LTE 700/850/1700/1900
+</fourg>
+<dsim>No
+</dsim>
+<ssim>Yes</ssim>
+<dimension>119.6mm x 66.8mm x 10.4mm
+</dimension>
+<weight>139g
+</weight>
+<screen_type>3.1 inches,Super AMOLED Capacitive touchscreen
+</screen_type>
+<resolution>720 x 720
+</resolution>
+<battery>Li-Ion 2100mAh
+</battery>
+<flash>Yes
+</flash>
+<nfc>Yes
+</nfc>
+<bluetooth>Yes,v2.0
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n,dual band,Wi-Fi hotspot
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>SNS integration,HDMI port,BlackBerry maps,Document viewer
+</other>
+<wbuy>Pick 8.5/10;
+</wbuy>
+<video>hYKFpEOSyUQ
+</video>
+<image>
+<a>blackberryq10.png</a></image><image>
+<a>blackberryq101.png</a></image><image>
+<a>blackberryq102.png</a></image></mobile>
+</mobiles>

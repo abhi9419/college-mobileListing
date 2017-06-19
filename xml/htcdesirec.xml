@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>htcdesirec</short_name>
+          <mobile_name>HTC Desire C</mobile_name>
+          <price> Rs 11500</price>
+          <os>Android OS v4.0(ICS)</os>
+          <upgradable>------</upgradable>
+          <cpu>600 MHz Processor</cpu>
+          <chipset>Qualcomm Snapdragon </chipset>
+          <gpu>--------</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>5 MP</pcamera>
+          <scamera>VGA camera</scamera>
+          <imemory>4 GB</imemory>
+          <ram>512 MB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 900/2100</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>107.2mm x 60.6mm x 12.3mm</dimension>
+          <weight>100 g</weight>
+          <screen_type>3.5 inches,Capacitive touchscreen</screen_type>
+          <resolution>320 x 480</resolution>
+          <battery>1230 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes,v4.0</bluetooth>
+          <wifi>Wi-Fi 802.11 b/g/n,Wi-Fi hotspot</wifi>
+          <gps>Yes</gps>
+          <other>Beats Audio Technology,Document Viewer,Digital Compass,Google Search,Gmail,Google Talk </other>
+          <wbuy>Pick 8/10</wbuy>
+          <video>HCT1gZgEPPY</video>  
+          
+    
+        <image>
+          <a>htcdesirec.png</a>
+        </image>
+        <image>
+          <a>htcdesirec1.png</a>
+        </image>
+        <image>
+          <a>htcdesirec2.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

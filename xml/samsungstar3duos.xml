@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>samsungstar3duos</short_name>
+<mobile_name>Samsung Star 3 Duos</mobile_name>
+<price>4700
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>-----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS,FM Recording
+</radio>
+<jack>Present
+</jack>
+<pcamera>3.15 MP</pcamera>
+<scamera>----
+</scamera>
+<imemory>20 MB Storage
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>----
+</threeg>
+<fourg>---
+</fourg>
+<dsim>Yes
+</dsim>
+<ssim>----</ssim>
+<dimension>102 x 58 x 11.5 mm
+</dimension>
+<weight>95.5 g
+</weight>
+<screen_type>3 Inches,TFT Touchscreen,256k Colors
+</screen_type>
+<resolution>240 x 320
+</resolution>
+<battery>Standard Battery Li-Po 1000 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>----
+</wifi>
+<gps>----
+</gps>
+<other>SNS Intergration,Predictive text input
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>samsungstar3duos.png</a></image><image>
+<a>samsungstar3duos1.png</a></image><image>
+<a>samsungstar3duos2.png</a></image></mobile>
+</mobiles>

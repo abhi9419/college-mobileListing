@@ -1,0 +1,73 @@
+<mobiles>
+<mobile>
+<short_name>iphone3gs8gb
+</short_name>
+<mobile_name>iPHONE 3Gs 8GB
+</mobile_name>
+<price>Rs 20000
+</price>
+<os>iPhone OS 4.3
+</os>
+<upgradable>iOS 5
+</upgradable>
+<cpu>600 MHz Cortex-A8 Processor
+</cpu>
+<chipset>---
+</chipset>
+<gpu>---
+</gpu>
+<radio>No
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,3.2MP with auto focus
+</pcamera>
+<scamera>No
+</scamera>
+<imemory>8GB
+</imemory>
+<ram>256 MB
+</ram>
+<mcard>No memory card
+</mcard>
+<twog>GSM 850 / 900 / 1900 / 1800
+</twog>
+<threeg>HSDPA 850 / 900 /1900 /2100
+</threeg>
+<fourg>No
+</fourg>
+<dsim>No
+</dsim>
+<ssim>Yes,GSM
+</ssim>
+<dimension>115.2mm x 58.6mm x 9.3mm
+</dimension>
+<weight>137g
+</weight>
+<screen_type>TFT screen with LED Backlit
+</screen_type>
+<resolution>640 x 960
+</resolution>
+<battery>1420mAh
+</battery>
+<flash>LED flash
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes,v2.1
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g
+</wifi>
+<gps>Yes,with A-GPS
+</gps>
+<other>Digital Compass,Google Maps,TV-Out,Organizer.
+</other>
+<wbuy>Drop 4/10;
+</wbuy>
+<video>k2HT58X6JTY
+</video>
+<image>
+<a>iphone3gs8gb.png</a></image><image>
+<a>iphone3gs8gb1.png</a></image><image>
+<a>iphone3gs8gb2.png</a></image></mobile>
+</mobiles>

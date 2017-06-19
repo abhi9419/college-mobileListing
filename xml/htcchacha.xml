@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>htcchacha</short_name>
+          <mobile_name>HTC Chacha</mobile_name>
+          <price> Rs 10500</price>
+          <os>Android OS v2.3(Gingerbread)</os>
+          <upgradable>-------</upgradable>
+          <cpu>800 MHz processor</cpu>
+          <chipset>-------- </chipset>
+          <gpu>--------</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>5 MP,without autofocus and LED flash</pcamera>
+          <scamera>VGA Camera</scamera>
+          <imemory>512 MB ROM</imemory>
+          <ram>512 MB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 900/2100</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>114.4mm x 64.6mm x 10.7mm</dimension>
+          <weight>120 g</weight>
+          <screen_type>2.6 inches,TFT Capacitive touchscreen</screen_type>
+          <resolution>480 x 320</resolution>
+          <battery>1250 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes,v3.0</bluetooth>
+          <wifi>Wi-Fi 802.11 b/g/n,Wi-Fi hotspot</wifi>
+          <gps>Yes</gps>
+          <other>Facebook Button,Document Viewer,Social Networking Services,Gmail,YouTube,Picasa integration </other>
+          <wbuy>Pick 8/10</wbuy>
+          <video>GSB2ch0OvJM</video>  
+          
+    
+        <image>
+          <a>htcchacha.png</a>
+        </image>
+        <image>
+          <a>htcchacha1.png</a>
+        </image>
+        <image>
+          <a>htcchacha2.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

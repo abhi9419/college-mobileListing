@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>sonyericssonxperiaray</short_name>
+          <mobile_name>Sony Ericsson Xperia Ray</mobile_name>
+          <price> Rs 13500</price>
+          <os>Android OS v2.3(Gingerbread)</os>
+          <upgradable>--------</upgradable>
+          <cpu>1 GHz Scorpion Processor</cpu>
+          <chipset>Qualcomm MSM8255 Snapdragon</chipset>
+          <gpu>Adreno 205</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>8 MP,with autofocus and LED flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>300 MB</imemory>
+          <ram>------</ram>
+          <mcard>Expandable upto 32GB</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 850/1900/2100</threeg>
+          <fourg>No</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>111mm x 53mm x 9.4mm</dimension>
+          <weight>100 g</weight>
+          <screen_type>3.3 inches,LED backlit LCD,capacitive touchscreen</screen_type>
+          <resolution>480 x 854</resolution>
+          <battery>1500 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>-------</nfc>
+          <bluetooth>Yes,v2.0</bluetooth>
+          <wifi>Wi-Fi 802.11 b/g/n,Wi-Fi Hotspot</wifi>
+          <gps>Yes</gps>
+          <other>Google Talk,Google Calendar,Facebook,Google Voice search,Document Editors</other>
+          <wbuy>Drop 6/10</wbuy>
+          <video>ElM3Kbcg_qY</video>  
+          
+    
+        <image>
+          <a>sonyericssonxperiaray.png</a>
+        </image>
+        <image>
+          <a>sonyericssonxperiaray1.png</a>
+        </image>
+        <image>
+          <a>sonyericssonxperiaray2.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

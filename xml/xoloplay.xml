@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>xoloplay
+</short_name>
+<mobile_name>Xolo Play
+</mobile_name>
+<price>Rs 16000
+</price>
+<os>Android v4.1.1
+</os>
+<upgradable>-----
+</upgradable>
+<cpu>1.5GHz Quad Core NVIDIA Tegra 3
+</cpu>
+<chipset>-----
+</chipset>
+<gpu>12 Core NVIDIA ULP GeForce
+</gpu>
+<radio>Yes
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,8MP
+</pcamera>
+<scamera>2MP Camera
+</scamera>
+<imemory>4GB
+</imemory>
+<ram>1 GB
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 900/1800
+</twog>
+<threeg>----
+</threeg>
+<fourg>----
+</fourg>
+<dsim>No
+</dsim>
+<ssim>Yes, GSM</ssim>
+<dimension>70mm x 138.4mm x 10.4mm
+</dimension>
+<weight>167g
+</weight>
+<screen_type>4.7 Inches,Capacitive Touch,NVIDIA PRISM display Technology
+</screen_type>
+<resolution>1280 x 720
+</resolution>
+<battery>2000mAh
+</battery>
+<flash>No
+</flash>
+<nfc>Yes
+</nfc>
+<bluetooth>Yes,v3.0
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Magnetometer,Acceleromter,Google Maps,Burst Capture
+</other>
+<wbuy>Pick 8/10;
+</wbuy>
+<video>
+</video>
+<image>
+<a>xoloplay.png</a></image><image>
+<a>xoloplay1.png</a></image><image>
+<a>xoloplay2.png</a></image></mobile>
+</mobiles>

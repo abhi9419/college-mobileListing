@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>motorolaex128</short_name>
+<mobile_name>Motorola EX128</mobile_name>
+<price>5700
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>-----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>3 MP,Auto-focus</pcamera>
+<scamera>----
+</scamera>
+<imemory>----
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 8GB
+</mcard>
+<twog>GSM 900/1800/1900 - SIM 1 & SIM 2 
+</twog>
+<threeg>----
+</threeg>
+<fourg>---
+</fourg>
+<dsim>Yes
+</dsim>
+<ssim>----</ssim>
+<dimension>107 x 57 x 12.8 mm
+</dimension>
+<weight>97 g
+</weight>
+<screen_type>3.2 Inches,TFT Resistive Touchscreen,65k Colors
+</screen_type>
+<resolution>240 x 400
+</resolution>
+<battery>Standard Battery Li-Po 910mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>----
+</wifi>
+<gps>class 10
+</gps>
+<other>Facebook,SNS Intergration,Predictive text input
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>motorolaex128.png</a></image><image>
+<a>motorolaex1281.png</a></image><image>
+<a>motorolaex1282.png</a></image></mobile>
+</mobiles>

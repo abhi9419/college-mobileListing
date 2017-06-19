@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>micromaxa90s
+</short_name>
+<mobile_name>Micromax A90s
+</mobile_name>
+<price>Rs 12000
+</price>
+<os>Android v4.0(ICS)
+</os>
+<upgradable>-------
+</upgradable>
+<cpu>1GHz Processor
+</cpu>
+<chipset>-------
+</chipset>
+<gpu>--------
+</gpu>
+<radio>Yes
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,8MP
+</pcamera>
+<scamera>0.3 Camera
+</scamera>
+<imemory>4 GB
+</imemory>
+<ram>512 MB
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>WCDMA 900/2100
+</threeg>
+<fourg>----
+</fourg>
+<dsim>Yes
+</dsim>
+<ssim>No</ssim>
+<dimension>127.2mm x 66.8mm x 9.8mm
+</dimension>
+<weight>118.4g
+</weight>
+<screen_type>4.3 inches,WVGA Super AMOLED Capacitive touch screen
+</screen_type>
+<resolution>480 x 800
+</resolution>
+<battery>Standard Battery Li-Ion 1600mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes,v3.0
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n,Wi-Fi hotspot
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Dual SIM,SNS integration,Document viewer,Google Search,Maps
+</other>
+<wbuy>Pick 7/10;
+</wbuy>
+<video>mWaMjHKSWyI
+</video>
+<image>
+<a>micromaxa90s.png</a></image><image>
+<a>micromaxa90s1.png</a></image><image>
+<a>micromaxa90s2.png</a></image></mobile>
+</mobiles>

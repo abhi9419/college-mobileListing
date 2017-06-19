@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<mobiles>
+        <mobile>
+          <short_name>samsunggalaxysadvance</short_name>
+          <mobile_name>Samsung Galaxy S Advance</mobile_name>
+          <price>13000</price>
+          <os>Android 2.3</os>
+          <upgradable>Android 4.0</upgradable>
+          <cpu>1 Ghz Dual Core</cpu>
+          <chipset>Cortex A9</chipset>
+          <gpu>----</gpu>
+          <radio>Present</radio>
+          <jack>Present</jack>
+          <pcamera>Yes,5MP with auto-focus and LED Flash</pcamera>
+          <scamera>Yes,1.3MP Camera</scamera>
+          <imemory>8 GB/16 GB</imemory>
+          <ram>768 MB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 900 / 1900 / 2100</threeg>
+          <fourg>----</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>123.2mm x 63mm x 9.7mm</dimension>
+          <weight>120 g</weight>
+          <screen_type>Super Amoled screen and multi touch input</screen_type>
+          <resolution>480 x 800</resolution>
+          <battery>1500mAh</battery>
+          <flash>LED Flash</flash>
+          <nfc>No</nfc>
+          <bluetooth>Yes,v3.0</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 a/b/g/n, Wi-Fi hotspot</wifi>
+          <gps>Yes, with aGPS</gps>
+          <other>Accelerometer,proximity sensors,Digital Compass</other>
+          <wbuy>Pick 8.5/10</wbuy>
+          <video>b6Erm0cTSgU</video>  
+          
+    
+        <image>
+          <a>samsunggalaxysadvance.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxysadvance1.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxysadvance2.png</a>
+        </image>
+        
+        </mobile>
+</mobiles>

@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>nokia5230</short_name>
+<mobile_name>Nokia 5230</mobile_name>
+<price>7300
+</price>
+<os>----
+</os>
+<upgradable>Symbian OS v9.4,Series 60
+</upgradable>
+<cpu>ARM 11 434 MHz processor
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>2 MP </pcamera>
+<scamera>No
+</scamera>
+<imemory>70 MB
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 16 GB
+</mcard>
+<twog>GSM 900/1800 MHz 
+</twog>
+<threeg>HSDPA 900/2100
+</threeg>
+<fourg>---
+</fourg>
+<dsim>No
+</dsim>
+<ssim>Yes</ssim>
+<dimension>111 x 51.7 x 15.5 mm
+</dimension>
+<weight>115g
+</weight>
+<screen_type>3.2 inches,TFT resistive touchscreen
+</screen_type>
+<resolution>640 x 360 
+</resolution>
+<battery>Standard Battery Li-Ion 1320 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes v2.0
+</bluetooth>
+<wifi>No
+</wifi>
+<gps>Yes;Nokia Maps 2.0 Touch
+</gps>
+<other>Photo editor,To-do list,Flash Lite3.0
+</other>
+<wbuy>Drop 5/10;
+</wbuy>
+<video>
+</video>
+<image>
+<a>nokia5230.png</a></image><image>
+<a>nokia52301.png</a></image><image>
+<a>nokia52302.png</a></image></mobile>
+</mobiles>

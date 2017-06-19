@@ -1,0 +1,49 @@
+<mobiles>
+        <mobile>
+          <short_name>blackberryporsche9981</short_name>
+          <mobile_name>Blackberry Porsche 9981</mobile_name>
+          <price> Rs 134000</price>
+          <os>Blackberry OS 7</os>
+          <upgradable>----</upgradable>
+          <cpu>1.2 Ghz Qualcomm processor</cpu>
+          <chipset>Qualcomm</chipset>
+          <gpu>----</gpu>
+          <radio>Absent</radio>
+          <jack>Present</jack>
+          <pcamera>Yes,5MP with auto-focus,LED Flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>8 GB</imemory>
+          <ram>1 GB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 850 / 900 / 1900 / 2100</threeg>
+          <fourg>---</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>115mm x 67mm x 11.3mm</dimension>
+          <weight>155 g</weight>
+          <screen_type>TFT Capacitive Touch</screen_type>
+          <resolution>640 x 480</resolution>
+          <battery>1000mAh</battery>
+          <flash>LED Flash</flash>
+          <nfc>No</nfc>
+          <bluetooth>Yes,v2.1</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 b/g/n</wifi>
+          <gps>Yes, with aGPS</gps>
+          <other>Accelerometer,proximity sensors.</other>
+          <wbuy>Drop 5/10</wbuy>
+          <video>CkgskKFFdA8</video>  
+          
+    
+        <image>
+          <a>blackberryporsche9981.png</a>
+        </image>
+        <image>
+          <a>blackberryporsche99811.png</a>
+        </image>
+        <image>
+          <a>blackberryporsche99812.png</a>
+        </image>
+        
+        </mobile>
+</mobiles>

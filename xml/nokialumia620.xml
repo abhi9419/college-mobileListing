@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>nokialumia620
+</short_name>
+<mobile_name>Nokia Lumia 620
+</mobile_name>
+<price>Rs 13500
+</price>
+<os>Microsoft Windows Phone 8
+</os>
+<upgradable>------
+</upgradable>
+<cpu>1 GHz Dual Core processor
+</cpu>
+<chipset>Qualcomm Snapdragon S4
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Yes
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,5MP Autofocus with LED flash
+</pcamera>
+<scamera>Yes,VGA Camera
+</scamera>
+<imemory>8 GB
+</imemory>
+<ram>512 MB
+</ram>
+<mcard>Expandable upto 64GB.
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 850/900/2100
+</threeg>
+<fourg>-----
+</fourg>
+<dsim>No
+</dsim>
+<ssim>Yes</ssim>
+<dimension>115.4mm x 61.1mm x 11.02mm
+</dimension>
+<weight>127g
+</weight>
+<screen_type>3.8 inches,TFT Capacitive touchscreen
+</screen_type>
+<resolution>800 x 480
+</resolution>
+<battery>Li-Ion 1300mAh
+</battery>
+<flash>Yes
+</flash>
+<nfc>Yes
+</nfc>
+<bluetooth>Yes,v3.0
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n,Wi-Fi hotspot
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>SNS integration,Active noise cancellation with dedicated mic,Document viewer
+</other>
+<wbuy>Pick 7/10;
+</wbuy>
+<video>rjG5l6vk8bs
+</video>
+<image>
+<a>nokialumia620.png</a></image><image>
+<a>nokialumia6201.png</a></image><image>
+<a>nokialumia6202.png</a></image></mobile>
+</mobiles>

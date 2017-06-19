@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<mobiles>
+        <mobile>
+          <short_name>samsunggalaxys4mini</short_name>
+          <mobile_name>Samsung Galaxy S4 Mini</mobile_name>
+          <price>28000</price>
+          <os>Android 4.2.2 Jelly Bean</os>
+          <upgradable>-----</upgradable>
+          <cpu>1.7 Ghz Dual Core Processor</cpu>
+          <chipset>Exynos</chipset>
+          <gpu>Adreno 205</gpu>
+          <radio>Present</radio>
+          <jack>Present</jack>
+          <pcamera>Yes,8MP with Power LED Flash</pcamera>
+          <scamera>Yes,1.9MP</scamera>
+          <imemory>8 GB</imemory>
+          <ram>1.5 GB</ram>
+          <mcard>Expandable upto 64 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 850 / 900 / 1900 / 2100</threeg>
+          <fourg>----</fourg>
+          <dsim>Yes GSM + GSM</dsim>
+          <ssim>----</ssim>
+          <dimension>61.3mm x 124.6mm x 8.94mm</dimension>
+          <weight>108 g</weight>
+          <screen_type>Super Amoled screen</screen_type>
+          <resolution>540 x 960</resolution>
+          <battery>1900mAh</battery>
+          <flash>Power LED Flash</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes,v4.0</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct,Wi-Fi hotspot</wifi>
+          <gps>Yes, with aGPS</gps>
+          <other>Swype,YouTube,Google Maps,Voice Memo</other>
+          <wbuy>Pick 8.5/10</wbuy>
+          <video></video>  
+          
+    
+        <image>
+          <a>samsunggalaxys4mini.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxys4mini1.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxys4mini2.png</a>
+        </image>        
+        </mobile>
+</mobiles>

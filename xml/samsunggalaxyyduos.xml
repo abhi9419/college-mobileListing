@@ -1,0 +1,71 @@
+<mobiles>
+<mobile>
+<short_name>samsunggalaxyyduos
+</short_name>
+<mobile_name>Samsung Galaxy Y Duos
+</mobile_name>
+<price>Rs 7300 
+</price>
+<os>Android v2.3
+</os>
+<upgradable>----
+</upgradable>
+<cpu>832 MHz ARM 11
+</cpu>
+<chipset>----
+</chipset>
+<gpu>---
+</gpu>
+<radio>Stereo FM With RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,3.15 MP with Geo-Tagging(2048 x 1536)
+</pcamera>
+<scamera>----
+</scamera>
+<imemory>160 MB 
+</imemory>
+<ram>290 RAM
+</ram>
+<mcard>Expandable upto 32GB.
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 900/2100
+</threeg>
+<fourg>---
+</fourg>
+<dsim>Yes,GSM + GSM</dsim>
+<ssim>----</ssim>
+<dimension>109.8 x 60 x 12 mm
+</dimension>
+<weight>109 g
+</weight>
+<screen_type>3.14 inches,TouchScreen
+</screen_type>
+<resolution>240 x 320 
+</resolution>
+<battery>Standard Battery Li-Po 1300 MAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Document Viewer,SNS Intergration,Gmail,Maps,Google-Talk,Adobe Flash 10.2.
+</other>
+<wbuy>Pick 7/10;
+</wbuy>
+<video>
+</video>
+<image>
+<a>samsunggalaxyyduos.png</a></image><image>
+<a>samsunggalaxyyduos1.png</a></image><image>
+<a>samsunggalaxyyduos2.png</a></image></mobile>
+</mobiles>

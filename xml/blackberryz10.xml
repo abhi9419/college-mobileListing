@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>blackberryz10
+</short_name>
+<mobile_name>BlackBerry Z10
+</mobile_name>
+<price>Rs 33000
+</price>
+<os>BlackBerry 10 OS
+</os>
+<upgradable>Upgradable to v10.1
+</upgradable>
+<cpu>1.5 GHz Dual Core Krait
+</cpu>
+<chipset>Qualcomm MSM8960 Snapdragon
+</chipset>
+<gpu>Adreno 225
+</gpu>
+<radio>Yes
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,8MP Autofocus with LED flash
+</pcamera>
+<scamera>Yes,2MP Camera
+</scamera>
+<imemory>16 GB
+</imemory>
+<ram>2 MB
+</ram>
+<mcard>Expandable upto 64GB.
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 850/900/2100
+</threeg>
+<fourg>LTE 800/900/1800/2600
+</fourg>
+<dsim>No
+</dsim>
+<ssim>Yes</ssim>
+<dimension>130mm x 65.6mm x 9mm
+</dimension>
+<weight>137.5g
+</weight>
+<screen_type>4.2 inches,Capacitive touchscreen
+</screen_type>
+<resolution>768 x1280
+</resolution>
+<battery>Li-Ion 1800mAh
+</battery>
+<flash>Yes
+</flash>
+<nfc>Yes
+</nfc>
+<bluetooth>Yes,v4.0
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n,dual band
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>SNS integration,HDMI port,BlackBerry maps,Document viewer
+</other>
+<wbuy>Pick 7/10;
+</wbuy>
+<video>BDtxZr5TS7E
+</video>
+<image>
+<a>blackberryz10.png</a></image><image>
+<a>blackberryz101.png</a></image><image>
+<a>blackberryz102.png</a></image></mobile>
+</mobiles>

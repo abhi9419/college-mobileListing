@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<mobiles>
+        <mobile>
+          <short_name>samsunggalaxys2</short_name>
+          <mobile_name>Samsung Galaxy S2</mobile_name>
+          <price>21000</price>
+          <os>Android 4.0</os>
+          <upgradable>Jelly Bean</upgradable>
+          <cpu>1.2 Ghz Dual Core processor</cpu>
+          <chipset>Exynos</chipset>
+          <gpu>400 MALI GPU</gpu>
+          <radio>Present</radio>
+          <jack>Present</jack>
+          <pcamera>Yes,8MP with auto-focus</pcamera>
+          <scamera>Yes,2MP</scamera>
+          <imemory>16 GB</imemory>
+          <ram>1 GB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 850 / 900 / 1900 / 2100</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>125.3mm x 66.1mm x 8.5mm</dimension>
+          <weight>116 g</weight>
+          <screen_type>Super Amoled screen with Gorilla Glass and multi touch input</screen_type>
+          <resolution>800 x 400</resolution>
+          <battery>1650mAh.TalkTime:approx.1100min</battery>
+          <flash>LED Flash</flash>
+          <nfc>Optional</nfc>
+          <bluetooth>Yes,v3.0</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct, Wi-Fi hotspot</wifi>
+          <gps>Yes, with aGPS</gps>
+          <other>Accelerometer,proximity sensors,Touchwiz 4.0,Integrated Document editor,On the go USB,Connects to mouse.</other>
+          <wbuy>Pick 8/10</wbuy>
+          <video>GWnunavN4bQ</video>  
+          
+    
+        <image>
+          <a>samsunggalaxys2.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxys21.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxys22.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxys2.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxys22.png</a>
+        </image>
+        
+        </mobile>
+</mobiles>

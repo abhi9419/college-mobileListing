@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>sonyxperiazl
+</short_name>
+<mobile_name>Sony Xperia ZL
+</mobile_name>
+<price>Rs 32000
+</price>
+<os>Android OS v4.1(Jelly Bean)
+</os>
+<upgradable>-------
+</upgradable>
+<cpu>1.5 GHz Dual-Core Krait Processor
+</cpu>
+<chipset>Qualcomm MDM9215M/APQ8064
+</chipset>
+<gpu>Adreno 320
+</gpu>
+<radio>Yes
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,13MP with autofocus and LED flash
+</pcamera>
+<scamera>Yes,2MP Camera
+</scamera>
+<imemory>16 GB
+</imemory>
+<ram>2GB
+</ram>
+<mcard>Expandable upto 64GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 850/900/1900/2100
+</threeg>
+<fourg>LTE 800/850/900/1700
+</fourg>
+<dsim>No
+</dsim>
+<ssim>Yes</ssim>
+<dimension>131.6mm x 69.3mm x 9.8mm
+</dimension>
+<weight>151gms
+</weight>
+<screen_type>5 inches,TFT Capacitive touchscreen
+</screen_type>
+<resolution>1080 x 1920
+</resolution>
+<battery>Li-Ion 2370 mAh
+</battery>
+<flash>Yes
+</flash>
+<nfc>Yes
+</nfc>
+<bluetooth>Yes,v4.0
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n,Wi-Fi hotspot,Wi-Fi Direct,DLNA
+</wifi>
+<gps>Yes,with A-GPS support
+</gps>
+<other>SNS integration,TV-out,Active noise cancellation with dedicated mic,Document viewer
+</other>
+<wbuy>Pick 8/10;
+</wbuy>
+<video>VwfFMZuqBCQ
+</video>
+<image>
+<a>sonyxperiazl.png</a></image><image>
+<a>sonyxperiazl1.png</a></image><image>
+<a>sonyxperiazl2.png</a></image></mobile>
+</mobiles>

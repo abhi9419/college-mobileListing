@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>sonyericssonxperiarc</short_name>
+          <mobile_name>Sony Ericsson Xperia Arc</mobile_name>
+          <price> Rs 19000</price>
+          <os>Android OS v2.3</os>
+          <upgradable>--------</upgradable>
+          <cpu>1 GHz Snapdragon Processor</cpu>
+          <chipset>Qualcomm MSM8255 Snapdragon</chipset>
+          <gpu>Adreno 205</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>8 MP,with autofocus and LED flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>512 MB</imemory>
+          <ram>----</ram>
+          <mcard>Expandable upto 32GB</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 850/1900/2100</threeg>
+          <fourg>No</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>125mm x 63mm x 8.7mm</dimension>
+          <weight>117 g</weight>
+          <screen_type>4.2 inches,LED-backlit LCD capacitive touchscreen</screen_type>
+          <resolution>480 x 854</resolution>
+          <battery>1500 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>-------</nfc>
+          <bluetooth>Yes,v2.1</bluetooth>
+          <wifi>Wi-Fi 802.11 b/g/n</wifi>
+          <gps>Yes</gps>
+          <other>TV out,Digital compass,Maps,YouTube,Facebook</other>
+          <wbuy>Pick 6.5/10</wbuy>
+          <video>l5py5g55Rl0</video>  
+          
+    
+        <image>
+          <a>sonyericssonxperiaarc.png</a>
+        </image>
+        <image>
+          <a>sonyericssonxperiaarc1.png</a>
+        </image>
+        <image>
+          <a>sonyericssonxperiaarc2.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

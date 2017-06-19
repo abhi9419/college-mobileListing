@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<mobiles>
+        <mobile>
+          <short_name>blackberrybold9790</short_name>
+          <mobile_name>Blackberry Bold 9790</mobile_name>
+          <price>22000</price>
+          <os>Blackberry OS 7.0</os>
+          <upgradable>----</upgradable>
+          <cpu>1 GHz Marvel Tavor MG1 processor</cpu>
+          <chipset>----</chipset>
+          <gpu>----</gpu>
+          <radio>No</radio>
+          <jack>Present</jack>
+          <pcamera>Yes,5MP with auto-focus and LED flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>8 GB</imemory>
+          <ram>768 MB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 850 / 900 / 1900 / 2100</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>110mm x 60mm x 11.4mm</dimension>
+          <weight>107 g</weight>
+          <screen_type>TFT Capacitive touch screen</screen_type>
+          <resolution>480 x 360</resolution>
+          <battery>1230 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>Carrier Dependent</nfc>
+          <bluetooth>Yes,v2.0</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 b/g/n</wifi>
+          <gps>Yes</gps>
+          <other>Document Viewer,Voice momo/dial,Social Networking Services</other>
+          <wbuy>Pick 8/10</wbuy>
+          <video>tMyAKW0fwGM</video>  
+          
+    
+        <image>
+          <a>blackberrybold9790.png</a>
+        </image>
+        <image>
+          <a>blackberrybold97901.png</a>
+        </image>
+        <image>
+          <a>blackberrybold97902.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

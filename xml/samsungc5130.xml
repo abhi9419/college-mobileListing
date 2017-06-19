@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>samsungc5130</short_name>
+<mobile_name>Samsung C5130</mobile_name>
+<price>4500
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>-----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS,FM Recording
+</radio>
+<jack>Present
+</jack>
+<pcamera>1.5 MP</pcamera>
+<scamera>Yes
+</scamera>
+<imemory>30 MB Storage
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 8GB
+</mcard>
+<twog>GSM 850/900/1800/1900 
+</twog>
+<threeg>UMTS 900/2100
+</threeg>
+<fourg>---
+</fourg>
+<dsim>-----
+</dsim>
+<ssim>Yes</ssim>
+<dimension>97.5 x 47 x 16.5 mm
+</dimension>
+<weight>100 g
+</weight>
+<screen_type>2 Inches,TFT Touchscreen,256k Colors
+</screen_type>
+<resolution>176 x 220
+</resolution>
+<battery>Standard Battery Li-Po 1000 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>----
+</wifi>
+<gps>----
+</gps>
+<other>Predictive text input,MP3 Player
+</other>
+<wbuy>
+</wbuy>
+<video>
+</video>
+<image>
+<a>samsungc5130.png</a></image><image>
+<a>samsungc51301.png</a></image><image>
+<a>samsungc51302.png</a></image></mobile>
+</mobiles>

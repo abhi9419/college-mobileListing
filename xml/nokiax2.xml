@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>nokiax2</short_name>
+<mobile_name>Nokia X2</mobile_name>
+<price>4500
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>5 MP with LED Flash </pcamera>
+<scamera>No
+</scamera>
+<imemory>48 MB
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 16 GB
+</mcard>
+<twog>GSM 850/900/1800/1900  
+</twog>
+<threeg>----
+</threeg>
+<fourg>----
+</fourg>
+<dsim>No
+</dsim>
+<ssim>Yes</ssim>
+<dimension>111 x 47 x 13.3 mm
+</dimension>
+<weight>81g
+</weight>
+<screen_type>2.2 inches,TFT,256K Colors
+</screen_type>
+<resolution>240 x 320
+</resolution>
+<battery>Standard Battery Li-Ion 860 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes v2.1
+</bluetooth>
+<wifi>No
+</wifi>
+<gps>No
+</gps>
+<other>Photo Editor
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>nokiax2.png</a></image><image>
+<a>nokiax21.png</a></image><image>
+<a>nokiax22.png</a></image></mobile>
+</mobiles>

@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>lgcookiezip
+</short_name>
+<mobile_name>LG Cookie Zip
+</mobile_name>
+<price>Rs 5500
+</price>
+<os>BREW 3.1.5
+</os>
+<upgradable>----
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>----
+</gpu>
+<radio>Yes
+</radio>
+<jack>----
+</jack>
+<pcamera>Yes,2.0MP
+</pcamera>
+<scamera>----
+</scamera>
+<imemory>72 MB
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 4GB
+</mcard>
+<twog>CDMA 800/EVDA Rev.A 
+</twog>
+<threeg>
+</threeg>
+<fourg>No
+</fourg>
+<dsim>----
+</dsim>
+<ssim>No</ssim>
+<dimension>107 x 55.4 x 11.9 mm
+</dimension>
+<weight>90 g
+</weight>
+<screen_type>7.62 cms,TFT Resistive Touchscreen,256k colors
+</screen_type>
+<resolution>240 x 400
+</resolution>
+<battery>Li-Ion Battery,900 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>No
+</wifi>
+<gps>No
+</gps>
+<other>Document Viewer,Unit Converter
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>lgcookiezip.png</a></image><image>
+<a>lgcookiezip1.png</a></image><image>
+<a>lgcookiezip2.png</a></image></mobile>
+</mobiles>

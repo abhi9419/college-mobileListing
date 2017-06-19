@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>sonyericssonlive</short_name>
+          <mobile_name>Sony Ericsson Live</mobile_name>
+          <price> Rs 12000</price>
+          <os>Android OS v2.3(Gingerbread)</os>
+          <upgradable>--------</upgradable>
+          <cpu>1 GHz Scorpion Processor</cpu>
+          <chipset>Qualcomm MSM8255 Snapdragon</chipset>
+          <gpu>Adreno 205</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>5 MP,with autofocus and LED flash</pcamera>
+          <scamera>VGA camera</scamera>
+          <imemory>320 MB</imemory>
+          <ram>512 MB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 850/900/2100</threeg>
+          <fourg>No</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>106mm x 56.5mm x 14.2mm</dimension>
+          <weight>115 g</weight>
+          <screen_type>3.2 inches,capacitive touchscreen</screen_type>
+          <resolution>320 x 480</resolution>
+          <battery>1200 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>-----</nfc>
+          <bluetooth>Yes,v2.1</bluetooth>
+          <wifi>Wi-Fi 802.11 b/g/n,Wi-Fi Hotspot</wifi>
+          <gps>Yes</gps>
+          <other>Facebook,Twitter,Google,Google Mail,Google Maps</other>
+          <wbuy>Pick 7/10</wbuy>
+          <video>BA0xyncY9bo</video>  
+          
+    
+        <image>
+          <a>sonyericssonlive.png</a>
+        </image>
+        <image>
+          <a>sonyericssonlive1.png</a>
+        </image>
+        <image>
+          <a>sonyericssonlive2.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

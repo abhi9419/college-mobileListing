@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>htconev</short_name>
+          <mobile_name>HTC One V</mobile_name>
+          <price> Rs 15000</price>
+          <os>Android OS v4.0(ICS)</os>
+          <upgradable>------</upgradable>
+          <cpu>1 GHz Single Core Processor</cpu>
+          <chipset>Qualcomm MSM8255 Snapdragon</chipset>
+          <gpu>Adreno 205</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>5 MP,with autofocus and LED flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>4 GB</imemory>
+          <ram>512 MB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 900/2100</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>120.3mm x 59.7mm x 9.2mm</dimension>
+          <weight>115 g</weight>
+          <screen_type>3.7 inches,Capacitive touchscreen</screen_type>
+          <resolution>480 x 800</resolution>
+          <battery>1500 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes,v4.0</bluetooth>
+          <wifi>Wi-Fi 802.11 b/g/n</wifi>
+          <gps>Yes</gps>
+          <other>Beats Audio,Active noise cancellation with dedicated mic,SNS integration </other>
+          <wbuy>Pick 7/10</wbuy>
+          <video>_yDMTPPA78U</video>  
+          
+    
+        <image>
+          <a>htconev.png</a>
+        </image>
+        <image>
+          <a>htconev1.png</a>
+        </image>
+        <image>
+          <a>htconev2.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

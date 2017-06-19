@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>micromaxa101</short_name>
+<mobile_name>Micromax A101</mobile_name>
+<price>10000
+</price>
+<os>Android OS v4.0.4
+</os>
+<upgradable>---
+</upgradable>
+<cpu>1 GHz Processor
+</cpu>
+<chipset>----
+</chipset>
+<gpu>----
+</gpu>
+<radio>Stereo FM with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>5MP with Autofocus,LED Flash</pcamera>
+<scamera>VGA
+</scamera>
+<imemory>1.2 GB Storage
+</imemory>
+<ram>512 MB
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>WCDMA 900/2100 
+</threeg>
+<fourg>---
+</fourg>
+<dsim>Yes, GSM and GSM
+</dsim>
+<ssim>----</ssim>
+<dimension>148 x 79 x 10.3mm
+</dimension>
+<weight>168 g
+</weight>
+<screen_type>5.2 inches capacitive touchscreen
+</screen_type>
+<resolution>800 x 480 pixels
+</resolution>
+<battery>Standard Battery Li-Po 2500 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Gravity Sensor,Light sensor,E-compass,Android market,Photo-viewer,Adobe Flash 10.2,Google Search,Maps,Google talk,Flash Lite v.3.
+</other>
+<wbuy>Pick 7/10;
+</wbuy>
+<video>
+</video>
+<image>
+<a>micromaxa101.png</a></image><image>
+<a>micromaxa1011.png</a></image><image>
+<a>micromaxa1012.png</a></image></mobile>
+</mobiles>

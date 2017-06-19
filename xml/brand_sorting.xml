@@ -1,0 +1,66 @@
+<bsorting>
+          <type>
+            <id>android</id>
+            <value>Android</value>
+          </type>
+          <type>
+            <id>windows</id>
+            <value>Windows</value>
+          </type>
+          <type>
+            <id>ios</id>
+            <value>iOS</value>
+          </type>
+          <type>
+            <id>symbian</id>
+            <value>Symbian</value>
+          </type>
+          <type>
+            <id>other</id>
+            <value>Other</value>
+          </type>
+          <type>
+            <id>lt2</id>
+            <value> &lt; 2 MP</value>
+          </type>
+          <type>
+            <id>2t5</id>
+            <value>2 MP - 5 MP</value>
+          </type>
+          <type>
+            <id>5t8</id>
+            <value>5 MP - 8 MP</value>
+          </type>
+          <type>
+            <id>mt8</id>
+            <value>&gt; 8 MP</value>
+          </type>
+          <type>
+            <id>scamera</id>
+            <value>Sec. Camera</value>
+          </type>
+          <type>
+            <id>flash</id>
+            <value>Flash</value>
+          </type>
+          <type>
+            <id>bluetooth</id>
+            <value>Bluetooth</value>
+          </type>
+          <type>
+             <id>wifi</id>
+            <value>Wi-fi</value>
+          </type>
+          <type>
+            <id>gps</id>
+            <value>Gps</value>
+          </type>
+          <type>
+             <id>dualsim</id>
+            <value>Dual Sim</value>
+          </type>
+          <type>
+            <id>singlesim</id>
+            <value>Single Sim</value>
+          </type>
+</bsorting>

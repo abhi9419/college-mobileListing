@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>xoloa1000
+</short_name>
+<mobile_name>Xolo A1000
+</mobile_name>
+<price>Rs 13000
+</price>
+<os>Android OS v4.1(Jelly Bean)
+</os>
+<upgradable>---------
+</upgradable>
+<cpu>1 GHz Dual Core Processor
+</cpu>
+<chipset>Mediatek MT6577
+</chipset>
+<gpu>--------
+</gpu>
+<radio>Yes
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,8MP BSI Sensor technology
+</pcamera>
+<scamera>Yes,1.2MP Camera with BSI sensor technology
+</scamera>
+<imemory>4 GB
+</imemory>
+<ram>1 GB
+</ram>
+<mcard>Expandable upto 32GB.
+</mcard>
+<twog>GSM 900/1800
+</twog>
+<threeg>HSDPA 900/2100
+</threeg>
+<fourg>No
+</fourg>
+<dsim>Yes
+</dsim>
+<ssim>No</ssim>
+<dimension>143.5mm x 70.8mm x 8.8mm
+</dimension>
+<weight>---
+</weight>
+<screen_type>5 inches,Capacitive touchscreen
+</screen_type>
+<resolution>1280 x720
+</resolution>
+<battery>2100mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes,v3.0
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n,Wi-Fi hotspot
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Digital compass,Google Search,Maps,Gmail,YouTube,Facebook,Twitter
+</other>
+<wbuy>Pick 7/10;
+</wbuy>
+<video>
+</video>
+<image>
+<a>xoloa1000.png</a></image><image>
+<a>xoloa10001.png</a></image><image>
+<a>xoloa10002.png</a></image></mobile>
+</mobiles>

@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>htcpyramid</short_name>
+          <mobile_name>HTC Pyramid</mobile_name>
+          <price> Rs 31000</price>
+          <os>Android OS, v2.3(Gingerbread)</os>
+          <upgradable>----</upgradable>
+          <cpu>Dual-core Qualcomm MSM 8260 1200 MHz Processor</cpu>
+          <chipset>----</chipset>
+          <gpu>----</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>Yes</pcamera>
+          <scamera>No</scamera>
+          <imemory>----</imemory>
+          <ram>1024 MB</ram>
+          <mcard>MicroSD Card</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 900/1700/2100 MHz</threeg>
+          <fourg>No</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>----</dimension>
+          <weight>----</weight>
+          <screen_type>4.3 inches, TFT Capacitive Screen with qHD resolution</screen_type>
+          <resolution>540 x 960 pixels</resolution>
+          <battery>Standard Battery Li-Ion</battery>
+          <flash>No</flash>
+          <nfc>No</nfc>
+          <bluetooth>Yes</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 b/g/n</wifi>
+          <gps>Yes</gps>
+          <other>Computer Synchronization, OTA Synchronization</other>
+          <wbuy>Drop 5/10</wbuy>
+          <video>wjdzo8aiawY</video>  
+          
+    
+        <image>
+          <a>htcpyramid.png</a>
+        </image>
+        <image>
+          <a>htcpyramid1.png</a>
+        </image>
+        <image>
+          <a>htcpyramid2.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

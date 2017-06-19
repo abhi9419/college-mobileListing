@@ -1,0 +1,68 @@
+<mobiles>
+<mobile>
+<short_name>motorolamilestone</short_name>
+<mobile_name>Motorola Milestone</mobile_name>
+<price>22000
+</price>
+<os>Android OS v2.1
+</os>
+<upgradable>v2.2</upgradable>
+<cpu>ARM cortex A8 600 MHz,PowerVR SGX530 Graphics
+</cpu>
+<chipset>----
+</chipset>
+<gpu>PowerVR SGX530
+</gpu>
+<radio>----
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,5MP with auto-focus,LED flash</pcamera>
+<scamera>----
+</scamera>
+<imemory>133 MB 
+</imemory>
+<ram>256 MB RAM
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 900/2100
+</threeg>
+<fourg>---
+</fourg>
+<dsim>---
+</dsim>
+<ssim>----</ssim>
+<dimension>115.8 x 60 x 13.7 mm
+</dimension>
+<weight>165 g
+</weight>
+<screen_type>3.7 inches,TFT capacitive touchscreen
+</screen_type>
+<resolution>480 x 854 pixels
+</resolution>
+<battery>Standard Battery Li-Po 1400 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Organizer,Document Viewer,Adobe Flash 10.2,You-Tube,Google talk,clok,Voice command,Flash Lite v.3.
+</other>
+<wbuy>Drop 5/10;
+</wbuy>
+<video>zGFcITqsEyI
+</video>
+<image>
+<a>motorolamilestone.png</a></image><image>
+<a>motorolamilestone1.png</a></image><image>
+<a>motorolamilestone2.png</a></image></mobile>
+</mobiles>

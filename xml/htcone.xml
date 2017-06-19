@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>htcone
+</short_name>
+<mobile_name>HTC One
+</mobile_name>
+<price>Rs 40000
+</price>
+<os>Android OS v4.1.2(Jelly Bean)
+</os>
+<upgradable>---------
+</upgradable>
+<cpu>1.7 GHz Quad-core Krait 300 Processor
+</cpu>
+<chipset>Qualcomm APQ8064T Snapdragon 600
+</chipset>
+<gpu>Adreno 320
+</gpu>
+<radio>Yes
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,4MP with autofocus and LED flash
+</pcamera>
+<scamera>Yes,2.1MP Camera
+</scamera>
+<imemory>32/64 GB
+</imemory>
+<ram>2 GB
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 800/900/1800
+</twog>
+<threeg>HSDPA 850/900/1900/2100
+</threeg>
+<fourg>LTE
+</fourg>
+<dsim>No
+</dsim>
+<ssim>Yes</ssim>
+<dimension>137.4mm x 68.2mm x 9.3mm
+</dimension>
+<weight>143g
+</weight>
+<screen_type>4.7 inches,Super LCD3 Capacitive touchscreen
+</screen_type>
+<resolution>1080 x 1920
+</resolution>
+<battery>2300mAh
+</battery>
+<flash>Yes
+</flash>
+<nfc>Yes
+</nfc>
+<bluetooth>Yes,v4.0
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n,Wi-Fi hotspot,Wi-Fi Direct,DLNA
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Google Play,Google Search,YouTube,Document/viewer
+</other>
+<wbuy>Pick 8/10;
+</wbuy>
+<video>6yjOWcTiC08
+</video>
+<image>
+<a>htcone.png</a></image><image>
+<a>htcone1.png</a></image><image>
+<a>htcone2.png</a></image></mobile>
+</mobiles>

@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>xoloa700
+</short_name>
+<mobile_name> Xolo A700
+</mobile_name>
+<price>Rs 9500
+</price>
+<os>Android v4.0(ICS)
+</os>
+<upgradable>-------
+</upgradable>
+<cpu>1GHz Processor
+</cpu>
+<chipset>MT6577
+</chipset>
+<gpu>PowerVR SGX531
+</gpu>
+<radio>Yes
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,5MP with Auto-Focus and LED Flash
+</pcamera>
+<scamera>VGA Camera
+</scamera>
+<imemory>4GB
+</imemory>
+<ram>512 MB
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 900/2100
+</threeg>
+<fourg>----
+</fourg>
+<dsim>Yes
+</dsim>
+<ssim>No</ssim>
+<dimension>136mm x 68.5mm x 9.1mm
+</dimension>
+<weight>115g
+</weight>
+<screen_type>4.5 inches,IPS LCD Capacitive touch screen
+</screen_type>
+<resolution>960 x 540
+</resolution>
+<battery>Standard Battery Li-Ion 1700mAh
+</battery>
+<flash>Yes
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes,v2.1
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Digital compass,HDMI port,Voice memo/dial/commands,Google Talk,Facebook,Twitter
+</other>
+<wbuy>Pick 6.5/10;
+</wbuy>
+<video>XLqJ5IhhvSQ
+</video>
+<image>
+<a>xoloa800.png</a></image><image>
+<a>xoloa8001.png</a></image><image>
+<a>xoloa8002.png</a></image></mobile>
+</mobiles>

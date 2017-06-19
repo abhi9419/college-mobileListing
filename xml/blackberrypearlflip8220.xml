@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<mobiles>
+        <mobile>
+          <short_name>blackberrypearlflip8220</short_name>
+          <mobile_name>Blackberry Pearl Flip 8220</mobile_name>
+          <price>11000</price>
+          <os>Blackberry OS</os>
+          <upgradable>----</upgradable>
+          <cpu>32-bit Intel XScale PXA272 312 MHz processor</cpu>
+          <chipset>----</chipset>
+          <gpu>----</gpu>
+          <radio>No</radio>
+          <jack>Yes</jack>
+          <pcamera>Yes,2MP with LED flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>75 MB</imemory>
+          <ram>----</ram>
+          <mcard>Expandable upto 8 GB</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>----------</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>101.1mm x 50mm x 17.5mm</dimension>
+          <weight>102 g</weight>
+          <screen_type>2.6 inches</screen_type>
+          <resolution>240 x 320</resolution>
+          <battery>900 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes,v2.0</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 b/g</wifi>
+          <gps>No</gps>
+          <other>DataViz document viewer/editor</other>
+          <wbuy>Drop 5/10</wbuy>
+          <video>Yji9MnIMfqc</video>  
+          
+    
+        <image>
+          <a>blackberrypearlflip8220.png</a>
+        </image>
+        <image>
+          <a>blackberrypearlflip82201.png</a>
+        </image>
+        <image>
+          <a>blackberrypearlflip82202.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

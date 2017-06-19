@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>htc7mozart</short_name>
+          <mobile_name>HTC 7 Mozart</mobile_name>
+          <price> Rs 25000</price>
+          <os>Microsoft Windows Phone 7</os>
+          <upgradable>----</upgradable>
+          <cpu>1 GHz processor</cpu>
+          <chipset>Qualcomm QSD8250 Snapdragon</chipset>
+          <gpu>Adreno 200</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>8 MP,autofocus with Xenon flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>8 GB</imemory>
+          <ram>576 MB</ram>
+          <mcard>No</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 900/2100</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>119mm x 60.2mm x 11.9mm</dimension>
+          <weight>130 g</weight>
+          <screen_type>3.7 inches,S-LCD capacitive touchscreen</screen_type>
+          <resolution>480 x 800</resolution>
+          <battery>1300 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes,v2.1</bluetooth>
+          <wifi>Wi-Fi 802.11 b/g/n</wifi>
+          <gps>Yes</gps>
+          <other>Organizer,Voice memo/dial</other>
+          <wbuy>Drop 5/10</wbuy>
+          <video>iIqPJtZesDo</video>  
+          
+    
+        <image>
+          <a>htc7mozart.png</a>
+        </image>
+        <image>
+          <a>htc7mozart1.png</a>
+        </image>
+        <image>
+          <a>htc7mozart2.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

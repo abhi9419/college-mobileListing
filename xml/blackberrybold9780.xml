@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<mobiles>
+        <mobile>
+          <short_name>blackberrybold9780</short_name>
+          <mobile_name>Blackberry Bold 9780</mobile_name>
+          <price>12500</price>
+          <os>Blackberry OS 6.0</os>
+          <upgradable>----</upgradable>
+          <cpu>624 MHz processor</cpu>
+          <chipset>----</chipset>
+          <gpu>----</gpu>
+          <radio>No</radio>
+          <jack>Yes</jack>
+          <pcamera>Yes,5MP with auto-focus</pcamera>
+          <scamera>No</scamera>
+          <imemory>256 MB</imemory>
+          <ram>512 MB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 850 / 900 / 1900 / 2100</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>109mm x 60mm x 14.1mm</dimension>
+          <weight>122 g</weight>
+          <screen_type>TFT,Touch sensitive trackpad </screen_type>
+          <resolution>480 x 360</resolution>
+          <battery>1500 mAh</battery>
+          <flash>----</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes,v2.1</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 b/g</wifi>
+          <gps>Yes</gps>
+          <other>Document Editor,Voice momo/dial,Blackberry Maps</other>
+          <wbuy>Drop 6/10</wbuy>
+          <video>172k7gCRhVA</video>  
+          
+    
+        <image>
+          <a>blackberrybold9780.png</a>
+        </image>
+        <image>
+          <a>blackberrybold97801.png</a>
+        </image>
+        <image>
+          <a>blackberrybold97802.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

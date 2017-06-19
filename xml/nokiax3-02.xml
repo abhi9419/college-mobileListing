@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>nokiax3-02</short_name>
+<mobile_name>Nokia X3-02</mobile_name>
+<price>6500
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS,Stereo FM radio
+</radio>
+<jack>Present
+</jack>
+<pcamera>5 MP </pcamera>
+<scamera>No
+</scamera>
+<imemory>50 MB
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 32 GB
+</mcard>
+<twog>GSM 850/900/1800/1900 MHz 
+</twog>
+<threeg>----
+</threeg>
+<fourg>----
+</fourg>
+<dsim>No
+</dsim>
+<ssim>Yes,GSM</ssim>
+<dimension>106.2mm x 84.4mm x 9.6 mm
+</dimension>
+<weight>78g
+</weight>
+<screen_type>2.4 inches,TFT resistive touchscreen
+</screen_type>
+<resolution>240 x 320 
+</resolution>
+<battery>Standard Battery Li-Ion 860 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes v2.1
+</bluetooth>
+<wifi>Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>No
+</gps>
+<other>Facebook,Twitter,Flash Lite v3.0,Oredictive text inout,Voice recorder
+</other>
+<wbuy>Pick 6.5/10;
+</wbuy>
+<video>
+</video>
+<image>
+<a>nokiax3-02.png</a></image><image>
+<a>nokiax3-021.png</a></image><image>
+<a>nokiax3-022.png</a></image></mobile>
+</mobiles>

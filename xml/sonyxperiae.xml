@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>sonyxperiae
+</short_name>
+<mobile_name>Sony Xperia E
+</mobile_name>
+<price>Rs 8500
+</price>
+<os>Android OS v4.1(Jelly Bean)
+</os>
+<upgradable>--------
+</upgradable>
+<cpu>1 GHz Cortex-A5 Processor
+</cpu>
+<chipset>Qualcomm MSM7227A Snapdragon
+</chipset>
+<gpu>Adreno 200
+</gpu>
+<radio>Yes
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,3.15MP
+</pcamera>
+<scamera>No
+</scamera>
+<imemory>4 GB
+</imemory>
+<ram>512 MB
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 850/1900/2100
+</threeg>
+<fourg>-------
+</fourg>
+<dsim>No
+</dsim>
+<ssim>Yes</ssim>
+<dimension>113.5mm x 61.8mm x 11mm
+</dimension>
+<weight>115.7gms
+</weight>
+<screen_type>3.5 inches,TFT Capacitive touchscreen
+</screen_type>
+<resolution>320 x 480
+</resolution>
+<battery>Li-Ion 1530 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes,v2.1
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n,Wi-Fi hotspot,DLNA
+</wifi>
+<gps>Yes,with A-GPS support
+</gps>
+<other>SNS integration,Active noise calcellationwith dedicated mic,Document viewer
+</other>
+<wbuy>Pick 7/10;
+</wbuy>
+<video>QqFyZjoZmo4
+</video>
+<image>
+<a>sonyxperiae.png</a></image><image>
+<a>sonyxperiae1.png</a></image><image>
+<a>sonyxperiae2.png</a></image></mobile>
+</mobiles>

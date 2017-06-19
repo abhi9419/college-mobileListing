@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>nokiaasha311</short_name>
+<mobile_name>Nokia Asha 311</mobile_name>
+<price>6100
+</price>
+<os>Symbian S40 OS
+</os>
+<upgradable>----
+</upgradable>
+<cpu>1 GHz Processor
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>3.15 MP</pcamera>
+<scamera>No
+</scamera>
+<imemory>140 MB
+</imemory>
+<ram>128 MB
+</ram>
+<mcard>Expandable upto 32 GB
+</mcard>
+<twog>GSM 850/900/1800/1900 MHz 
+</twog>
+<threeg>HSDPA 850/900/1700/1900/2100
+</threeg>
+<fourg>----
+</fourg>
+<dsim>No
+</dsim>
+<ssim>Yes</ssim>
+<dimension>106 x 52 x 12.9 mm
+</dimension>
+<weight>95g
+</weight>
+<screen_type>3 inches,TFT Capacitive Touchscreen,multitouch with Corning Gorilla Glass
+</screen_type>
+<resolution>240 x 400 
+</resolution>
+<battery>Standard Battery Li-Ion 1110 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes v2.1
+</bluetooth>
+<wifi>Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>No
+</gps>
+<other>Recorder,Reminders,SNS integration,Voice memo,Predictive text input
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>nokiaasha311.png</a></image><image>
+<a>nokiaasha3111.png</a></image><image>
+<a>nokiaasha3112.png</a></image></mobile>
+</mobiles>

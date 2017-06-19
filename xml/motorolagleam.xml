@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>motorolagleam</short_name>
+<mobile_name>Motorola Gleam</mobile_name>
+<price>4600
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>2 MP</pcamera>
+<scamera>----
+</scamera>
+<imemory>5 MB
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 16GB
+</mcard>
+<twog>GSM 900/1800 
+</twog>
+<threeg>----
+</threeg>
+<fourg>---
+</fourg>
+<dsim>----
+</dsim>
+<ssim>----</ssim>
+<dimension>106 x 53 x 13.9 mm
+</dimension>
+<weight>105 g
+</weight>
+<screen_type>2.4 Inches,TFT Capacitive Touchscreen,256k Colors
+</screen_type>
+<resolution>240 x 320
+</resolution>
+<battery>Standard Battery Li-Po 750 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>----
+</wifi>
+<gps>class 12
+</gps>
+<other>SNS Intergration,Predictive text input
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>motorolagleam.png</a></image><image>
+<a>motorolagleam1.png</a></image><image>
+<a>motorolagleam2.png</a></image></mobile>
+</mobiles>

@@ -1,0 +1,68 @@
+<mobiles>
+<mobile>
+<short_name>lgoptimusl9</short_name>
+<mobile_name>LG Optimus L9</mobile_name>
+<price>18500
+</price>
+<os>Android OS v4.0
+</os>
+<upgradable>----
+</upgradable>
+<cpu>Dual-Core 1 GHz Processor
+</cpu>
+<chipset>----
+</chipset>
+<gpu>----</gpu>
+<radio>Stereo FM
+</radio>
+<jack>Present
+</jack>
+<pcamera>5MP Camera</pcamera>
+<scamera>yes,VGA
+</scamera>
+<imemory>4 GB Storage
+</imemory>
+<ram>1GB
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg> HSDPA 850/900/1900/2100 
+</threeg>
+<fourg>---
+</fourg>
+<dsim>----
+</dsim>
+<ssim>----</ssim>
+<dimension>131.9 x 68.2 x 9.1 mm
+</dimension>
+<weight>125 g
+</weight>
+<screen_type>4.7 Inches
+</screen_type>
+<resolution>1280 x 768 
+</resolution>
+<battery>Standard Battery Li-Po 2150 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Gravity Sensor,SNS integration,E-compass,Anti-theft Mobile Traker
+</other>
+<wbuy>Drop 6/10
+</wbuy>
+<video>GfbLmquijyw
+</video>
+<image>
+<a>lgoptimusl9.png</a></image><image>
+<a>lgoptimusl91.png</a></image><image>
+<a>lgoptimusl92.png</a></image></mobile>
+</mobiles>

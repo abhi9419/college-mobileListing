@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>micromaxa111canvas
+</short_name>
+<mobile_name>Micromax A111 Canvas
+</mobile_name>
+<price>Rs 11500
+</price>
+<os>Android OS v4.1(Jelly Bean)
+</os>
+<upgradable>-----
+</upgradable>
+<cpu>1.2 GHz Quad-core Processor
+</cpu>
+<chipset>-----
+</chipset>
+<gpu>------
+</gpu>
+<radio>Yes
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,8MP
+</pcamera>
+<scamera>Yes,1.2MP Camera
+</scamera>
+<imemory>4 GB
+</imemory>
+<ram>512 MB
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800
+</twog>
+<threeg>WCDMA 2100
+</threeg>
+<fourg>No
+</fourg>
+<dsim>Yes
+</dsim>
+<ssim>No</ssim>
+<dimension>-----
+</dimension>
+<weight>-----
+</weight>
+<screen_type>5.3 inches,Capacitive touchscreen
+</screen_type>
+<resolution>540 x 960
+</resolution>
+<battery>Li-Ion 2100mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes,v3.0
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n,Wi-Fi hotspot
+</wifi>
+<gps>Yes,with A-GPS support
+</gps>
+<other>Google Search,Google Play,Google Maps,Google Navigation
+</other>
+<wbuy>Drop 6/10;
+</wbuy>
+<video>
+</video>
+<image>
+<a>micromaxa111canvas.png</a></image><image>
+<a>micormaxa111canvas1.png</a></image><image>
+<a>micormaxa111canvas2.png</a></image></mobile>
+</mobiles>

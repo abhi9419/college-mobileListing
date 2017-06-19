@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<mobiles>
+        <mobile>
+          <short_name>samsunggalaxymusicduos</short_name>
+          <mobile_name>Samsung Galaxy Music Duos</mobile_name>
+          <price>6500</price>
+          <os>Andriod Os, v4.0</os>
+          <upgradable>----</upgradable>
+          <cpu>850 MHz Dual-core processor</cpu>
+          <chipset>----</chipset>
+          <gpu>----</gpu>
+          <radio>Present</radio>
+          <jack>Yes</jack>
+          <pcamera>Yes,3.15MP auto focus,LED flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>4 GB</imemory>
+          <ram>512 MB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 900 / 2100</threeg>
+          <fourg>----</fourg>
+          <dsim>Yes</dsim>
+          <ssim>No</ssim>
+          <dimension>110.1mm x 59mm x 12.3mm</dimension>
+          <weight>107g</weight>
+          <screen_type>Capacitive Touchscreen</screen_type>
+          <resolution>320 X 240 pixels</resolution>
+          <battery>1300mAh</battery>
+          <flash>No</flash>
+          <nfc>No</nfc>
+          <bluetooth>Yes,v3.0</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 b/g/n,Wi-Fi Direct</wifi>
+          <gps>Yes</gps>
+          <other>Photo Editor,Picasa</other>
+          <wbuy>Pick 7.5/10</wbuy>
+          <video>quPGZw73imY</video>  
+          
+    
+        <image>
+          <a>samsunggalaxymusicduos.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxymusicduos1.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxymusicduos2.png</a>
+        </image>
+        
+        </mobile>
+</mobiles>

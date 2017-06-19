@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>sonyxperias</short_name>
+          <mobile_name>Sony Xperia S</mobile_name>
+          <price> Rs 25000</price>
+          <os>Android OS v2.3(Gingerbread) </os>
+          <upgradable>upgradable to v4.1</upgradable>
+          <cpu>Dual core 1.5 GHz  Processor</cpu>
+          <chipset>Qualcomm MSM8260 Snapdragon</chipset>
+          <gpu>Adreno 220</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>12 MP,with autofocus and LED flash</pcamera>
+          <scamera>1.3 MP</scamera>
+          <imemory>32 GB</imemory>
+          <ram>1 GB</ram>
+          <mcard>No</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 850/1900/2100</threeg>
+          <fourg>No</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>128mm x 64mm x 10.6mm</dimension>
+          <weight>144 g</weight>
+          <screen_type>4.3 inches,LED-backlit LCD capacitive touchscreen</screen_type>
+          <resolution>720 x 1280</resolution>
+          <battery>1750 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>Yes</nfc>
+          <bluetooth>Yes,v2.1</bluetooth>
+          <wifi>Wi-Fi 802.11 b/g/n,Wi-Fi Direct,Wi-Fi Hotspot</wifi>
+          <gps>Yes</gps>
+          <other>SNS integration,HDMI port,Maps,voice memo/dial/commands,TV launcher</other>
+          <wbuy>Pick 8.5/10</wbuy>
+          <video>nZerGA6h_4A</video>  
+          
+    
+        <image>
+          <a>sonyxperias.png</a>
+        </image>
+        <image>
+          <a>sonyxperias1.png</a>
+        </image>
+        <image>
+          <a>sonyxperias2.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

@@ -1,0 +1,70 @@
+<mobiles>
+<mobile>
+<short_name>lgcookiewifi</short_name>
+<mobile_name>LG Cookie WiFi</mobile_name>
+<price>3800
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>2 MP (1600 x 1200) </pcamera>
+<scamera>----
+</scamera>
+<imemory>20 MB
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 4GB
+</mcard>
+<twog>GSM 850/900/1800/1900 
+</twog>
+<threeg>----
+</threeg>
+<fourg>---
+</fourg>
+<dsim>No
+</dsim>
+<ssim>----</ssim>
+<dimension>102.9 x 56.9 x 11.9 mm
+</dimension>
+<weight>86.5 g
+</weight>
+<screen_type>2.8 Inches,TFT Resistive Touchscreen,256k Colors
+</screen_type>
+<resolution>240 x 320
+</resolution>
+<battery>Standard Battery Li-Po 900 mAh 
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>802.11 b/g
+</wifi>
+<gps>----
+</gps>
+<other>Predictive Text Input,Voice Memo
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>lgcookiewifi.png</a></image><image>
+<a>lgcookiewifi1.png</a></image><image>
+<a>lgcookiewifi2.png</a></image></mobile>
+
+</mobiles>

@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>samsungguru3g</short_name>
+<mobile_name>Samsung Guru 3G</mobile_name>
+<price>3450
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>-----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>FM Radio,FM Recording
+</radio>
+<jack>Present
+</jack>
+<pcamera>1.3 MP</pcamera>
+<scamera>----
+</scamera>
+<imemory>42 MB Storage
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 8GB
+</mcard>
+<twog>GSM 850/900/1800/1900 
+</twog>
+<threeg>UMTS 900/2100
+</threeg>
+<fourg>---
+</fourg>
+<dsim>----
+</dsim>
+<ssim>----</ssim>
+<dimension>115 x 46 x 12.8 mm
+</dimension>
+<weight>81 g
+</weight>
+<screen_type>2 Inches,TFT Touchscreen,65k Colors
+</screen_type>
+<resolution>128 x 160
+</resolution>
+<battery>Standard Battery Li-Po 800 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>----
+</wifi>
+<gps>----
+</gps>
+<other>Google Map,Alarm,MP3 Player
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>samsungguru3g.png</a></image><image>
+<a>samsungguru3g1.png</a></image><image>
+<a>samsungguru3g2.png</a></image></mobile>
+</mobiles>

@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>nokiax6</short_name>
+          <mobile_name>Nokia X6 </mobile_name>
+          <price> Rs 15500</price>
+          <os>Symbian OS v9.4,Series 60 rel.5</os>
+          <upgradable>-------</upgradable>
+          <cpu>ARM 11 434 MHz processor</cpu>
+          <chipset>------</chipset>
+          <gpu>------</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>5 MP,Carl Zeiss optics,with autofocus, dual-LED flash</pcamera>
+          <scamera>QCIF@15fps Camera</scamera>
+          <imemory>32 GB</imemory>
+          <ram>128 MB</ram>
+          <mcard>No</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 850/900/1700/2100</threeg>
+          <fourg>No</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>111mm x 51mm x 13.8mm</dimension>
+          <weight>122 g</weight>
+          <screen_type>3.2 inches,TFT capacitive touchscreen</screen_type>
+          <resolution>360 x 640</resolution>
+          <battery>1320 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>-------</nfc>
+          <bluetooth>Yes,v2.0</bluetooth>
+          <wifi>Wi-Fi 802.11 b/g</wifi>
+          <gps>Yes</gps>
+          <other>Voice command/dial,Document viewer</other>
+          <wbuy>Drop 6/10</wbuy>
+          <video>oBnz8jBvv9Q</video>  
+          
+    
+        <image>
+          <a>nokiax6.png</a>
+        </image>
+        <image>
+          <a>nokiax61.png</a>
+        </image>
+        <image>
+          <a>nokiax62.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

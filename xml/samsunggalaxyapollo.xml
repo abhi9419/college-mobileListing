@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<mobiles>
+        <mobile>
+          <short_name>samsunggalaxyapollo</short_name>
+          <mobile_name>Samsung Galaxy Apollo</mobile_name>
+          <price>11000</price>
+          <os>Android 2.1</os>
+          <upgradable>Android 2.2</upgradable>
+          <cpu>667 Mhz processor</cpu>
+          <chipset>----</chipset>
+          <gpu>Adreno 200</gpu>
+          <radio>Present</radio>
+          <jack>Present</jack>
+          <pcamera>Yes,3.15MP with auto-focus</pcamera>
+          <scamera>No</scamera>
+          <imemory>160 GB</imemory>
+          <ram>256 MB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 900 / 2100</threeg>
+          <fourg>----</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>113.5mm x 55mm x 12.6mm</dimension>
+          <weight>113 g</weight>
+          <screen_type>TFT Capacitive Touchscreen,3.2 inches screen</screen_type>
+          <resolution>240 x 400</resolution>
+          <battery>1500mAh</battery>
+          <flash>No</flash>
+          <nfc>No</nfc>
+          <bluetooth>Yes,v3.0</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 /b/g/n</wifi>
+          <gps>Yes, with aGPS</gps>
+          <other>Digital Compass,Document editor,Google Talk</other>
+          <wbuy>Drop 5/10</wbuy>
+          <video>i0muIVpCRjE</video>  
+          
+    
+        <image>
+          <a>samsunggalaxyapollo.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxyapollo1.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxyapollo2.png</a>
+        </image>
+        
+        </mobile>
+</mobiles>

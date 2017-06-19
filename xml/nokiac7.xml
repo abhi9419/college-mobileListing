@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>nokiac7</short_name>
+          <mobile_name>Nokia C7 </mobile_name>
+          <price> Rs 16500</price>
+          <os>Symbian 9.5 OS</os>
+          <upgradable>------</upgradable>
+          <cpu>ARM 11 680 MHz Processor</cpu>
+          <chipset>------</chipset>
+          <gpu>3D Graphics HW accelerator</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>8 MP,with auto-focus and dual-LED flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>8 GB</imemory>
+          <ram>256 MB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 850/900/1700/2100</threeg>
+          <fourg>No</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>117.3mm x 56.8mm x 10.5mm</dimension>
+          <weight>130 g</weight>
+          <screen_type>3.5 inches,TFT resistive touchscreen</screen_type>
+          <resolution>360 x 640</resolution>
+          <battery>1200 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>-------</nfc>
+          <bluetooth>Yes,v2.0</bluetooth>
+          <wifi>Wi-Fi 802.11 b/g/n</wifi>
+          <gps>Yes</gps>
+          <other>Web TV,TV-out,Digital compass,Document viewer</other>
+          <wbuy>Drop 6/10</wbuy>
+          <video>72NasTPYkNQ</video>  
+          
+    
+        <image>
+          <a>nokiac7.png</a>
+        </image>
+        <image>
+          <a>nokiac71.png</a>
+        </image>
+        <image>
+          <a>nokiac72.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

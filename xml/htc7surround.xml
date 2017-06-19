@@ -1,0 +1,49 @@
+<mobiles>
+        <mobile>
+          <short_name>htc7surround</short_name>
+          <mobile_name>HTC 7 Surround</mobile_name>
+          <price> Rs 12000</price>
+          <os>Windows 7</os>
+          <upgradable>---</upgradable>
+          <cpu>1.0 Ghz Snapdragon Processor</cpu>
+          <chipset>Snapdragon</chipset>
+          <gpu>---</gpu>
+          <radio>No</radio>
+          <jack>Present</jack>
+          <pcamera>Yes,5MP with auto-focus and LED Flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>16 GB</imemory>
+          <ram>576 MB</ram>
+          <mcard>No</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 850 / 900 / 2100</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>119.7mm x 61.5mm x 13mm</dimension>
+          <weight>165 g</weight>
+          <screen_type>LCD Capacitive touchscreen</screen_type>
+          <resolution>480 x 800</resolution>
+          <battery>1230mAh.TalkTime:approx.240min</battery>
+          <flash>LED Flash</flash>
+          <nfc>no</nfc>
+          <bluetooth>Yes,v2.1</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 b/g/n</wifi>
+          <gps>Yes, with aGPS</gps>
+          <other>Digital Compass,Accelerometer,Predictive Text Input.</other>
+          <wbuy>Pick 7/10</wbuy>
+          <video>azJFttrY3PA</video>  
+          
+    
+        <image>
+          <a>htc7surround.png</a>
+        </image>
+        <image>
+          <a>htc7surround1.png</a>
+        </image>
+        <image>
+          <a>htc7surround2.png</a>
+        </image>
+        
+        </mobile>
+</mobiles>

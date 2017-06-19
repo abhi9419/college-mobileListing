@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>samsunggalaxygrand
+</short_name>
+<mobile_name>Samsung Galaxy Grand
+</mobile_name>
+<price>Rs 19000
+</price>
+<os>Android v4.1(Jelly Bean)
+</os>
+<upgradable>------
+</upgradable>
+<cpu>1.2 GHz Dual-Core Processor
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Yes
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,8MP with auto-focus and LED flash
+</pcamera>
+<scamera>Yes,2MP Camera
+</scamera>
+<imemory>8GB
+</imemory>
+<ram>1 GB
+</ram>
+<mcard>Expandable upto 64GB.
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 850/900/1900/2100
+</threeg>
+<fourg>---
+</fourg>
+<dsim>No
+</dsim>
+<ssim>Yes</ssim>
+<dimension>143.5mm x 76.8mm x 9.6mm
+</dimension>
+<weight>161g
+</weight>
+<screen_type>5 inches Capacitive touchscreen
+</screen_type>
+<resolution>480 x 800
+</resolution>
+<battery>Li-Ion 2100mAh
+</battery>
+<flash>Yes
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes,v4.0
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n,Wi-Fi hotspot
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Google Search,Sansumg Apps,Gmail,YouTube,Document viewer
+</other>
+<wbuy>Pick 7/10;
+</wbuy>
+<video>dm090RUNGYw
+</video>
+<image>
+<a>samsunggalaxygrand.png</a></image><image>
+<a>samsunggalaxygrand1.png</a></image><image>
+<a>samsunggalaxygrand2.png</a></image></mobile>
+</mobiles>

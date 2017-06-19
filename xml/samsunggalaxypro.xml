@@ -1,0 +1,49 @@
+<mobiles>
+        <mobile>
+          <short_name>samsunggalaxypro</short_name>
+          <mobile_name>Samsung Galaxy Pro</mobile_name>
+          <price> Rs 8500</price>
+          <os>Andriod Os, v2.2(Froyo)</os>
+          <upgradable>----</upgradable>
+          <cpu>800 MHz processor</cpu>
+          <chipset>----</chipset>
+          <gpu>----</gpu>
+          <radio>Present</radio>
+          <jack>Yes</jack>
+          <pcamera>Yes,3.15MP </pcamera>
+          <scamera>No</scamera>
+          <imemory>512 MB</imemory>
+          <ram>----</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 900 / 2100</threeg>
+          <fourg>----</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>108.6m x 66.7mm x 10.7mm</dimension>
+          <weight>103.4g</weight>
+          <screen_type>TFT Capacitive Touchscreen</screen_type>
+          <resolution>320X240 pixels</resolution>
+          <battery>1350 mAh</battery>
+          <flash>No</flash>
+          <nfc>No</nfc>
+          <bluetooth>Yes,v2.1</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 b/g</wifi>
+          <gps>Yes</gps>
+          <other>Facebook,Picasa integration,Voice memo/dial/commands</other>
+          <wbuy>Drop 5/10</wbuy>
+          <video>82lWhVirjEM</video>  
+          
+    
+        <image>
+          <a>samsunggalaxypro.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxypro1.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxypro2.png</a>
+        </image>
+        
+        </mobile>
+</mobiles>

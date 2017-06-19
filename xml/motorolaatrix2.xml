@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>motorolatrix2</short_name>
+<mobile_name>Motorola ATRIX 2</mobile_name>
+<price>18000
+</price>
+<os>Android OS v2.3
+</os>
+<upgradable>---
+</upgradable>
+<cpu>ARM cortex A9,Dual-Core 1GHz Processor 
+</cpu>
+<chipset>TI OMAP 4430
+</chipset>
+<gpu>PowerVR SGX540
+</gpu>
+<radio>Stereo FM radio with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,8MP with auto-focus,LED flash(3264 x 2448 pixels)</pcamera>
+<scamera>VGA Camera
+</scamera>
+<imemory>8 GB Storage
+</imemory>
+<ram>1 GB RAM
+</ram>
+<mcard>Expandable upto 32GB,8 GB included
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 850/1900/2100 
+</threeg>
+<fourg>---
+</fourg>
+<dsim>---
+</dsim>
+<ssim>----</ssim>
+<dimension>66 x 125.7 x 10.4 mm
+</dimension>
+<weight>147 gTI OMAP 4430 
+</weight>
+<screen_type>4.3 inches capacitive touchscreen,16M color
+</screen_type>
+<resolution>540 x 960 pixels
+</resolution>
+<battery>Standard Battery Li-Po 1785 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Organizer,Document Viewer,Adobe Flash 10.2 yahoo! Messenger,Google Search,Maps,Gmail,You-Tube,Google talk,clok,Voice command,Flash Lite v.3.
+</other>
+<wbuy>Pick 7/10;
+</wbuy>
+<video>LqdU5SGJemU
+</video>
+<image>
+<a>motorolaatrix2.png</a></image><image>
+<a>motorolaatrix21png</a></image><image>
+<a>motorolaatrix22.png</a></image></mobile>
+</mobiles>

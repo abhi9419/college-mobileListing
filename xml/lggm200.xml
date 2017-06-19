@@ -1,0 +1,70 @@
+<mobiles>
+<mobile>
+<short_name>lggm200</short_name>
+<mobile_name>LG Gm200 </mobile_name>
+<price>3700
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>2 MP,1600 x 1200</pcamera>
+<scamera>----
+</scamera>
+<imemory>14 MB
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 2GB
+</mcard>
+<twog>GSM 900/1800/1900
+</twog>
+<threeg>----
+</threeg>
+<fourg>---
+</fourg>
+<dsim>----
+</dsim>
+<ssim>----</ssim>
+<dimension>106 x 48 x 14.4 mm
+</dimension>
+<weight>84 g
+</weight>
+<screen_type>2.0 Inches
+</screen_type>
+<resolution>176 x 220
+</resolution>
+<battery>Standard Battery Li-Po 1100 mAh 
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>No
+</wifi>
+<gps>----
+</gps>
+<other>Converter,flight Mode
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>lggm200.png</a></image><image>
+<a>lggm2001.png</a></image><image>
+<a>lggm2002.png</a></image></mobile>
+
+</mobiles>

@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>sonyxperiau</short_name>
+          <mobile_name>Sony Xperia U</mobile_name>
+          <price> Rs 13000</price>
+          <os>Android OS v2.3(Gingerbread)</os>
+          <upgradable>--------</upgradable>
+          <cpu>1 GHz Dual core Processor</cpu>
+          <chipset>STE U8500</chipset>
+          <gpu>DB8500</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>5 MP,with autofocus</pcamera>
+          <scamera>Yes</scamera>
+          <imemory>4 GB</imemory>
+          <ram>512 MB</ram>
+          <mcard>No</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 850/1900/2100</threeg>
+          <fourg>No</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>112mm x 54mm x 12mm</dimension>
+          <weight>110 g</weight>
+          <screen_type>3.5 inches,LED backlit LCD,capacitive touchscreen</screen_type>
+          <resolution>854 x 480</resolution>
+          <battery>1290 mAh</battery>
+          <flash>No</flash>
+          <nfc>-------</nfc>
+          <bluetooth>Yes,v2.1</bluetooth>
+          <wifi>Wi-Fi 802.11 b/g/n,Wi-Fi Hotspot</wifi>
+          <gps>Yes</gps>
+          <other>Voice memo/dial/commands,Document viewer,Google Search,traackID music recognition</other>
+          <wbuy>Pick 7/10</wbuy>
+          <video>z7FUGZiKIX8</video>  
+          
+    
+        <image>
+          <a>sonyxperiau.png</a>
+        </image>
+        <image>
+          <a>sonyxperiau1.png</a>
+        </image>
+        <image>
+          <a>sonyxperiau2.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

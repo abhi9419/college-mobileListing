@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>motoroladroidrazr
+</short_name>
+<mobile_name>Motorola Droid Razr
+</mobile_name>
+<price>Rs 25000
+</price>
+<os>Android v2.3.5(Gingerbread)
+</os>
+<upgradable>---------
+</upgradable>
+<cpu>Dual-core 1.2 GHz Cortex-A9 Processor
+</cpu>
+<chipset>TI OMAP 4430
+</chipset>
+<gpu>PowerVR SGX540
+</gpu>
+<radio>Yes
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,8MP with Auto-Focus and LED Flash
+</pcamera>
+<scamera>2 MP Camera
+</scamera>
+<imemory>16GB
+</imemory>
+<ram>1 GB
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 850/900/2100
+</threeg>
+<fourg>----
+</fourg>
+<dsim>No
+</dsim>
+<ssim>Yes</ssim>
+<dimension>130.7mm x 68.9mm x 7.1mm
+</dimension>
+<weight>127g
+</weight>
+<screen_type>4.3 inches,Capacitive touch screen
+</screen_type>
+<resolution>540 x 960
+</resolution>
+<battery>Standard Battery Li-Ion 1780mAh
+</battery>
+<flash>Yes
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes,v4.0
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n,DLNA,Wi-Fi hotspot
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Digital compass,Google Maps,Gmail,Picasa integration,Google Talk
+</other>
+<wbuy>Pick 6.5/10;
+</wbuy>
+<video>gr_aZAeRM5Y
+</video>
+<image>
+<a>motoroladroidrazr.png</a></image><image>
+<a>motoroladroidrazr1.png</a></image><image>
+<a>motoroladroidrazr2.png</a></image></mobile>
+</mobiles>

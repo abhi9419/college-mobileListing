@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>xoloa800
+</short_name>
+<mobile_name>Xolo A800
+</mobile_name>
+<price>Rs 12000
+</price>
+<os>Android v4.0(ICS)
+</os>
+<upgradable>-------
+</upgradable>
+<cpu>1GHz Dual-Core Processor
+</cpu>
+<chipset>MT6577
+</chipset>
+<gpu>PowerVR SGX 531
+</gpu>
+<radio>Yes
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,8MP,BSI Sensor with Auto-Focus and LED Flash
+</pcamera>
+<scamera>VGA Camera
+</scamera>
+<imemory>4GB
+</imemory>
+<ram>512 MB
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>WCDMA 900/2100
+</threeg>
+<fourg>----
+</fourg>
+<dsim>Yes
+</dsim>
+<ssim>No</ssim>
+<dimension>133mm x 67mm x 10.5mm
+</dimension>
+<weight>--
+</weight>
+<screen_type>4.5 inches,IPS LCD Capacitive touch screen
+</screen_type>
+<resolution>960 x 540
+</resolution>
+<battery>Standard Battery Li-Ion 1600mAh
+</battery>
+<flash>Yes
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes,v3.0
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>HDMI port,Voice memo/dial/commands,Google Talk,Facebook,Twitter
+</other>
+<wbuy>Pick 7/10
+</wbuy>
+<video>zw7y5Ow78iY
+</video>
+<image>
+<a>xoloa800.png</a></image><image>
+<a>xoloa8001.png</a></image><image>
+<a>xoloa8002.png</a></image></mobile>
+</mobiles>

@@ -1,0 +1,68 @@
+<mobiles>
+<mobile>
+<short_name>lgoptimus3d</short_name>
+<mobile_name>LG Optimus 3D</mobile_name>
+<price>23000
+</price>
+<os>Android OS v2.2
+</os>
+<upgradable>upgradable to 2.3
+</upgradable>
+<cpu>dual-core 1GHz ARM Cortex-A9 processor
+</cpu>
+<chipset>----
+</chipset>
+<gpu>PowerVR SGX540</gpu>
+<radio>stereo FM with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>Dual 5MP Camera auto-focus,LED Flash</pcamera>
+<scamera>Yes
+</scamera>
+<imemory>8 GB Storage
+</imemory>
+<ram>512 GB
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg> HSDPA 900/1900/2100 
+</threeg>
+<fourg>---
+</fourg>
+<dsim>----
+</dsim>
+<ssim>----</ssim>
+<dimension>128.8 x 68 x 11.9 mm
+</dimension>
+<weight>168 g
+</weight>
+<screen_type>4.3 inches 3D LCD Capacitive Touchscreen,16M Colors
+</screen_type>
+<resolution>480 x 800 
+</resolution>
+<battery>Standard Battery Li-Po 1500 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Gravity Sensor,Light sensor,E-compass,Anti-theft.
+</other>
+<wbuy>Drop 6/10;
+</wbuy>
+<video>G38vr5SKvwU
+</video>
+<image>
+<a>lgoptimus3d.png</a></image><image>
+<a>lgoptimus3d1.png</a></image><image>
+<a>lgoptimus3d2.png</a></image></mobile>
+</mobiles>

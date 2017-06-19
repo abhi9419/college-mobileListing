@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>htcsalsa</short_name>
+          <mobile_name>HTC Salsa</mobile_name>
+          <price> Rs 15000</price>
+          <os>Android OS v2.3(Gingerbread)</os>
+          <upgradable>------</upgradable>
+          <cpu>800 MHz Processor</cpu>
+          <chipset>Qualcomm MSM7227 </chipset>
+          <gpu>Adreno 200</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>5 MP,with autofocus and LED flash</pcamera>
+          <scamera>VGA camera</scamera>
+          <imemory>512 MB ROM</imemory>
+          <ram>512 MB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 900/2100</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>109.1mm x 58.9mm x 12.3mm</dimension>
+          <weight>120 g</weight>
+          <screen_type>3.4 inches,Capacitive touchscreen</screen_type>
+          <resolution>320 x 480</resolution>
+          <battery>1520 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes,v3.0</bluetooth>
+          <wifi>Wi-Fi 802.11 b/g/n,Wi-Fi hotspot</wifi>
+          <gps>Yes</gps>
+          <other>SNS integration,Google Search,Maps,YouTube </other>
+          <wbuy>Pick 8/10</wbuy>
+          <video>LpYOrDa8HOs</video>  
+          
+    
+        <image>
+          <a>htcsalsa.png</a>
+        </image>
+        <image>
+          <a>htcsalsa1.png</a>
+        </image>
+        <image>
+          <a>htcsalsa2.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

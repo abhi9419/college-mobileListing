@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>blackberrycurve9350</short_name>
+          <mobile_name>Blackberry Curve 9350</mobile_name>
+          <price> Rs 16500</price>
+          <os>Blackberry OS 7.0</os>
+          <upgradable>----</upgradable>
+          <cpu>800 MHz processor</cpu>
+          <chipset>----</chipset>
+          <gpu>----</gpu>
+          <radio>No</radio>
+          <jack>Yes</jack>
+          <pcamera>Yes,5MP with LED flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>512 MB</imemory>
+          <ram>512 MB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>CDMA 800/1900</twog>
+          <threeg>CDMA2000 1xEV-DO</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,CDMA only.</ssim>
+          <dimension>109mm x 60mm x 11mm</dimension>
+          <weight>99 g</weight>
+          <screen_type>TFT Display</screen_type>
+          <resolution>480 x 360</resolution>
+          <battery>1000 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes,v2.1</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 b/g/n</wifi>
+          <gps>Yes</gps>
+          <other>Voice momo/dial,Document Viewer</other>
+          <wbuy>Pick 8/10</wbuy>
+          <video>QuWqP2hTqw0</video>  
+          
+    
+        <image>
+          <a>blackberrycurve9350.png</a>
+        </image>
+        <image>
+          <a>blackberrycurve93501.png</a>
+        </image>
+        <image>
+          <a>blackberrycurve93502.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

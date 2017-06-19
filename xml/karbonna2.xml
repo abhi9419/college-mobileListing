@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>karbonna2
+</short_name>
+<mobile_name>Karbonn A2
+</mobile_name>
+<price>Rs 5000
+</price>
+<os>Android OS v2.3.6 (Gingerbread)
+</os>
+<upgradable>----
+</upgradable>
+<cpu>1 GHz Processor
+</cpu>
+<chipset>----
+</chipset>
+<gpu>----
+</gpu>
+<radio>Yes,Stereo FM radio with RDS
+</radio>
+<jack>Yes
+</jack>
+<pcamera>Yes,3MP
+</pcamera>
+<scamera>0.3 MP
+</scamera>
+<imemory>202 MB
+</imemory>
+<ram>256 MB
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 800/900/1800
+</twog>
+<threeg>No
+</threeg>
+<fourg>No
+</fourg>
+<dsim>Yes,GSM and GSM
+</dsim>
+<ssim>No</ssim>
+<dimension>----
+</dimension>
+<weight>----
+</weight>
+<screen_type>4 inches,Capacitive touchscreen
+</screen_type>
+<resolution>----
+</resolution>
+<battery>Standard Li-Ion Battery
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes, v2.1
+</bluetooth>
+<wifi>Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,with A-GPS support
+</gps>
+<other>Pattern Lock,YouTube,We-chat,Google Play,Voice search,Facebook,Twitter,LinkedIn
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>karbonna2.png</a></image><image>
+<a>karbonna21.png</a></image><image>
+<a>karbonna22.png</a></image></mobile>
+</mobiles>

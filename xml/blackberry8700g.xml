@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>blackberry8700g</short_name>
+          <mobile_name>Blackberry 8700 G</mobile_name>
+          <price> Rs 4500</price>
+          <os>Blackberry OS</os>
+          <upgradable>----</upgradable>
+          <cpu>Intel PXA901 312 MHz processor</cpu>
+          <chipset>----</chipset>
+          <gpu>----</gpu>
+          <radio>No</radio>
+          <jack>Yes</jack>
+          <pcamera>No</pcamera>
+          <scamera>No</scamera>
+          <imemory>64 MB</imemory>
+          <ram>16 MB</ram>
+          <mcard>No</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>---------</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>110mm x 69.5mm x 19.5mm</dimension>
+          <weight>134 g</weight>
+          <screen_type>2.6 inches</screen_type>
+          <resolution>320 x 240</resolution>
+          <battery>1100 mAh</battery>
+          <flash>No</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes</bluetooth>
+          <wifi>----</wifi>
+          <gps>No</gps>
+          <other>Document viewer,Currency Converter</other>
+          <wbuy>Drop 5/10</wbuy>
+          <video>pY-ubzHBrSI</video>  
+          
+    
+        <image>
+          <a>blackberry8700g.png</a>
+        </image>
+        <image>
+          <a>blackberry8700g1.png</a>
+        </image>
+        <image>
+          <a>blackberry8700g2.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

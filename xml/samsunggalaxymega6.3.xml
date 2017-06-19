@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<mobiles>
+        <mobile>
+          <short_name>samsunggalaxymega6.3</short_name>
+          <mobile_name>Samsung Galaxy Mega 6.3</mobile_name>
+          <price>28000</price>
+          <os>Android 4.2(Jelly Bean)</os>
+          <upgradable>----</upgradable>
+          <cpu>1.7 Ghz Dual Core processor</cpu>
+          <chipset>Qualcomm Snapdragon</chipset>
+          <gpu>----</gpu>
+          <radio>Present</radio>
+          <jack>Present</jack>
+          <pcamera>Yes,8MP with auto-focus,LED Flash</pcamera>
+          <scamera>Yes,1.9MP</scamera>
+          <imemory>8 GB</imemory>
+          <ram>1.5 GB</ram>
+          <mcard>Expandable upto 64 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 850 / 900 / 1900 / 2100</threeg>
+          <fourg>------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>167.6mm x 88mm x 8mm</dimension>
+          <weight>199 g</weight>
+          <screen_type>HD Screen with Capacitive Touch</screen_type>
+          <resolution>1280 x 720</resolution>
+          <battery>3200mAh</battery>
+          <flash>LED Flash</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes,v4.0</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 b/g/n, Wi-Fi Direct, Wi-Fi hotspot</wifi>
+          <gps>Yes, with aGPS</gps>
+          <other>Google Maps,SNS Integration,S Calender</other>
+          <wbuy>Pick 8/10</wbuy>
+          <video></video>  
+          
+    
+        <image>
+          <a>samsunggalaxymega6.3.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxymega6.31.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxymega6.32.png</a>
+        </image>
+        
+        </mobile>
+</mobiles>

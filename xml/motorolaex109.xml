@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>motorolaex109</short_name>
+<mobile_name>Motorola EX109</mobile_name>
+<price>3100
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>2 MP</pcamera>
+<scamera>----
+</scamera>
+<imemory>50 MB
+</imemory>
+<ram>---- 
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 1800/1900/850/900
+</twog>
+<threeg>----
+</threeg>
+<fourg>---
+</fourg>
+<dsim>Yes GSM + GSM
+</dsim>
+<ssim>----</ssim>
+<dimension>102 x 59.5 x 12.8 mm
+</dimension>
+<weight>87 g
+</weight>
+<screen_type>2 Inches,TFT LCD Display Screen
+</screen_type>
+<resolution>176 x 220
+</resolution>
+<battery>Standard Battery Li-Po 750 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>----
+</wifi>
+<gps>Yes
+</gps>
+<other>Phone Book,SNS Intergration,Predictive text input
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>motorolaex109.png</a></image><image>
+<a>motorolaex1091.png</a></image><image>
+<a>motorolaex1092.png</a></image></mobile>
+</mobiles>

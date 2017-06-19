@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>motorolamotosmartflip</short_name>
+<mobile_name>Motorola Motosmart Flip</mobile_name>
+<price>10500
+</price>
+<os>Android OS v2.3
+</os>
+<upgradable>---
+</upgradable>
+<cpu>800 MHz Processor
+</cpu>
+<chipset>Qualcomm MSM7227T-1 Snapdragon
+</chipset>
+<gpu>Adreno 200
+</gpu>
+<radio>----
+</radio>
+<jack>Present
+</jack>
+<pcamera>5 MP Camera with Auto-Focus and LED Flash</pcamera>
+<scamera>VGA Camera
+</scamera>
+<imemory>150 MB Storage
+</imemory>
+<ram>512 MB RAM
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 850/1900 | HSDPA 900/2100 
+</threeg>
+<fourg>---
+</fourg>
+<dsim>---
+</dsim>
+<ssim>----</ssim>
+<dimension>110 x 58.5 x 13.9 mm
+</dimension>
+<weight>110 g
+</weight>
+<screen_type>3.2 Inches,TFT capacitive touchscreen,256k colors
+</screen_type>
+<resolution>320 x 480 pixels
+</resolution>
+<battery>Standard Battery Li-Po 1540 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>SNS integration,Flash Lite v.3.
+</other>
+<wbuy>Pick 7/10;
+</wbuy>
+<video>
+</video>
+<image>
+<a>motorolamotosmartflip.png</a></image><image>
+<a>motorolamotosmartflip1.png</a></image><image>
+<a>motorolamotosmartflip2.png</a></image></mobile>
+</mobiles>

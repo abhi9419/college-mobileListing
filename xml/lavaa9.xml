@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>lavaa9</short_name>
+<mobile_name>Lava A9</mobile_name>
+<price>3600
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>3.2 MP </pcamera>
+<scamera>----
+</scamera>
+<imemory>256 MB Storage
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 8 GB
+</mcard>
+<twog>GSM 900/1800 MHz 
+</twog>
+<threeg>----
+</threeg>
+<fourg>---
+</fourg>
+<dsim>Yes,GSM and GSM
+</dsim>
+<ssim>----</ssim>
+<dimension>----
+</dimension>
+<weight>----
+</weight>
+<screen_type>2.4 Inches TFT Touchsreen,262k colors
+</screen_type>
+<resolution>240 x 320 
+</resolution>
+<battery>Standard Battery Li-Po 900 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>----
+</wifi>
+<gps>----
+</gps>
+<other>Facebook,Torch,Mobile Tracker,SNS Intergration,Predictive text input
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>lavaa9.png</a></image><image>
+<a>lavaa91.png</a></image><image>
+<a>lavaa92.png</a></image></mobile>
+</mobiles>

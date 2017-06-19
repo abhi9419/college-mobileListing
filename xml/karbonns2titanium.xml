@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>karbonns2titanium
+</short_name>
+<mobile_name>Karbonn S2 Titanium
+</mobile_name>
+<price>Rs 10000
+</price>
+<os>Android OS v4.1(Jelly Bean)
+</os>
+<upgradable>---------
+</upgradable>
+<cpu>1.2 GHz Quad-core Processor
+</cpu>
+<chipset>Qualcomm MSM8255 Snapdragon
+</chipset>
+<gpu>Adreno 203
+</gpu>
+<radio>Yes
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,8MP
+</pcamera>
+<scamera>Yes,2MP Camera
+</scamera>
+<imemory>4 GB
+</imemory>
+<ram>1 GB
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 900/1800
+</twog>
+<threeg>WCDMA 2100
+</threeg>
+<fourg>No
+</fourg>
+<dsim>Yes
+</dsim>
+<ssim>No</ssim>
+<dimension>72mm x 145mm x 9.9mm
+</dimension>
+<weight>186g
+</weight>
+<screen_type>5 inches,Capacitive touchscreen
+</screen_type>
+<resolution>854 x 480
+</resolution>
+<battery>2100mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes,v3.0
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n,Wi-Fi hotspot,Wi-Fi Direct
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Google Play,Google Search,YouTube,SNS integration
+</other>
+<wbuy>Pick 7/10;
+</wbuy>
+<video>
+</video>
+<image>
+<a>karbonns2titanium.png</a></image><image>
+<a>karbonns2titanium1.png</a></image><image>
+<a>karbonns2titanium2.png</a></image></mobile>
+</mobiles>

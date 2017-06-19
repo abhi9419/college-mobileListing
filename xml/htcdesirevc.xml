@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>htcdesirevc</short_name>
+          <mobile_name>HTC Desire VC</mobile_name>
+          <price> Rs 19000</price>
+          <os>Android OS,v4.0.4(ICS)</os>
+          <upgradable>------</upgradable>
+          <cpu>Cortex A-5 1 GHz processor</cpu>
+          <chipset>Qualcomm MSM7227A Snapdragon</chipset>
+          <gpu>Adreno 200</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>5 MP,with autofocus and LED flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>8 GB</imemory>
+          <ram>512 MB</ram>
+          <mcard>expandable upto 32 GB</mcard>
+          <twog>GSM 900/1800/1900</twog>
+          <threeg>CDMA2000 1xEV-DO</threeg>
+          <fourg>----------</fourg>
+          <dsim>Yes</dsim>
+          <ssim>No</ssim>
+          <dimension>119.5mm x 62.3mm x 9.5mm</dimension>
+          <weight>119 g</weight>
+          <screen_type>4.0 inches,TFT capacitive touchscreen</screen_type>
+          <resolution>480 x 800</resolution>
+          <battery>1650 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes,v3.0</bluetooth>
+          <wifi>Wi-Fi 802.11 b/g/n,Wi-Fi hotspot</wifi>
+          <gps>Yes</gps>
+          <other>SNS integration,Gmail,Google Talk,Maps</other>
+          <wbuy>Drop 6/10</wbuy>
+          <video>twkucx7fhJo</video>  
+          
+    
+        <image>
+          <a>htcdesirevc.png</a>
+        </image>
+        <image>
+          <a>htcdesirevc1.png</a>
+        </image>
+        <image>
+          <a>htcdesirevc2.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

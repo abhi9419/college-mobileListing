@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>nokia5530xpressmusic</short_name>
+<mobile_name>Nokia 5530 Xpress music</mobile_name>
+<price>10000
+</price>
+<os>Symbian OS v9.4
+</os>
+<upgradable>----
+</upgradable>
+<cpu>ARM 11 434 MHz Processor
+</cpu>
+<chipset>----
+</chipset>
+<gpu>---
+</gpu>
+<radio>Stereo FM radio with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,3.15MP with auto-focus,LED flash</pcamera>
+<scamera>----
+</scamera>
+<imemory>70 MB Storage
+</imemory>
+<ram>128 MB SDRAM
+</ram>
+<mcard>Expandable upto 16GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>----
+</threeg>
+<fourg>---
+</fourg>
+<dsim>---
+</dsim>
+<ssim>----</ssim>
+<dimension>104 x 49 x 13mm 
+</dimension>
+<weight>107 g
+</weight>
+<screen_type>2.9 Inches
+</screen_type>
+<resolution>360 x 640
+</resolution>
+<battery>Standard Battery Li-Po 1000 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Flash Lite, Organizer,Voice memo
+</other>
+<wbuy>Drop 5/10;
+</wbuy>
+<video>
+</video>
+<image>
+<a>nokia5530xpressmusic.png</a></image><image>
+<a>nokia5530xpressmusic1.png</a></image><image>
+<a>nokia5530xpressmusic2.png</a></image></mobile>
+</mobiles>

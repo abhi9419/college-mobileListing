@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>lgeigen</short_name>
+<mobile_name>LG Eigen</mobile_name>
+<price>20000
+</price>
+<os>Windows 6.1 Professional
+</os>
+<upgradable>Upgradable to 6.5 
+</upgradable>
+<cpu>Qualcomm MSM7201A 528 MHz Processor
+</cpu>
+<chipset>----
+</chipset>
+<gpu>----
+</gpu>
+<radio>FM Radio
+</radio>
+<jack>Present
+</jack>
+<pcamera>5MP Camera Auto-focus,Schneider-Kreuznach optics</pcamera>
+<scamera>Yes
+</scamera>
+<imemory>289 MB
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 16GB
+</mcard>
+<twog>GSM 900/1800/1900
+</twog>
+<threeg> HSDPA 900/1900/2100 
+</threeg>
+<fourg>---
+</fourg>
+<dsim>----
+</dsim>
+<ssim>----</ssim>
+<dimension>109.8 x 56.5 x 11.9 mm 
+</dimension>
+<weight>107 g
+</weight>
+<screen_type>3.0 Inches
+</screen_type>
+<resolution>240 x 400
+</resolution>
+<battery>Standard Battery Li-Po 1000 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Calender,Voice Recorder
+</other>
+<wbuy>Drop 4/10;
+</wbuy>
+<video>
+</video>
+<image>
+<a>lgeigen.png</a></image><image>
+<a>lgeigen1.png</a></image><image>
+<a>lgeigen2.png</a></image></mobile>
+</mobiles>

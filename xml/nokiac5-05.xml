@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>nokiac5-05</short_name>
+<mobile_name>Nokia C5-05</mobile_name>
+<price>5800
+</price>
+<os>Symbian OS v9.4,Series 60 rel. 5
+</os>
+<upgradable>----
+</upgradable>
+<cpu>600 MHz Processor 
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>2 MP(1600 x 1200)</pcamera>
+<scamera>No
+</scamera>
+<imemory>40 MB
+</imemory>
+<ram>128 MB 
+</ram>
+<mcard>Expandable upto 16 GB
+</mcard>
+<twog>GSM 850/900/1800/1900  
+</twog>
+<threeg>-----
+</threeg>
+<fourg>----
+</fourg>
+<dsim>No
+</dsim>
+<ssim>Yes</ssim>
+<dimension>105.8 x 51 x 13.8 mm
+</dimension>
+<weight>93g
+</weight>
+<screen_type>3.2 inches,TFT Resistive Touchscreen,16M color
+</screen_type>
+<resolution>360 x 640 
+</resolution>
+<battery>Standard Battery Li-Ion 1000 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes v2.1
+</bluetooth>
+<wifi>802.11 b/g/n
+</wifi>
+<gps>Yes
+</gps>
+<other>Social Networking,Adobe Support,Document viewer,Nokia Life Tools,Flash Lite 3.0,Nokia Maps
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>nokiac5-05.png</a></image><image>
+<a>nokiac5-051.png</a></image><image>
+<a>nokiac5-052.png</a></image></mobile>
+</mobiles>

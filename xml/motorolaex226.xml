@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>motorolaex226</short_name>
+<mobile_name>Motorola EX226</mobile_name>
+<price>6000
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>-----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>3.2 MP</pcamera>
+<scamera>----
+</scamera>
+<imemory>50 MB Storage
+</imemory>
+<ram>64 MB 
+</ram>
+<mcard>expandable upto 32 GB
+</mcard>
+<twog>GSM 900/1800 - SIM 1 & SIM 2 
+</twog>
+<threeg> HSDPA 850/2100 - SIM 1 only
+</threeg>
+<fourg>---
+</fourg>
+<dsim>Yes
+</dsim>
+<ssim>----</ssim>
+<dimension>105.5 x 60 x 9.9 mm
+</dimension>
+<weight>90 g
+</weight>
+<screen_type>2.4 Inches,TFT Capacitive Touchscreen,256k Colors
+</screen_type>
+<resolution>320 x 240
+</resolution>
+<battery>Standard Battery Li-Po
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>----
+</wifi>
+<gps>class 10,32-48 kbps
+</gps>
+<other>SNS Intergration,Predictive text input
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>motorolaex226.png</a></image><image>
+<a>motorolaex2261.png</a></image><image>
+<a>motorolaex2262.png</a></image></mobile>
+</mobiles>

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<mobiles>
+        <mobile>
+          <short_name>blackberrystorm9530</short_name>
+          <mobile_name>Blackberry Storm 9530</mobile_name>
+          <price>8000</price>
+          <os>Blackberry OS</os>
+          <upgradable>----</upgradable>
+          <cpu>Qualcomm MSM7600 528 Mhz Processor</cpu>
+          <chipset>----</chipset>
+          <gpu>----</gpu>
+          <radio>No</radio>
+          <jack>Yes</jack>
+          <pcamera>Yes,3.15MP aotufocus with LED flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>1 GB</imemory>
+          <ram>128 MB</ram>
+          <mcard>Expandable upto 16 GB</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 2100</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>112.5mm x 62.2mm x 14mm</dimension>
+          <weight>155 g</weight>
+          <screen_type>3.2 inches</screen_type>
+          <resolution>360 x 480</resolution>
+          <battery>1400 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes,v2.0</bluetooth>
+          <wifi>No</wifi>
+          <gps>Yes</gps>
+          <other>Document editor</other>
+          <wbuy>Pick 7/10</wbuy>
+          <video>9tqL5nO6PTQ</video>  
+          
+    
+        <image>
+          <a>blackberrystorm9530.png</a>
+        </image>
+        <image>
+          <a>blackberrystorm95301.png</a>
+        </image>
+        <image>
+          <a>blackberrystorm95302.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

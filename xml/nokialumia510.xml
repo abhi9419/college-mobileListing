@@ -1,0 +1,68 @@
+<mobiles>
+<mobile>
+<short_name>nokialumia510</short_name>
+<mobile_name>Nokia Lumia 510</mobile_name>
+<price>9300
+</price>
+<os>Windows Phone 7.5 OS
+</os>
+<upgradable>Upgradable to 7.8 OS
+</upgradable>
+<cpu>800 MHz Processor
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM
+</radio>
+<jack>Present
+</jack>
+<pcamera>5 MP,Auto-Focus,Face-Detection</pcamera>
+<scamera>----
+</scamera>
+<imemory>4 GB Storage
+</imemory>
+<ram>256 MB RAM
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg> HSDPA 900/2100 
+</threeg>
+<fourg>---
+</fourg>
+<dsim>----
+</dsim>
+<ssim>----</ssim>
+<dimension>120.7 x 64.9 x 11.5 mm
+</dimension>
+<weight>129 g
+</weight>
+<screen_type>4 Inches,WVGA Capacitive touchscreen
+</screen_type>
+<resolution>800 x 480
+</resolution>
+<battery>Standard Battery Li-Po 1300 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>SNS Integration,Document viewer,Voice-Memo,Active Noise cancellation</other>
+<wbuy>Pick 6.5/10;
+</wbuy>
+<video>oSVB-zOhPgc
+</video>
+<image>
+<a>nokialumia510.png</a></image><image>
+<a>nokialumia5101.png</a></image><image>
+<a>nokialumia5102.png</a></image></mobile>
+</mobiles>

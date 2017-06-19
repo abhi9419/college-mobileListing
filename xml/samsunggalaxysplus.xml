@@ -1,0 +1,49 @@
+<mobiles>
+        <mobile>
+          <short_name>samsunggalaxysplus</short_name>
+          <mobile_name>Samsung Galaxy S Plus</mobile_name>
+          <price> Rs 20000</price>
+          <os>Android 2.3</os>
+          <upgradable>----</upgradable>
+          <cpu>1.4 Ghz Scorpion Processor</cpu>
+          <chipset>Snapdragon</chipset>
+          <gpu>Adreno 205</gpu>
+          <radio>Present</radio>
+          <jack>Present</jack>
+          <pcamera>Yes,5MP with auto-focus</pcamera>
+          <scamera>Yes,VGA Camera</scamera>
+          <imemory>8 GB</imemory>
+          <ram>512 MB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 900 / 1900 / 2100</threeg>
+          <fourg>----</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>122.4mm x 64.2mm x 9.9mm</dimension>
+          <weight>119 g</weight>
+          <screen_type>Super Amoled screen with Gorilla Glass and multi touch input</screen_type>
+          <resolution>480 x 800</resolution>
+          <battery>1650mAh</battery>
+          <flash>LED Flash</flash>
+          <nfc>No</nfc>
+          <bluetooth>Yes,v3.0</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 b/g/n, Wi-Fi hotspot</wifi>
+          <gps>Yes, with aGPS</gps>
+          <other>Accelerometer,proximity sensors,Digital Compass</other>
+          <wbuy>Pick 7.5/10</wbuy>
+          <video>GjW5E0_UcgM</video>  
+          
+    
+        <image>
+          <a>samsunggalaxysplus.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxysplus1.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxysplus2.png</a>
+        </image>
+        
+        </mobile>
+</mobiles>

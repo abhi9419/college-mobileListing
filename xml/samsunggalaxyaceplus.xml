@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<mobiles>
+        <mobile>
+          <short_name>samsunggalaxyaceplus</short_name>
+          <mobile_name>Samsung Galaxy Ace Plus</mobile_name>
+          <price>12800</price>
+          <os>Android 2.3</os>
+          <upgradable>----</upgradable>
+          <cpu>1 Ghz Processor</cpu>
+          <chipset>Snapdragon</chipset>
+          <gpu>Adreno 200</gpu>
+          <radio>Present</radio>
+          <jack>Present</jack>
+          <pcamera>Yes,5MP with auto-focus and LED Flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>3 GB</imemory>
+          <ram>512 MB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 900 / 2100</threeg>
+          <fourg>----</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>114.5mm x 62.5mm x 11.2mm</dimension>
+          <weight>115 g</weight>
+          <screen_type>TFT Capacitive Touchscreen with 3.7 inch Screen Size</screen_type>
+          <resolution>320 x 480</resolution>
+          <battery>1300mAh</battery>
+          <flash>Yes</flash>
+          <nfc>No</nfc>
+          <bluetooth>Yes,v3.0</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 b/g/n,Wi-Fi Hotspot</wifi>
+          <gps>Yes,with aGPS</gps>
+          <other>Digital Compass,Image Editor,Document editor,Google Talk</other>
+          <wbuy>Pick 7/10</wbuy>
+          <video>sFzOxC8TO2A</video>  
+          
+    
+        <image>
+          <a>samsunggalaxyaceplus.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxyaceplus1.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxyaceplus2.png</a>
+        </image>
+        
+        </mobile>
+</mobiles>

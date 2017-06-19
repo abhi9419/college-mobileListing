@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>blackberrytour9630</short_name>
+          <mobile_name>Blackberry Tour 9630</mobile_name>
+          <price> Rs 9000</price>
+          <os>Blackberry OS</os>
+          <upgradable>----</upgradable>
+          <cpu>----</cpu>
+          <chipset>----</chipset>
+          <gpu>----</gpu>
+          <radio>No</radio>
+          <jack>Yes</jack>
+          <pcamera>Yes,3.15MP,autofocus with LED flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>256 MB</imemory>
+          <ram>----</ram>
+          <mcard>Expandable upto 8 GB</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 2100,CDMA/EVDO Rev A 800/1900</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>112mm x 62mm x 14.2mm</dimension>
+          <weight>130 g</weight>
+          <screen_type>65k colors, No touchscreen</screen_type>
+          <resolution>480 x 360</resolution>
+          <battery>1400 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes,v2.0</bluetooth>
+          <wifi>----</wifi>
+          <gps>Yes</gps>
+          <other>Maps,Document Editor,Voice memo</other>
+          <wbuy>Pick 7/10</wbuy>
+          <video>B7zKwGajCro</video>  
+          
+    
+        <image>
+          <a>blackberrytour9630.png</a>
+        </image>
+        <image>
+          <a>blackberrytour96301.png</a>
+        </image>
+        <image>
+          <a>blackberrytour96302.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

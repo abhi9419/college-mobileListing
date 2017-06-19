@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>motorolaflipout</short_name>
+<mobile_name>Motorola FlipOut</mobile_name>
+<price>10500
+</price>
+<os>Android OS v2.1
+</os>
+<upgradable>---
+</upgradable>
+<cpu>700 MHz Processor
+</cpu>
+<chipset>TI OMAP 3410
+</chipset>
+<gpu>PowerVR SGX530
+</gpu>
+<radio>stereo FM with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>3.15 MP</pcamera>
+<scamera>----
+</scamera>
+<imemory>2GB Storage
+</imemory>
+<ram>256 MB RAM
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 900/2100
+</threeg>
+<fourg>---
+</fourg>
+<dsim>---
+</dsim>
+<ssim>----</ssim>
+<dimension>67 x 67 x 17 mm
+</dimension>
+<weight>120 g
+</weight>
+<screen_type>2.8 Inches,TFT capacitive touchscreen
+</screen_type>
+<resolution>320 x 240 pixels
+</resolution>
+<battery>Standard Battery Li-Po 1170 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Organizer,Document Viewer,Adobe Flash 10.2,Google Search,Maps,Google talk,clok,Voice command,Flash Lite v.3.
+</other>
+<wbuy>Pick 7/10;
+</wbuy>
+<video>F66Tx1l_ykU
+</video>
+<image>
+<a>motorolaflipout.png</a></image><image>
+<a>motorolaflipout1.png</a></image><image>
+<a>motorolaflipout2.png</a></image></mobile>
+</mobiles>

@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>nokia808pureview</short_name>
+          <mobile_name>Nokia 808 PureView</mobile_name>
+          <price> Rs 25000</price>
+          <os>Symbian Belle OS 10.1</os>
+          <upgradable>-----</upgradable>
+          <cpu>1.3 GHz Processor</cpu>
+          <chipset>------</chipset>
+          <gpu>----</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>41 MP,with autofocus and Xenon flash</pcamera>
+          <scamera>VGA Camera</scamera>
+          <imemory>16 GB</imemory>
+          <ram>----</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 850/900/1700/2100</threeg>
+          <fourg>No</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>123.9mm x 60.2mm x 13.9mm</dimension>
+          <weight>169 g</weight>
+          <screen_type>4.0 inches,AMOLED capacitive touchscreen</screen_type>
+          <resolution>360 x 640</resolution>
+          <battery>1400 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>Yes</nfc>
+          <bluetooth>Yes,v3.0</bluetooth>
+          <wifi>Wi-Fi 802.11 b/g/n,UPnP technology</wifi>
+          <gps>Yes</gps>
+          <other>SNS integration,HDMI port,Document viewer,Voice command/dial</other>
+          <wbuy>Pick 7/10</wbuy>
+          <video>9FgOjCNV6_k</video>  
+          
+    
+        <image>
+          <a>nokia808pureview.png</a>
+        </image>
+        <image>
+          <a>nokia808pureview1.png</a>
+        </image>
+        <image>
+          <a>nokia808pureview2.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

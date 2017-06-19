@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>karbonnk1616
+</short_name>
+<mobile_name>Karbonn K1616
+</mobile_name>
+<price>Rs 3900
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>----
+</gpu>
+<radio>Yes
+</radio>
+<jack>Yes
+</jack>
+<pcamera>Yes,3.2MP
+</pcamera>
+<scamera>No
+</scamera>
+<imemory>----
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 8GB
+</mcard>
+<twog>GSM 900/1800
+</twog>
+<threeg>No
+</threeg>
+<fourg>No
+</fourg>
+<dsim>Yes,GSM and GSM
+</dsim>
+<ssim>No</ssim>
+<dimension>116 x 61 x 12mm
+</dimension>
+<weight>135g
+</weight>
+<screen_type>3.5 inches,TFT WQVGA Full Touchscreen
+</screen_type>
+<resolution>320 x 480
+</resolution>
+<battery>Standard Li-Ion 1150 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>----
+</wifi>
+<gps>No
+</gps>
+<other>Mobile tracker,Predictive text,Voice recorder,Currency Converter,Call conference
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>karbonnk1616.png</a></image><image>
+<a>karbonnk16161.png</a></image><image>
+<a>karbonnk16162.png</a></image></mobile>
+</mobiles>

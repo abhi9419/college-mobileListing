@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>lgt500
+</short_name>
+<mobile_name>LG T500
+</mobile_name>
+<price>Rs 4100
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>----
+</gpu>
+<radio>Yes
+</radio>
+<jack>----
+</jack>
+<pcamera>Yes,2.0MP
+</pcamera>
+<scamera>----
+</scamera>
+<imemory> 60 MB
+</imemory>
+<ram>---- 
+</ram>
+<mcard>Expandable upto 8GB
+</mcard>
+<twog>GSM 850/900/1800/1900 
+</twog>
+<threeg>No
+</threeg>
+<fourg>No
+</fourg>
+<dsim>----
+</dsim>
+<ssim>No</ssim>
+<dimension>105 x 57.3 x 12.9 mm
+</dimension>
+<weight>93 g
+</weight>
+<screen_type>2.8 Inches,QVGA TFT 16M Colors
+</screen_type>
+<resolution>320 x 240
+</resolution>
+<battery>Li-Ion Battery
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes
+</wifi>
+<gps>No
+</gps>
+<other>Document Viewer,Unit Converter
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>lgt500.png</a></image><image>
+<a>lgt5001.png</a></image><image>
+<a>lgt5002.png</a></image></mobile>
+</mobiles>

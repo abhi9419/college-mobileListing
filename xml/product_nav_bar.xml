@@ -1,0 +1,14 @@
+<product_element>
+    <value>
+       <name>Details</name>
+    </value>
+    <value>
+       <name>Images</name>
+    </value>
+    <value>
+       <name>Video</name>
+    </value>
+    <value>
+       <name>Buy</name>
+    </value>
+</product_element>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<mobiles>
+        <mobile>
+          <short_name>samsunggalaxynote2</short_name>
+          <mobile_name>Samsung Galaxy Note 2</mobile_name>
+          <price>28000</price>
+          <os>Android 4.1</os>
+          <upgradable>----</upgradable>
+          <cpu>1.6 Ghz Quad Core processor</cpu>
+          <chipset>Exynos</chipset>
+          <gpu>400 MALI GPU</gpu>
+          <radio>Present</radio>
+          <jack>Present</jack>
+          <pcamera>Yes,8MP with auto-focus,LED Flash</pcamera>
+          <scamera>Yes,1.9MP</scamera>
+          <imemory>16 GB/32 GB/64 GB</imemory>
+          <ram>2 GB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 850 / 900 / 1900 / 2100</threeg>
+          <fourg>LTE 700 MHz Class 17 / 2100</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>151.1mm x 80.5mm x 9.4mm</dimension>
+          <weight>180 g</weight>
+          <screen_type>Super Amoled screen with Gorilla Glass 2and multi touch input</screen_type>
+          <resolution>720 x 1280</resolution>
+          <battery>3100mAh</battery>
+          <flash>LED Flash</flash>
+          <nfc>Yes</nfc>
+          <bluetooth>Yes,v4.0</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct, Wi-Fi hotspot</wifi>
+          <gps>Yes, with aGPS</gps>
+          <other>Stylus,Accelerometer,proximity sensors,Touchwiz 4.0,Integrated Document editor,On the go USB,Connects to mouse.</other>
+          <wbuy>Pick 9.5/10</wbuy>
+          <video>yr2g_aJQzQk</video>  
+          
+    
+        <image>
+          <a>samsunggalaxynote2.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxynote21.png</a>
+        </image>
+        <image>
+          <a>samsunggalaxynote22.png</a>
+        </image>
+        
+        </mobile>
+</mobiles>

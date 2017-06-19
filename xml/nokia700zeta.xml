@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>nokia700zeta
+</short_name>
+<mobile_name>Nokia 700 Zeta
+</mobile_name>
+<price>Rs 13500
+</price>
+<os>Symbian Belle
+</os>
+<upgradable>---
+</upgradable>
+<cpu>1 GHz processor
+</cpu>
+<chipset>---
+</chipset>
+<gpu>----
+</gpu>
+<radio>Yes
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,5MP with LED flash
+</pcamera>
+<scamera>No
+</scamera>
+<imemory>2 GB
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 850/900/2100
+</threeg>
+<fourg>-----
+</fourg>
+<dsim>No
+</dsim>
+<ssim>Yes</ssim>
+<dimension>110mm x 51mm x 10mm
+</dimension>
+<weight>80g
+</weight>
+<screen_type>3.2 inches,AMOLED Capacitive touchscreen
+</screen_type>
+<resolution>360 x 640
+</resolution>
+<battery>Li-Ion 1080mAh
+</battery>
+<flash>Yes
+</flash>
+<nfc>Yes
+</nfc>
+<bluetooth>Yes,v3.0
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Voice Memo,Photo Editor
+</other>
+<wbuy>Drop 6/10;
+</wbuy>
+<video>
+</video>
+<image>
+<a>nokia700zeta.png</a></image><image>
+<a>nokia700zeta1.png</a></image><image>
+<a>nokia700zeta2.png</a></image></mobile>
+</mobiles>

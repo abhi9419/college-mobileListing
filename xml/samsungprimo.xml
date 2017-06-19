@@ -1,0 +1,41 @@
+<mobiles>
+<mobile> 
+<short_name>samsungprimos5610</short_name> 
+<mobile_name>Samsung Primo S5610</mobile_name>
+<price>Rs 5500 </price> 
+<os>---- </os> 
+<upgradable>---- </upgradable>
+<cpu>---- </cpu>
+<chipset>---- </chipset>
+<gpu>--- </gpu> 
+<radio>Stereo FM With RDS,FM Recording </radio> 
+<jack>Present </jack> 
+<pcamera>Yes,5 MP with Auto-Focus,LED Flash,Smile Detection</pcamera> 
+<scamera>---- </scamera> 
+<imemory>108 MB</imemory> 
+<ram>---- </ram> 
+<mcard>Expandable upto 32GB.  </mcard> 
+<twog>GSM 850/900/1800/1900 </twog> 
+<threeg>HSDPA 900/2100 </threeg> 
+<fourg>--- </fourg> 
+<dsim>---- </dsim> 
+<ssim>----</ssim> 
+<dimension>118.9 x 49.7 x 12.9 mm</dimension> 
+<weight>91 g </weight> 
+<screen_type>2.4 inches,TFT Touchscreen</screen_type> 
+<resolution>240 x 320 </resolution> 
+<battery>Standard Battery Li-Po 1000 MAh </battery> 
+<flash>No </flash> 
+<nfc>No </nfc>
+ <bluetooth>Yes </bluetooth>
+<wifi>---- </wifi> 
+<gps>----</gps> 
+<other>SNS Application,Organizer,Document Viewer,Voice Memo </other> 
+<wbuy>Pick 8/10; </wbuy> 
+<video>lj67n83dXTE</video> 
+<image>
+<a>samsungprimo.png</a></image><image>
+<a>samsungprimo1.png</a></image><image>
+<a>samsungprimo2.png</a></image>
+</mobile>
+</mobiles>

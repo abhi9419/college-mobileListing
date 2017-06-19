@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>nokia701</short_name>
+          <mobile_name>Nokia 701 </mobile_name>
+          <price> Rs 15500</price>
+          <os>Symbian Belle OS</os>
+          <upgradable>-------</upgradable>
+          <cpu>1GHz processor</cpu>
+          <chipset>---------</chipset>
+          <gpu>2D/3D Graphics HW Accelerator with OpenVG1.1 and OpenGL ES 2.0</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>8 MP,with dual-LED flash</pcamera>
+          <scamera>VGA Camera</scamera>
+          <imemory>8 GB</imemory>
+          <ram>512 MB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 850/900/1700/2100</threeg>
+          <fourg>No</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>117.2mm x 56.8mm x 11mm</dimension>
+          <weight>131 g</weight>
+          <screen_type>3.5 inches,LED-backlit IPS TFT, capacitive touchscreen</screen_type>
+          <resolution>360 x 640</resolution>
+          <battery>1300 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>-------</nfc>
+          <bluetooth>Yes,v3.0</bluetooth>
+          <wifi>Wi-Fi 802.11 b/g/n</wifi>
+          <gps>Yes</gps>
+          <other>Orientation sensor,Proximity sensor,Ambient light detector,TV-out,MS Outlook synchronisation</other>
+          <wbuy>Pick 7/10</wbuy>
+          <video>oay4yqRQuVE</video>  
+          
+    
+        <image>
+          <a>nokia701.png</a>
+        </image>
+        <image>
+          <a>nokia7011.png</a>
+        </image>
+        <image>
+          <a>nokia7012.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

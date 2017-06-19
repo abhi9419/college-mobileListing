@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>nokiae6</short_name>
+          <mobile_name>Nokia E6 </mobile_name>
+          <price> Rs 16500</price>
+          <os>Symbian Anna OS</os>
+          <upgradable>Upgradable to Symbian Belle</upgradable>
+          <cpu>600 MHz ARM 11 processor</cpu>
+          <chipset>-------</chipset>
+          <gpu>2D/3D Graphics HW Accelerator with OpenVG1.1 and OpenGL ES 2.0</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>8 MP,with auto-focus and LED flash</pcamera>
+          <scamera>VGA Camera</scamera>
+          <imemory>8 GB</imemory>
+          <ram>256 MB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 850/900/1700/2100</threeg>
+          <fourg>No</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>115.5mm x 59mm x 10.5mm</dimension>
+          <weight>133 g</weight>
+          <screen_type>2.46 inches,TFT capacitive touchscreen</screen_type>
+          <resolution>640 x 480</resolution>
+          <battery>1500 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>-------</nfc>
+          <bluetooth>Yes,v3.0</bluetooth>
+          <wifi>Wi-Fi 802.11 b/g/n</wifi>
+          <gps>Yes</gps>
+          <other>Digital compass,TV-out,Document Editor,Voice command/dial/commands,MS Outlook synchronisation</other>
+          <wbuy>Pick 7/10</wbuy>
+          <video>tL9EO3R_f_I</video>  
+          
+    
+        <image>
+          <a>nokiae6.png</a>
+        </image>
+        <image>
+          <a>nokiae61.png</a>
+        </image>
+        <image>
+          <a>nokiae62.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

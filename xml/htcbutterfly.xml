@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>htcbutterfly
+</short_name>
+<mobile_name>HTC Butterfly
+</mobile_name>
+<price>Rs 40000
+</price>
+<os>Android OS v4.1(Jelly Bean)
+</os>
+<upgradable>------
+</upgradable>
+<cpu>1.5 GHz Quad-core Krait Processor
+</cpu>
+<chipset>------
+</chipset>
+<gpu>Adreno 320
+</gpu>
+<radio>Yes
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,8MP with autofocus and LED flash
+</pcamera>
+<scamera>Yes,2.1MP Camera
+</scamera>
+<imemory>16 GB
+</imemory>
+<ram>2 GB
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 800/900/1800
+</twog>
+<threeg>HSDPA 850/900/1900/2100
+</threeg>
+<fourg>LTE
+</fourg>
+<dsim>No
+</dsim>
+<ssim>Yes</ssim>
+<dimension>143mm x 70.5mm x 9.1mm
+</dimension>
+<weight>140g
+</weight>
+<screen_type>5 inches,Super LCD3 Capacitive touchscreen
+</screen_type>
+<resolution>1080 x 1920
+</resolution>
+<battery>2020mAh
+</battery>
+<flash>Yes
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes,v4.0
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n,Wi-Fi hotspot,Wi-Fi Direct,DLNA
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Google Play,Google Search,YouTube,Document/viewer,SNS integration,Active noise cancellation with dedicated mic
+</other>
+<wbuy>Drop 6.5/10;
+</wbuy>
+<video>
+</video>
+<image>
+<a>htcbutterfly.png</a></image><image>
+<a>htcbutterfly1.png</a></image><image>
+<a>htcbutterfly2.png</a></image></mobile>
+</mobiles>

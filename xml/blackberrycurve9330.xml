@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<mobiles>
+        <mobile>
+          <short_name>blackberrycurve9330</short_name>
+          <mobile_name>Blackberry Curve 9330</mobile_name>
+          <price>12500</price>
+          <os>Blackberry OS 5.0</os>
+          <upgradable>Upgradable</upgradable>
+          <cpu>----</cpu>
+          <chipset>----</chipset>
+          <gpu>----</gpu>
+          <radio>No</radio>
+          <jack>Yes</jack>
+          <pcamera>Yes,2MP</pcamera>
+          <scamera>No</scamera>
+          <imemory>512 MB</imemory>
+          <ram>512 MB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>CDMA 800/1900</twog>
+          <threeg>CDMA2000 1xEV-DO</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,CDMA only.</ssim>
+          <dimension>109mm x 60mm x 13.9mm</dimension>
+          <weight>104 g</weight>
+          <screen_type>TFT Display</screen_type>
+          <resolution>320 x 240</resolution>
+          <battery>1150 mAh</battery>
+          <flash>No</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes,v2.1</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 b/g</wifi>
+          <gps>Yes</gps>
+          <other>Voice memo/dial/commands,Organiser</other>
+          <wbuy>Drop 4.5/10</wbuy>
+          <video>Zhdno-1mk8U</video>  
+          
+    
+        <image>
+          <a>blackberrycurve9330.png</a>
+        </image>
+        <image>
+          <a>blackberrycurve93301.png</a>
+        </image>
+        <image>
+          <a>blackberrycurve93302.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

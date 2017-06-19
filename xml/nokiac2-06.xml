@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>nokiac2-06</short_name>
+<mobile_name>Nokia C2-06</mobile_name>
+<price>4200
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>2 MP</pcamera>
+<scamera>No
+</scamera>
+<imemory>10 MB
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 32 GB
+</mcard>
+<twog>GSM 900/1800 - SIM 1 & SIM 2  
+</twog>
+<threeg>----
+</threeg>
+<fourg>----
+</fourg>
+<dsim>Yes, GSM & GSM
+</dsim>
+<ssim>----</ssim>
+<dimension>103 x 51.4 x 17 mm
+</dimension>
+<weight>115g
+</weight>
+<screen_type>2.6 inches,TFT Resistive,56K Colors
+</screen_type>
+<resolution>240 x 320
+</resolution>
+<battery>Standard Battery Li-Ion 1020 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes v2.1
+</bluetooth>
+<wifi>No
+</wifi>
+<gps>No
+</gps>
+<other>Photo Editor
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>nokiac2-06.png</a></image><image>
+<a>nokiac2-061.png</a></image><image>
+<a>nokiac2-062.png</a></image></mobile>
+</mobiles>

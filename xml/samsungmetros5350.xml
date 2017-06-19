@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>samsungmetros5350</short_name>
+<mobile_name>Samsung Metro S5350</mobile_name>
+<price>6000
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>3.15 MP,Auto-Focus</pcamera>
+<scamera>----
+</scamera>
+<imemory>100 MB
+</imemory>
+<ram>---- 
+</ram>
+<mcard>Expandable upto 16GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 900/2100
+</threeg>
+<fourg>---
+</fourg>
+<dsim>
+</dsim>
+<ssim>----</ssim>
+<dimension>115.2 x 46.7 x 11.9 mm
+</dimension>
+<weight>99.2 g 
+</weight>
+<screen_type>2.2 Inches 
+</screen_type>
+<resolution>240 x 320
+</resolution>
+<battery>Standard Battery Li-Po 900 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>----
+</wifi>
+<gps>----
+</gps>
+<other>Phone Book,SNS Intergration,Predictive text input,Clock,Calulator,Alarm
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>samsungmetros5350.png</a></image><image>
+<a>samsungmetros53501.png</a></image><image>
+<a>samsungmetros53502.png</a></image></mobile>
+</mobiles>

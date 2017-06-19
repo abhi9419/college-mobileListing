@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<mobiles>
+        <mobile>
+          <short_name>blackberrytorch9860</short_name>
+          <mobile_name>Blackberry Torch 9860</mobile_name>
+          <price>14000</price>
+          <os>Blackberry OS 7.0</os>
+          <upgradable>----</upgradable>
+          <cpu>1.2GHz processor</cpu>
+          <chipset>----</chipset>
+          <gpu>----</gpu>
+          <radio>No</radio>
+          <jack>Yes</jack>
+          <pcamera>Yes,5MP with auto-focus</pcamera>
+          <scamera>No</scamera>
+          <imemory>4 GB</imemory>
+          <ram>768 MB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 850 / 900 / 1900 / 2100</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>120mm x 62mm x 11.5mm</dimension>
+          <weight>135 g</weight>
+          <screen_type>TFT Capacitive Touch Screen </screen_type>
+          <resolution>480 x 800</resolution>
+          <battery>1230 mAh</battery>
+          <flash>----</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes,v2.1</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 b/g/n</wifi>
+          <gps>Yes</gps>
+          <other>Document Viewer,Social feeds,Voice momo/dial,Blackberry Maps</other>
+          <wbuy>Pick 7/10</wbuy>
+          <video>AN2jmJsaygw</video>  
+          
+    
+        <image>
+          <a>blackberrytorch9860.png</a>
+        </image>
+        <image>
+          <a>blackberrytorch98601.png</a>
+        </image>
+        <image>
+          <a>blackberrytorch98602.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

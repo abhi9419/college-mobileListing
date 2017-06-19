@@ -1,0 +1,70 @@
+<mobiles>
+<mobile>
+<short_name>lga200</short_name>
+<mobile_name>LG A200 </mobile_name>
+<price>3750
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>2 MP,1600 x 1200</pcamera>
+<scamera>----
+</scamera>
+<imemory>128 MB
+</imemory>
+<ram>64 MB
+</ram>
+<mcard>Expandable upto 8GB
+</mcard>
+<twog>GSM 800/900/1800/1900
+</twog>
+<threeg>----
+</threeg>
+<fourg>---
+</fourg>
+<dsim>----
+</dsim>
+<ssim>----</ssim>
+<dimension>99.8 x 51 x 15.8 mm
+</dimension>
+<weight>95 g
+</weight>
+<screen_type>2.2 Inches,LCD 65K Colors
+</screen_type>
+<resolution>176 x 220
+</resolution>
+<battery>Standard Battery Li-Po 
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>No
+</wifi>
+<gps>----
+</gps>
+<other>----
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>lga200.png</a></image><image>
+<a>lga2001.png</a></image><image>
+<a>lga2002.png</a></image></mobile>
+
+</mobiles>

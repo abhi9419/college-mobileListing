@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>lgoptimus4xhd</short_name>
+<mobile_name>LG Optimus 4X HD</mobile_name>
+<price>26500
+</price>
+<os>Android OS v4.0
+</os>
+<upgradable>----
+</upgradable>
+<cpu>Quad-core 1.5 GHz Cortex-A9 processor
+</cpu>
+<chipset>Nvidia tegra 3
+</chipset>
+<gpu>ULP GeForce
+</gpu>
+<radio>Stereo FM with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>Rear 8MP Camera auto-focus,LED Flash</pcamera>
+<scamera>1.3 MP
+</scamera>
+<imemory>16 GB Storage
+</imemory>
+<ram>1 GB
+</ram>
+<mcard>extendable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg> HSDPA 900/1900/2100 
+</threeg>
+<fourg>---
+</fourg>
+<dsim>----
+</dsim>
+<ssim>----</ssim>
+<dimension>132.4 x 68.1 x 8.9mm
+</dimension>
+<weight>133 g
+</weight>
+<screen_type>4.7 inches LCD Capacitive Touchscreen
+</screen_type>
+<resolution>720 x 1280
+</resolution>
+<battery>Standard Battery Li-Po 2150 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Gravity Sensor,Light sensor,E-compass,Anti-theft 
+</other>
+<wbuy>Pick 7/10;
+</wbuy>
+<video>biLEYJB1AxI
+</video>
+<image>
+<a>lgoptimus4xhd.png</a></image><image>
+<a>lgoptimus4xhd1.png</a></image><image>
+<a>lgoptimus4xhd2.png</a></image></mobile>
+</mobiles>

@@ -1,0 +1,100 @@
+<mobiles>
+
+        <mobile>
+
+          <short_name>sonyericssonxperiaactive</short_name>
+
+          <mobile_name>Sony Ericsson Xperia Active</mobile_name>
+
+          <price> Rs 16000</price>
+
+          <os>Android OS v2.3(Gingerbread)</os>
+
+          <upgradable>----</upgradable>
+
+          <cpu>1 GHz Snapdragon Processor</cpu>
+
+          <chipset>Qualcomm MSM8255 Snapdragon</chipset>
+
+          <gpu>Adreno 205</gpu>
+
+          <radio>Yes</radio>
+
+          <jack>Yes</jack>
+
+          <pcamera>5 MP,with autofocus and LED flash</pcamera>
+
+          <scamera>No</scamera>
+
+          <imemory>320 MB</imemory>
+
+          <ram>512 MB</ram>
+
+          <mcard>Expandable upto 32GB</mcard>
+
+          <twog>GSM 850/900/1800/1900</twog>
+
+          <threeg>HSDPA 900/2100</threeg>
+
+          <fourg>No</fourg>
+
+          <dsim>No</dsim>
+
+          <ssim>Yes</ssim>
+
+          <dimension>92mm x 55mm x 16.5mm</dimension>
+
+          <weight>110.8 g</weight>
+
+          <screen_type>3 inches,LED-backlit LCD, capacitive touchscreen</screen_type>
+
+          <resolution>320 x 480</resolution>
+
+          <battery>1200 mAh</battery>
+
+          <flash>Yes</flash>
+
+          <nfc>----</nfc>
+
+          <bluetooth>Yes,v2.0</bluetooth>
+
+          <wifi>Wi-Fi 802.11 b/g/n,Wi-Fi Hotspot</wifi>
+
+          <gps>Yes</gps>
+
+          <other>Digital Compass,Google Map,ANT+technology,</other>
+
+          <wbuy>Pick 6.5/10</wbuy>
+
+          <video>41ikTQn10i0</video>  
+
+          
+
+    
+
+        <image>
+
+          <a>sonyericssonxperiaactive.png</a>
+
+        </image>
+
+        <image>
+
+          <a>sonyericssonxperiaactive1.png</a>
+
+        </image>
+
+        <image>
+
+          <a>sonyericssonxperiaactive2.png</a>
+
+        </image>
+
+       
+
+        
+
+        </mobile>
+
+</mobiles>
+

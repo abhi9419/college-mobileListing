@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>samsungs5200
+</short_name>
+<mobile_name>Samsung S5200
+</mobile_name>
+<price>Rs 5000 
+</price>
+<os>-----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>-----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>---
+</gpu>
+<radio>Stereo FM With RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,3.5 MP with LED Flash
+</pcamera>
+<scamera>----
+</scamera>
+<imemory>50 MB 
+</imemory>
+<ram>-----
+</ram>
+<mcard>Expandable upto 8GB.
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 900/2100 
+</threeg>
+<fourg>---
+</fourg>
+<dsim>----
+</dsim>
+<ssim>----</ssim>
+<dimension>104 x 49 x 10.9 mm
+</dimension>
+<weight>97 g
+</weight>
+<screen_type>2.1 Inches
+</screen_type>
+<resolution>240 x 320 
+</resolution>
+<battery>Standard Battery Li-Po 800 MAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>----
+</wifi>
+<gps>No
+</gps>
+<other>Organizer,Document Viewer,Fake-Call,Adobe Flash 10.2.
+</other>
+<wbuy>Pick 6.5/10;
+</wbuy>
+<video>8bdnzRmgWBY
+</video>
+<image>
+<a>samsungs5200.png</a></image><image>
+<a>samsungs52001.png</a></image><image>
+<a>samsungs52002.png</a></image></mobile>
+</mobiles>

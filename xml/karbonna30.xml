@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>karbonna30
+</short_name>
+<mobile_name>Karbonn A30
+</mobile_name>
+<price>Rs 11000
+</price>
+<os>Android 4.0(ICS)
+</os>
+<upgradable>-------
+</upgradable>
+<cpu>1 GHz Dual-Core Processor
+</cpu>
+<chipset>----------
+</chipset>
+<gpu>------
+</gpu>
+<radio>Yes
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,8MP with LED flash
+</pcamera>
+<scamera>Yes, 1.3MP Camera
+</scamera>
+<imemory>2GB
+</imemory>
+<ram>512 MB
+</ram>
+<mcard>Expandable upto 32GB.
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 900/2100
+</threeg>
+<fourg>---
+</fourg>
+<dsim>Yes
+</dsim>
+<ssim>No</ssim>
+<dimension>166mm x 91mm x 10.7mm
+</dimension>
+<weight>280g
+</weight>
+<screen_type>5.9 inches TFT Capacitive touch
+</screen_type>
+<resolution>480 x 800
+</resolution>
+<battery>Standard Battery Li-Ion 2500mAh
+</battery>
+<flash>Yes
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes,v4.0
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>World Times,Voice recorder,Ringtone Composer,Currency Converter
+</other>
+<wbuy>Pick 7/10;
+</wbuy>
+<video>-UYFm0HyvEY
+</video>
+<image>
+<a>karbonna30.png</a></image><image>
+<a>karbonna301.png</a></image><image>
+<a>karbonna302.png</a></image></mobile>
+</mobiles>

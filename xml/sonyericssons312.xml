@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>sonyericssons312</short_name>
+          <mobile_name>Sony Ericsson S312</mobile_name>
+          <price> Rs 4600</price>
+          <os>-----</os>
+          <upgradable>----</upgradable>
+          <cpu>-----</cpu>
+          <chipset>------</chipset>
+          <gpu>-----</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>2 MP with LED flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>15 MB</imemory>
+          <ram>-----</ram>
+          <mcard>Expandable upto 4 GB</mcard>
+          <twog>GSM 900/1800</twog>
+          <threeg>No</threeg>
+          <fourg>No</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>100mm x 46mm x 12.5mm</dimension>
+          <weight>80.1 g</weight>
+          <screen_type>2 inches</screen_type>
+          <resolution>176 x 220</resolution>
+          <battery>930 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>-------</nfc>
+          <bluetooth>Yes,v2.0</bluetooth>
+          <wifi>No</wifi>
+          <gps>No</gps>
+          <other>Calculator,Reminders,Alarm</other>
+          <wbuy>Pick 6.5/10</wbuy>
+          <video>gji0dFBArBw</video>  
+          
+    
+        <image>
+          <a>sonyericssons312.png</a>
+        </image>
+        <image>
+          <a>sonyericssons3121.png</a>
+        </image>
+        <image>
+          <a>sonyericssons3122.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

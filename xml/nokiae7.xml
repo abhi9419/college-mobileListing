@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>nokiae7</short_name>
+          <mobile_name>Nokia E7 </mobile_name>
+          <price> Rs 19500</price>
+          <os>Symbian 9.5 OS</os>
+          <upgradable>Upgradable to Symbian Belle OS</upgradable>
+          <cpu>ARM 11 680 MHz Processor</cpu>
+          <chipset>Broadcom BCM2727</chipset>
+          <gpu>3D Graphics HW accelerator</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>8 MP,with auto-focus and dual-LED flash</pcamera>
+          <scamera>VGA camera</scamera>
+          <imemory>16 GB</imemory>
+          <ram>256 MB</ram>
+          <mcard>No</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 850/900/1700/2100</threeg>
+          <fourg>No</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>123.7mm x 62.4mm x 13.6mm</dimension>
+          <weight>176 g</weight>
+          <screen_type>4.0 inches,AMOLED capacitive touchscreen</screen_type>
+          <resolution>360 x 640</resolution>
+          <battery>1200 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>-------</nfc>
+          <bluetooth>Yes,v3.0</bluetooth>
+          <wifi>Wi-Fi 802.11 b/g/n</wifi>
+          <gps>Yes</gps>
+          <other>Digital compass,TV-out,Dolby Plus via HDMI,Document viewer</other>
+          <wbuy>Drop 6/10</wbuy>
+          <video>iDXmK8dGV1E</video>  
+          
+    
+        <image>
+          <a>nokiae7.png</a>
+        </image>
+        <image>
+          <a>nokiae71.png</a>
+        </image>
+        <image>
+          <a>nokiae72.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

@@ -1,0 +1,66 @@
+<mobiles>
+<mobile>
+<short_name>karbonna21</short_name>
+<mobile_name>Karbonn A21</mobile_name>
+<price>9000
+</price>
+<os>Android OS v4.0.3
+</os>
+<upgradable>----
+</upgradable>
+<cpu>1.2 GHz Dual-Core Qualcomm Scorpion Processor
+</cpu>
+<chipset>---
+</chipset>
+<gpu>----
+</gpu>
+<radio>Yes,Stereo FM
+</radio>
+<jack>Present
+</jack>
+<pcamera>5 MP,LED Flash,Auto-Focus</pcamera>
+<scamera>1.3 MP</scamera>
+<imemory>----
+</imemory>
+<ram>512 MB
+</ram>
+<mcard>extendable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg> HSDPA 900/2100 
+</threeg>
+<fourg>---
+</fourg>
+<dsim>Yes, GSM + GSM</dsim>
+<ssim>----</ssim>
+<dimension>-----
+</dimension>
+<weight>----
+</weight>
+<screen_type>4.5 Inches IPS Capacitive Touchscreen
+</screen_type>
+<resolution>480 x 800
+</resolution>
+<battery>Standard Battery Li-Po 1800 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Photo editor,CMOS Sensor,Currency-Converter,Health Mangement,Anonymous Mode,E-Compass</other>
+<wbuy>Pick 7/10;
+</wbuy>
+<video>7of2piEDahs
+</video>
+<image>
+<a>karbonna21.png</a></image><image>
+<a>karbonna211.png</a></image><image>
+<a>karbonna212.png</a></image></mobile>
+</mobiles>

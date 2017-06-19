@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>htcwildfire</short_name>
+          <mobile_name>HTC Wildfire</mobile_name>
+          <price> Rs 10500</price>
+          <os>Android OS v2.1(Eclair)</os>
+          <upgradable>Upgradable to v2.2</upgradable>
+          <cpu>Qualcomm MSM 7225 528 MHz Processor</cpu>
+          <chipset>Qualcomm MSM7225 </chipset>
+          <gpu>--------</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>5 MP,without autofocus and LED flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>512 MB ROM</imemory>
+          <ram>384 MB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 900/2100</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>106.8mm x 60.4mm x 12mm</dimension>
+          <weight>118 g</weight>
+          <screen_type>3.2 inches,TFT Capacitive touchscreen</screen_type>
+          <resolution>240 x 320</resolution>
+          <battery>1300 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes,v2.1</bluetooth>
+          <wifi>Wi-Fi 802.11 b/g</wifi>
+          <gps>Yes</gps>
+          <other>Digital Compass,Google Search,Gmail,Google Talk,Twitter,Picasa integration </other>
+          <wbuy>Pick 7/10</wbuy>
+          <video>azHvS42sCbY</video>  
+          
+    
+        <image>
+          <a>htcwildfire.png</a>
+        </image>
+        <image>
+          <a>htcwildfire1.png</a>
+        </image>
+        <image>
+          <a>htcwildfire2.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

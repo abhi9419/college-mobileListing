@@ -1,0 +1,68 @@
+<mobiles>
+<mobile>
+<short_name>nokiac3-01</short_name>
+<mobile_name>Nokia C3-01</mobile_name>
+<price>8000
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>----
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>5 MP,LED Flash</pcamera>
+<scamera>----
+</scamera>
+<imemory>30 MB
+</imemory>
+<ram>64 MB
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg> HSDPA 850/900/1900/2100 
+</threeg>
+<fourg>---
+</fourg>
+<dsim>----
+</dsim>
+<ssim>----</ssim>
+<dimension>111 x 47.5 x 11 mm
+</dimension>
+<weight>100 g
+</weight>
+<screen_type>2.4 Inches,TFT resistive Touchscreen,256k Colors
+</screen_type>
+<resolution>240 x 320
+</resolution>
+<battery>Standard Battery Li-Po 1050 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Facebook,Document viewer,Voice-Memo,Active Noise cancellation</other>
+<wbuy>Drop 5/10;
+</wbuy>
+<video>
+</video>
+<image>
+<a>nokiac3-01.png</a></image><image>
+<a>nokiac3-011.png</a></image><image>
+<a>nokiac3-012.png</a></image></mobile>
+</mobiles>

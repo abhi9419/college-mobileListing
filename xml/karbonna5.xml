@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>karbonna5
+</short_name>
+<mobile_name>Karbonn A5
+</mobile_name>
+<price>Rs 5000
+</price>
+<os>Android OS v2.3(Gingerbread)
+</os>
+<upgradable>---------
+</upgradable>
+<cpu>800 MHz Processor
+</cpu>
+<chipset>----
+</chipset>
+<gpu>----
+</gpu>
+<radio>Yes,Stereo FM radio
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,2MP
+</pcamera>
+<scamera>No
+</scamera>
+<imemory>----
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/1800/1900
+</twog>
+<threeg>HSDPA 900/2100
+</threeg>
+<fourg>No
+</fourg>
+<dsim>Yes,GSM and GSM
+</dsim>
+<ssim>No</ssim>
+<dimension>----
+</dimension>
+<weight>----
+</weight>
+<screen_type>3.5 inches,Capacitive touchscreen
+</screen_type>
+<resolution>320 x 480
+</resolution>
+<battery>Standard battery,Li-Ion,1420 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes,v2.1
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Anonymous mode,Predictive text,Ringtone composer,Currency converter,Health management
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>karbonna5.png</a></image><image>
+<a>karbonna51.png</a></image><image>
+<a>karbonna52.png</a></image></mobile>
+</mobiles>

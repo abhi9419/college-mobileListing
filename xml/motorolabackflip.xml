@@ -1,0 +1,68 @@
+<mobiles>
+<mobile>
+<short_name>motorolabackflip</short_name>
+<mobile_name>Motorola BACKFLIP</mobile_name>
+<price>15500
+</price>
+<os>Android OS v1.5
+</os>
+<upgradable>----</upgradable>
+<cpu>528 MHz ARM 11 Processor
+</cpu>
+<chipset>Qualcomm
+</chipset>
+<gpu>Adreno 130
+</gpu>
+<radio>----
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,5MP with auto-focus</pcamera>
+<scamera>----
+</scamera>
+<imemory>512 MB Storage
+</imemory>
+<ram>256 MB RAM
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 850//900/1900/2100 HSDPA 850/900/1700/2100 
+</threeg>
+<fourg>---
+</fourg>
+<dsim>---
+</dsim>
+<ssim>----</ssim>
+<dimension>108 x 53 x 15.3 mm
+</dimension>
+<weight>133 g
+</weight>
+<screen_type>3.1 Inches
+</screen_type>
+<resolution>320 x 480 pixels
+</resolution>
+<battery>Standard Battery Li-Po 1400 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n
+</wifi>
+<gps>Yes,A-GPS support
+</gps>
+<other>Facebook,Voice command,Flash Lite v.3.
+</other>
+<wbuy>Drop 6/10;
+</wbuy>
+<video>QHyMCZL9Djk
+</video>
+<image>
+<a>motorolabackflip.png</a></image><image>
+<a>motorolabackflip1.png</a></image><image>
+<a>motorolabackflip2.png</a></image></mobile>
+</mobiles>

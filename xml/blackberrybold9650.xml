@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<mobiles>
+        <mobile>
+          <short_name>blackberrybold9650</short_name>
+          <mobile_name>Blackberry Bold 9650</mobile_name>
+          <price>10000</price>
+          <os>Blackberry OS</os>
+          <upgradable>----</upgradable>
+          <cpu>----</cpu>
+          <chipset>----</chipset>
+          <gpu>----</gpu>
+          <radio>No</radio>
+          <jack>Yes</jack>
+          <pcamera>Yes,3.2MP,autofocus with LED flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>512 MB</imemory>
+          <ram>----</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850 / 900 / 1800 / 1900</twog>
+          <threeg>HSDPA 850 / 900 / 1900 / 2100</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>112mm x 62mm x 14mm</dimension>
+          <weight>136 g</weight>
+          <screen_type>TFT Display</screen_type>
+          <resolution>480 x 360</resolution>
+          <battery>1400 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes,v2.0</bluetooth>
+          <wifi>Yes,Wi-Fi 802.11 b/g</wifi>
+          <gps>Yes</gps>
+          <other>Blackberry maps,Document Editor,Voice memo/dial</other>
+          <wbuy>Pick 6.5/10</wbuy>
+          <video>PmvMVypF6RU</video>  
+          
+    
+        <image>
+          <a>blackberrybold9650.png</a>
+        </image>
+        <image>
+          <a>blackberrybold96501.png</a>
+        </image>
+        <image>
+          <a>blackberrybold96502.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

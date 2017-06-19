@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>sonyxperiazr
+</short_name>
+<mobile_name>Sony Xperia ZR
+</mobile_name>
+<price>Rs 30000
+</price>
+<os>Android OS v4.1(Jelly Bean)
+</os>
+<upgradable>-------
+</upgradable>
+<cpu>1.5 GHz Dual-Core Krait Processor
+</cpu>
+<chipset>Qualcomm snapdragon APQ8064
+</chipset>
+<gpu>Adreno 320
+</gpu>
+<radio>Yes
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,13.1MP with autofocus and LED flash
+</pcamera>
+<scamera>Yes,VGA Camera
+</scamera>
+<imemory>8 GB
+</imemory>
+<ram>2 GB
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 850/900/1900/2100
+</threeg>
+<fourg>LTE 800/850/900/1800
+</fourg>
+<dsim>No
+</dsim>
+<ssim>Yes</ssim>
+<dimension>131.3mm x 67.3mm x 10.5mm
+</dimension>
+<weight>138gms
+</weight>
+<screen_type>4.55 inches,TFT Capacitive touchscreen
+</screen_type>
+<resolution>720 x 1280
+</resolution>
+<battery>Li-Ion 2300 mAh
+</battery>
+<flash>Yes
+</flash>
+<nfc>Yes
+</nfc>
+<bluetooth>Yes,v4.0
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n,Wi-Fi hotspot,Wi-Fi Direct,DLNA
+</wifi>
+<gps>Yes,with A-GPS support
+</gps>
+<other>SNS integration,TV-out,Active noise cancellation with dedicated mic,Document viewer,Google Navigation,Google Play
+</other>
+<wbuy>Pick 7/10;
+</wbuy>
+<video>h1a7KjdUqmA
+</video>
+<image>
+<a>sonyxperiazr.png</a></image><image>
+<a>sonyxperiazr1.png</a></image><image>
+<a>sonyxperiazr2.png</a></image></mobile>
+</mobiles>

@@ -1,0 +1,69 @@
+<mobiles>
+<mobile>
+<short_name>lavab6</short_name>
+<mobile_name>Lava B6</mobile_name>
+<price>3000
+</price>
+<os>----
+</os>
+<upgradable>----
+</upgradable>
+<cpu>MTK 6235
+</cpu>
+<chipset>----
+</chipset>
+<gpu>-----
+</gpu>
+<radio>Stereo FM Radio with RDS
+</radio>
+<jack>Present
+</jack>
+<pcamera>2 MP</pcamera>
+<scamera>Digital Camera
+</scamera>
+<imemory>----
+</imemory>
+<ram>----
+</ram>
+<mcard>Expandable upto 8GB
+</mcard>
+<twog>GSM 900/1800 MHz SIM 1 & SIM 2 
+</twog>
+<threeg>----
+</threeg>
+<fourg>---
+</fourg>
+<dsim>Yes,GSM and GSM
+</dsim>
+<ssim>----</ssim>
+<dimension>----
+</dimension>
+<weight>----
+</weight>
+<screen_type>2.3 Inches TFT,262k colors
+</screen_type>
+<resolution>320 x 240 
+</resolution>
+<battery>Standard Battery Li-Po 1050 mAh
+</battery>
+<flash>No
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes
+</bluetooth>
+<wifi>----
+</wifi>
+<gps>----
+</gps>
+<other>PC Suite,Email,Facebook Ready,USB Support
+</other>
+<wbuy>----
+</wbuy>
+<video>
+</video>
+<image>
+<a>lavab6.png</a></image><image>
+<a>lavab61.png</a></image><image>
+<a>lavab62.png</a></image></mobile>
+</mobiles>

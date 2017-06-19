@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>htcones</short_name>
+          <mobile_name>HTC One S</mobile_name>
+          <price> Rs 23000</price>
+          <os>Android OS,v4.0(ICS)</os>
+          <upgradable>------</upgradable>
+          <cpu>Dual-core 1.7 GHz processor</cpu>
+          <chipset>Qualcomm MSM8260A Snapdragon</chipset>
+          <gpu>Adreno 225</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>8 MP,with autofocus</pcamera>
+          <scamera>VGA Camera</scamera>
+          <imemory>16 GB</imemory>
+          <ram>1 GB MB</ram>
+          <mcard>No</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 850/900/2100</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes,GSM only.</ssim>
+          <dimension>130.9mm x 65mm x 7.8mm</dimension>
+          <weight>119.5 g</weight>
+          <screen_type>4.3 inches,Super AMOLED capacitive touchscreen</screen_type>
+          <resolution>540 x 960</resolution>
+          <battery>1650 mAh</battery>
+          <flash>No</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes,v4.0</bluetooth>
+          <wifi>Wi-Fi 802.11 b/g/n,Wi-Fi hotspot</wifi>
+          <gps>Yes</gps>
+          <other>Beats Audio,Document viewer,Maps,Gmail,YouTube,Picasa Integration</other>
+          <wbuy>Pick 8/10</wbuy>
+          <video>fSNBX-WhMhs</video>  
+          
+    
+        <image>
+          <a>htcones.png</a>
+        </image>
+        <image>
+          <a>htcones1.png</a>
+        </image>
+        <image>
+          <a>htcones2.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

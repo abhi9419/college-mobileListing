@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>htcwildfires</short_name>
+          <mobile_name>HTC Wildfire S</mobile_name>
+          <price> Rs 9000</price>
+          <os>Android OS v2.3(Gingerbread)</os>
+          <upgradable>-------</upgradable>
+          <cpu>600 MHz processor</cpu>
+          <chipset>Qualcomm MSM7227 </chipset>
+          <gpu>Adreno 200</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>5 MP,without autofocus and LED flash</pcamera>
+          <scamera>No</scamera>
+          <imemory>512 MB ROM</imemory>
+          <ram>512 MB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 900/2100</threeg>
+          <fourg>----------</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>101.3mm x 59.4mm x 12.4mm</dimension>
+          <weight>105 g</weight>
+          <screen_type>3.2 inches,TFT Capacitive touchscreen</screen_type>
+          <resolution>320 x 480</resolution>
+          <battery>1230 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>----</nfc>
+          <bluetooth>Yes,v3.0</bluetooth>
+          <wifi>Wi-Fi 802.11 b/g/n</wifi>
+          <gps>Yes</gps>
+          <other>Digital Compass,Google Search,Maps,Gmail,YouTube </other>
+          <wbuy>Pick 7/10</wbuy>
+          <video>VGj3y1ss8Ww</video>  
+          
+    
+        <image>
+          <a>htcwildfires.png</a>
+        </image>
+        <image>
+          <a>htcwildfires1.png</a>
+        </image>
+        <image>
+          <a>htcwildfires2.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

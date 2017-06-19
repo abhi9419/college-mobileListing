@@ -1,0 +1,50 @@
+<mobiles>
+        <mobile>
+          <short_name>nokialumia820</short_name>
+          <mobile_name>Nokia Lumia 820</mobile_name>
+          <price> Rs 26000</price>
+          <os>Microsoft Windows Phone 8</os>
+          <upgradable>------</upgradable>
+          <cpu>1.5 GHz Dual-Core Processor</cpu>
+          <chipset>Qualcomm MSM8960 Snapdragon</chipset>
+          <gpu>Adreno 225</gpu>
+          <radio>Yes</radio>
+          <jack>Yes</jack>
+          <pcamera>8 MP,with autofocus and dual-LED flash</pcamera>
+          <scamera>VGA Camera</scamera>
+          <imemory>8 GB</imemory>
+          <ram>1 GB</ram>
+          <mcard>Expandable upto 32 GB</mcard>
+          <twog>GSM 850/900/1800/1900</twog>
+          <threeg>HSDPA 850/900/1700/2100</threeg>
+          <fourg>LTE 800/1800/2600/2100/900</fourg>
+          <dsim>No</dsim>
+          <ssim>Yes</ssim>
+          <dimension>123.8mm x 68.5mm x 9.9mm</dimension>
+          <weight>160 g</weight>
+          <screen_type>4.3 inches,AMOLED touchscreen</screen_type>
+          <resolution>480 x 800</resolution>
+          <battery>1650 mAh</battery>
+          <flash>Yes</flash>
+          <nfc>Yes</nfc>
+          <bluetooth>Yes,v3.1</bluetooth>
+          <wifi>Wi-Fi 802.11 b/g/n,Wi-Fi Direct</wifi>
+          <gps>Yes</gps>
+          <other>Wireless charging,MicroSIM card support only,SNS integration,Document viewer/editor</other>
+          <wbuy>Pick 7.5/10</wbuy>
+          <video>fOpLINXx_GE</video>  
+          
+    
+        <image>
+          <a>nokialumia820.png</a>
+        </image>
+        <image>
+          <a>nokialumia8201.png</a>
+        </image>
+        <image>
+          <a>nokialumia8202.png</a>
+        </image>
+       
+        
+        </mobile>
+</mobiles>

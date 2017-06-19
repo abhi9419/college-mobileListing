@@ -1,0 +1,72 @@
+<mobiles>
+<mobile>
+<short_name>asusfonepad
+</short_name>
+<mobile_name>Asus Fonepad
+</mobile_name>
+<price>Rs 15500
+</price>
+<os>Android OS v4.1(Jelly Bean)
+</os>
+<upgradable>-------
+</upgradable>
+<cpu>1.2 GHz Processor
+</cpu>
+<chipset>Intel Atom Z2420
+</chipset>
+<gpu>PowerVR SGX540
+</gpu>
+<radio>No
+</radio>
+<jack>Present
+</jack>
+<pcamera>Yes,3.15MP
+</pcamera>
+<scamera>Yes,1.2 MP Camera
+</scamera>
+<imemory>8/16 GB
+</imemory>
+<ram>1 GB
+</ram>
+<mcard>Expandable upto 32GB
+</mcard>
+<twog>GSM 850/900/1800/1900
+</twog>
+<threeg>HSDPA 850/900/1900/2100
+</threeg>
+<fourg>No
+</fourg>
+<dsim>No
+</dsim>
+<ssim>Yes</ssim>
+<dimension>196.4mm x 120.1mm x 10.4mm
+</dimension>
+<weight>340gms
+</weight>
+<screen_type>7 inches,IPS LCD, Capacitive touchscreen
+</screen_type>
+<resolution>1280 x 800
+</resolution>
+<battery>Non-removable Li-Ion 4270mAh
+</battery>
+<flash>Yes
+</flash>
+<nfc>No
+</nfc>
+<bluetooth>Yes,v3.0
+</bluetooth>
+<wifi>Yes,Wi-Fi 802.11 b/g/n,Wi-Fi hotspot
+</wifi>
+<gps>Yes,with A-GPS support
+</gps>
+<other>SNS integration,Active noise cancellation with dedicated mic,Voice memo/dial
+</other>
+<wbuy>Pick 6.5/10;
+</wbuy>
+<video>TuMHScgnRUI
+</video>
+<image>
+<a>asusfonepad.png</a></image><image>
+<a>asusfonepad1.png</a></image><image>
+<a>asusfonepad2.png</a></image></mobile>
+</mobiles>
